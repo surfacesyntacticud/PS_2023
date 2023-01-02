@@ -1,0 +1,11 @@
+package correction {
+  rule lemma_leur {
+    pattern { N [form="leur", upos=PRON] }
+    without { N.lemma = lui }
+    commands { N.lemma = lui }
+  }
+}
+
+strat main {
+  Onf (correction)
+}
