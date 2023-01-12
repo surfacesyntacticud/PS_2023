@@ -1,0 +1,658 @@
+# sent_id = ParisStories_2023_coursBizarre_coursBizarre__1
+# text = mais, du coup, le fait que, ce cours, il soit bizarre, bah, instinctivement, ça nous a tous un peu rapprochés.
+# sound_url = ParisStories_2023_coursBizarre_coursBizarre.mp3
+# speaker = L0
+# user_id = trankitParser100
+# timestamp = 0
+1	mais	mais	CCONJ	_	_	23	cc	_	AlignBegin=0|AlignEnd=357|SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	AlignBegin=357|AlignEnd=357
+3	du	du	ADP	_	_	23	discourse	_	AlignBegin=357|AlignEnd=714
+4	coup	coup	NOUN	_	Gender=Masc|Number=Sing	3	comp:obj	_	AlignBegin=714|AlignEnd=1071|SpaceAfter=No
+5	,	,	PUNCT	_	_	3	punct	_	AlignBegin=1071|AlignEnd=1071
+6	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	7	det	_	AlignBegin=1269|AlignEnd=1504
+7	fait	faire	NOUN	_	Gender=Masc|Number=Sing	23	dislocated	_	AlignBegin=1504|AlignEnd=1738
+8	que	que	SCONJ	_	_	7	mod	_	AlignBegin=1738|AlignEnd=1973|SpaceAfter=No
+9	,	,	PUNCT	_	_	14	punct	_	AlignBegin=1973|AlignEnd=1973
+10	ce	ce	DET	_	Gender=Masc|Number=Sing|PronType=Dem	11	det	_	AlignBegin=1973|AlignEnd=2208
+11	cours	cours	NOUN	_	Gender=Masc|Number=Sing	14	dislocated	_	AlignBegin=2208|AlignEnd=2442|SpaceAfter=No
+12	,	,	PUNCT	_	_	11	punct	_	AlignBegin=2442|AlignEnd=2442
+13	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	subj	_	AlignBegin=2442|AlignEnd=2677
+14	soit	être	AUX	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	comp:obj	_	AlignBegin=2677|AlignEnd=2911
+15	bizarre	bizarre	ADJ	_	Gender=Masc|Number=Sing	14	comp:pred	_	AlignBegin=2911|AlignEnd=3146|SpaceAfter=No
+16	,	,	PUNCT	_	_	17	punct	_	AlignBegin=3146|AlignEnd=3146
+17	bah	bah	INTJ	_	_	23	discourse	_	AlignBegin=4384|AlignEnd=4690|SpaceAfter=No
+18	,	,	PUNCT	_	_	17	punct	_	AlignBegin=4690|AlignEnd=4690
+19	instinctivement	instinctivement	ADV	_	_	23	mod	_	AlignBegin=4690|AlignEnd=4996|SpaceAfter=No
+20	,	,	PUNCT	_	_	19	punct	_	AlignBegin=4996|AlignEnd=4996
+21	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	23	subj	_	AlignBegin=4996|AlignEnd=5302
+22	nous	il	PRON	_	Number=Plur|Person=1|PronType=Prs	27	comp:obj	_	AlignBegin=5302|AlignEnd=5608
+23	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=5608|AlignEnd=5915
+24	tous	tout	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Ind	27	mod	_	AlignBegin=5915|AlignEnd=6221
+25	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	26	det	_	AlignBegin=6221|AlignEnd=6527
+26	peu	peu	NOUN	_	Gender=Masc|Number=Sing	27	mod	_	AlignBegin=6527|AlignEnd=6833
+27	rapprochés	rapprocher	VERB	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	23	comp:aux@tense	_	AlignBegin=6833|AlignEnd=7139|SpaceAfter=No
+28	.	.	PUNCT	_	_	23	punct	_	AlignBegin=7139|AlignEnd=7139
+
+# sent_id = ParisStories_2023_coursBizarre_coursBizarre__2
+# text = et, c'est à ce moment-là, que, euh, elle m'a regardée, qu'on s'est regardée et qu'on a rigolé en se disant " mais, euh, qu'est-ce que c'est que ce truc en fait ? ".
+# sound_url = ParisStories_2023_coursBizarre_coursBizarre.mp3
+# speaker = L0
+# user_id = trankitParser100
+# timestamp = 0
+1	et	et	CCONJ	_	_	4	cc	_	AlignBegin=8368|AlignEnd=8556|SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	AlignBegin=8556|AlignEnd=8556
+3	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	4	subj	_	AlignBegin=8556|AlignEnd=8743|SpaceAfter=No
+4	est	être	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=8743|AlignEnd=8931
+5	à	à	ADP	_	_	4	comp:pred	_	AlignBegin=8931|AlignEnd=8931
+6	ce	ce	DET	_	Gender=Masc|Number=Sing|PronType=Dem	7	det	_	AlignBegin=8931|AlignEnd=9118
+7	moment	moment	NOUN	_	Gender=Masc|Number=Sing	5	comp:obj	_	AlignBegin=9118|AlignEnd=9306|SpaceAfter=No
+8	-là	là	ADV	_	_	7	mod	_	AlignBegin=9306|AlignEnd=9493|SpaceAfter=No
+9	,	,	PUNCT	_	_	10	punct	_	AlignBegin=9493|AlignEnd=9493
+10	que	que	SCONJ	_	_	4	comp:cleft	_	AlignBegin=10907|AlignEnd=11184|SpaceAfter=No
+11	,	,	PUNCT	_	_	16	punct	_	AlignBegin=11184|AlignEnd=11184
+12	euh	euh	INTJ	_	_	16	discourse	_	AlignBegin=11184|AlignEnd=11460|SpaceAfter=No
+13	,	,	PUNCT	_	_	12	punct	_	AlignBegin=11460|AlignEnd=11460
+14	elle	il	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Prs	16	subj	_	AlignBegin=11460|AlignEnd=11737
+15	m'	lui	PRON	_	Number=Sing|Person=1|PronType=Prs	17	comp:obj	_	AlignBegin=11737|AlignEnd=12014|SpaceAfter=No
+16	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	comp:obj	_	AlignBegin=12014|AlignEnd=12290
+17	regardée	regarder	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	16	comp:aux@tense	_	AlignBegin=12290|AlignEnd=12567|SpaceAfter=No
+18	,	,	PUNCT	_	_	19	punct	_	AlignBegin=12567|AlignEnd=12567
+19	qu'	que	SCONJ	_	_	10	conj:coord	_	AlignBegin=12567|AlignEnd=12843|SpaceAfter=No
+20	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	22	subj	_	AlignBegin=12843|AlignEnd=13120
+21	s'	se	PRON	_	Person=3|PronType=Prs|Reflex=Yes	23	comp:obj	_	AlignBegin=13120|AlignEnd=13397|SpaceAfter=No
+22	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	comp:obj	_	AlignBegin=13397|AlignEnd=13673
+23	regardée	regarder	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	22	comp:aux@tense	_	AlignBegin=13673|AlignEnd=13950
+24	et	et	CCONJ	_	_	25	cc	_	AlignBegin=13950|AlignEnd=14227
+25	qu'	que	SCONJ	_	_	19	conj:coord	_	AlignBegin=14227|AlignEnd=14503|SpaceAfter=No
+26	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	27	subj	_	AlignBegin=14503|AlignEnd=14780
+27	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	25	comp:obj	_	AlignBegin=14780|AlignEnd=15056
+28	rigolé	rigoler	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	27	comp:aux@tense	_	AlignBegin=15056|AlignEnd=15333
+29	en	en	ADP	_	_	28	mod	_	AlignBegin=16170|AlignEnd=16396
+30	se	se	PRON	_	Person=3|PronType=Prs	31	comp:obl	_	AlignBegin=16396|AlignEnd=16621
+31	disant	dire	VERB	_	Tense=Pres|VerbForm=Part	29	comp:obj	_	AlignBegin=16621|AlignEnd=16847
+32	"	"	PUNCT	_	_	38	punct	_	AlignBegin=16847|AlignEnd=16847
+33	mais	mais	CCONJ	_	_	38	cc	_	AlignBegin=16847|AlignEnd=17072|SpaceAfter=No
+34	,	,	PUNCT	_	_	33	punct	_	AlignBegin=17072|AlignEnd=17072
+35	euh	euh	INTJ	_	_	33	discourse	_	AlignBegin=17072|AlignEnd=17298|SpaceAfter=No
+36	,	,	PUNCT	_	_	35	punct	_	AlignBegin=17298|AlignEnd=17298
+37	qu'	que	PRON	_	Person=3|PronType=Int	38	comp:pred	_	AlignBegin=17298|AlignEnd=17523|SpaceAfter=No
+38	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	31	comp:obj	_	AlignBegin=17523|AlignEnd=17749|SpaceAfter=No
+39	-ce	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	38	subj@expl	_	AlignBegin=17749|AlignEnd=17974
+40	que	que	SCONJ	_	_	38	comp:pred	_	AlignBegin=17974|AlignEnd=18200
+41	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	42	subj@expl	_	AlignBegin=18200|AlignEnd=18425|SpaceAfter=No
+42	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	40	comp:obj	_	AlignBegin=18425|AlignEnd=18651
+43	que	que	SCONJ	_	_	42	dislocated	_	AlignBegin=18651|AlignEnd=18876
+44	ce	ce	DET	_	Gender=Masc|Number=Sing|PronType=Dem	45	det	_	AlignBegin=18876|AlignEnd=19102
+45	truc	truc	NOUN	_	Gender=Masc|Number=Sing	43	comp:obj	_	AlignBegin=19102|AlignEnd=19327
+46	en	en	ADP	_	_	45	discourse	_	AlignBegin=19327|AlignEnd=19553
+47	fait	faire	NOUN	_	Gender=Masc|Number=Sing	46	comp:obj	_	AlignBegin=19553|AlignEnd=19778
+48	?	?	PUNCT	_	_	38	punct	_	AlignBegin=19778|AlignEnd=19778
+49	"	"	PUNCT	_	_	38	punct	_	AlignBegin=19778|AlignEnd=19778|SpaceAfter=No
+50	.	.	PUNCT	_	_	4	punct	_	AlignBegin=19778|AlignEnd=19778
+
+# sent_id = ParisStories_2023_coursBizarre_coursBizarre__3
+# text = et, bref.
+# sound_url = ParisStories_2023_coursBizarre_coursBizarre.mp3
+# speaker = L0
+# user_id = trankitParser100
+# timestamp = 0
+1	et	et	CCONJ	_	_	0	root	_	AlignBegin=20869|AlignEnd=21197|SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	AlignBegin=21197|AlignEnd=21197
+3	bref	bref	INTJ	_	_	1	discourse	_	AlignBegin=21197|AlignEnd=21524|SpaceAfter=No
+4	.	.	PUNCT	_	_	1	punct	_	AlignBegin=21524|AlignEnd=21524
+
+# sent_id = ParisStories_2023_coursBizarre_coursBizarre__4
+# text = euh, c'était trois heures de cours.
+# sound_url = ParisStories_2023_coursBizarre_coursBizarre.mp3
+# speaker = L0
+# user_id = trankitParser100
+# timestamp = 0
+1	euh	euh	INTJ	_	_	4	discourse	_	AlignBegin=23649|AlignEnd=24001|SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	AlignBegin=24001|AlignEnd=24001
+3	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	4	subj	_	AlignBegin=24001|AlignEnd=24354|SpaceAfter=No
+4	était	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	AlignBegin=24354|AlignEnd=24706
+5	trois	trois	NUM	_	Number=Plur	6	det	_	AlignBegin=24706|AlignEnd=25058
+6	heures	heure	NOUN	_	Gender=Fem|Number=Plur	4	comp:pred	_	AlignBegin=25058|AlignEnd=25410
+7	de	de	ADP	_	_	6	mod	_	AlignBegin=25410|AlignEnd=25763
+8	cours	cours	NOUN	_	Gender=Masc|Number=Sing	7	comp:obj	_	AlignBegin=25763|AlignEnd=26115|SpaceAfter=No
+9	.	.	PUNCT	_	_	4	punct	_	AlignBegin=26115|AlignEnd=26115
+
+# sent_id = ParisStories_2023_coursBizarre_coursBizarre__5
+# text = donc on a eu une pause.
+# sound_url = ParisStories_2023_coursBizarre_coursBizarre.mp3
+# speaker = L0
+# user_id = trankitParser100
+# timestamp = 0
+1	donc	donc	ADV	_	_	3	mod	_	AlignBegin=26298|AlignEnd=26513
+2	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	3	subj	_	AlignBegin=26513|AlignEnd=26727
+3	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=26727|AlignEnd=26942
+4	eu	avoir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	comp:aux@tense	_	AlignBegin=26942|AlignEnd=27156
+5	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	6	det	_	AlignBegin=27156|AlignEnd=27371
+6	pause	pause	NOUN	_	Gender=Fem|Number=Sing	4	comp:obj	_	AlignBegin=27371|AlignEnd=27585|SpaceAfter=No
+7	.	.	PUNCT	_	_	3	punct	_	AlignBegin=27585|AlignEnd=27585
+
+# sent_id = ParisStories_2023_coursBizarre_coursBizarre__6
+# text = et, euh, en fait à la pause, je, j'étais assise pas très loin, euh, des filles.
+# sound_url = ParisStories_2023_coursBizarre_coursBizarre.mp3
+# speaker = L0
+# user_id = trankitParser100
+# timestamp = 0
+1	et	et	CCONJ	_	_	14	cc	_	AlignBegin=28353|AlignEnd=28645|SpaceAfter=No
+2	,	,	PUNCT	_	_	3	punct	_	AlignBegin=28645|AlignEnd=28645
+3	euh	euh	INTJ	_	_	1	discourse	_	AlignBegin=28645|AlignEnd=28937|SpaceAfter=No
+4	,	,	PUNCT	_	_	1	punct	_	AlignBegin=28937|AlignEnd=28937
+5	en	en	ADP	_	_	14	discourse	_	AlignBegin=28937|AlignEnd=29230
+6	fait	faire	NOUN	_	Gender=Masc|Number=Sing	5	comp:obj	_	AlignBegin=29230|AlignEnd=29522
+7	à	à	ADP	_	_	14	mod	_	AlignBegin=29522|AlignEnd=29522
+8	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	9	det	_	AlignBegin=29522|AlignEnd=29814
+9	pause	pause	NOUN	_	Gender=Fem|Number=Sing	7	comp:obj	_	AlignBegin=29814|AlignEnd=30106|SpaceAfter=No
+10	,	,	PUNCT	_	_	7	punct	_	AlignBegin=30106|AlignEnd=30106
+11	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	14	subj	_	AlignBegin=30106|AlignEnd=30398|SpaceAfter=No
+12	,	,	PUNCT	_	_	13	punct	_	AlignBegin=30398|AlignEnd=30398
+13	j'	il	PRON	_	Number=Sing|Person=1|PronType=Prs	11	conj:dicto	_	AlignBegin=30398|AlignEnd=30691|SpaceAfter=No
+14	étais	être	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	AlignBegin=30691|AlignEnd=30983
+15	assise	assise	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	14	comp:aux@pass	_	AlignBegin=30983|AlignEnd=31275
+16	pas	pas	ADV	_	_	17	mod	_	AlignBegin=31444|AlignEnd=31744
+17	très	très	ADV	_	_	18	mod	_	AlignBegin=31744|AlignEnd=32043
+18	loin	loin	ADV	_	_	15	mod	_	AlignBegin=32043|AlignEnd=32343|SpaceAfter=No
+19	,	,	PUNCT	_	_	23	punct	_	AlignBegin=32343|AlignEnd=32343
+20	euh	euh	INTJ	_	_	23	discourse	_	AlignBegin=32343|AlignEnd=32643|SpaceAfter=No
+21	,	,	PUNCT	_	_	20	punct	_	AlignBegin=32643|AlignEnd=32643
+22	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	23	det	_	AlignBegin=32643|AlignEnd=32942
+23	filles	fille	NOUN	_	Gender=Fem|Number=Plur	14	mod	_	AlignBegin=32942|AlignEnd=33242|SpaceAfter=No
+24	.	.	PUNCT	_	_	14	punct	_	AlignBegin=33242|AlignEnd=33242
+
+# sent_id = ParisStories_2023_coursBizarre_coursBizarre__7
+# text = et, euh, en discutant, en fait, on se rend compte qu'on est dans la même licence, alors qu'on s'est jamais vues, on s'est jamais parlée, enfin, on n'a jamais fait attention les unes aux autres, quoi.
+# sound_url = ParisStories_2023_coursBizarre_coursBizarre.mp3
+# speaker = L0
+# user_id = trankitParser100
+# timestamp = 0
+1	et	et	CCONJ	_	_	13	cc	_	AlignBegin=34535|AlignEnd=34887|SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	AlignBegin=34887|AlignEnd=34887
+3	euh	euh	INTJ	_	_	13	discourse	_	AlignBegin=34887|AlignEnd=35239|SpaceAfter=No
+4	,	,	PUNCT	_	_	3	punct	_	AlignBegin=35239|AlignEnd=35239
+5	en	en	ADP	_	_	13	mod	_	AlignBegin=35516|AlignEnd=35711
+6	discutant	discuter	VERB	_	Tense=Pres|VerbForm=Part	5	comp:obj	_	AlignBegin=35711|AlignEnd=35906|SpaceAfter=No
+7	,	,	PUNCT	_	_	8	punct	_	AlignBegin=35906|AlignEnd=35906
+8	en	en	ADP	_	_	6	discourse	_	AlignBegin=35906|AlignEnd=36100
+9	fait	faire	NOUN	_	Gender=Masc|Number=Sing	8	comp:obj	_	AlignBegin=36100|AlignEnd=36295|SpaceAfter=No
+10	,	,	PUNCT	_	_	8	punct	_	AlignBegin=36295|AlignEnd=36295
+11	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	13	subj	_	AlignBegin=36295|AlignEnd=36490
+12	se	se	PRON	_	Person=3|PronType=Prs	13	comp@expl	_	AlignBegin=36490|AlignEnd=36685
+13	rend	rendre	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=36685|AlignEnd=36880
+14	compte	compte	NOUN	_	Gender=Masc|Number=Sing	13	comp:obj@lvc	_	AlignBegin=36880|AlignEnd=37074
+15	qu'	que	SCONJ	_	_	14	mod	_	AlignBegin=37074|AlignEnd=37269|SpaceAfter=No
+16	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	17	subj	_	AlignBegin=37269|AlignEnd=37464
+17	est	être	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	comp:obj	_	AlignBegin=37464|AlignEnd=37659
+18	dans	dans	ADP	_	_	17	comp:obl	_	AlignBegin=37659|AlignEnd=37854
+19	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	21	det	_	AlignBegin=37854|AlignEnd=38048
+20	même	même	ADJ	_	Number=Sing	21	mod	_	AlignBegin=38048|AlignEnd=38243
+21	licence	licence	NOUN	_	Gender=Fem|Number=Sing	18	comp:obj	_	AlignBegin=38243|AlignEnd=38438|SpaceAfter=No
+22	,	,	PUNCT	_	_	23	punct	_	AlignBegin=38438|AlignEnd=38438
+23	alors	alors	ADV	_	_	17	mod	_	AlignBegin=39413|AlignEnd=39646
+24	qu'	que	SCONJ	_	_	23	unk	_	AlignBegin=39646|AlignEnd=39878|SpaceAfter=No
+25	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	27	subj	_	AlignBegin=39878|AlignEnd=40111
+26	s'	se	PRON	_	Person=3|PronType=Prs|Reflex=Yes	29	comp:obj	_	AlignBegin=40111|AlignEnd=40343|SpaceAfter=No
+27	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23	comp:obj	_	AlignBegin=40343|AlignEnd=40576
+28	jamais	jamais	ADV	_	PronType=Neg	27	mod	_	AlignBegin=40576|AlignEnd=40808
+29	vues	vue	VERB	_	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	27	comp:aux@tense	_	AlignBegin=40808|AlignEnd=41041|SpaceAfter=No
+30	,	,	PUNCT	_	_	33	punct	_	AlignBegin=41041|AlignEnd=41041
+31	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	33	subj	_	AlignBegin=41041|AlignEnd=41273
+32	s'	se	PRON	_	Person=3|PronType=Prs|Reflex=Yes	35	comp:obj	_	AlignBegin=41273|AlignEnd=41506|SpaceAfter=No
+33	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	27	conj:dicto	_	AlignBegin=41506|AlignEnd=41738
+34	jamais	jamais	ADV	_	PronType=Neg	35	mod	_	AlignBegin=41738|AlignEnd=41971
+35	parlée	parler	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	33	comp:aux@pass	_	AlignBegin=41971|AlignEnd=42203|SpaceAfter=No
+36	,	,	PUNCT	_	_	41	punct	_	AlignBegin=42203|AlignEnd=42203
+37	enfin	enfin	ADV	_	_	41	discourse	_	AlignBegin=42827|AlignEnd=43002|SpaceAfter=No
+38	,	,	PUNCT	_	_	37	punct	_	AlignBegin=43002|AlignEnd=43002
+39	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	41	subj	_	AlignBegin=43002|AlignEnd=43178
+40	n'	ne	ADV	_	_	41	mod	_	AlignBegin=43178|AlignEnd=43353|SpaceAfter=No
+41	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	33	conj:dicto	_	AlignBegin=43353|AlignEnd=43529
+42	jamais	jamais	ADV	_	PronType=Neg	41	mod	_	AlignBegin=43529|AlignEnd=43704
+43	fait	faire	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	41	comp:aux@tense	_	AlignBegin=43704|AlignEnd=43880
+44	attention	attention	NOUN	_	Gender=Fem|Number=Sing	43	comp:obj@lvc	_	AlignBegin=43880|AlignEnd=44055
+45	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	46	det	_	AlignBegin=44055|AlignEnd=44230
+46	unes	un	PRON	_	Gender=Fem|Number=Plur|Person=3|PronType=Ind	43	mod	_	AlignBegin=44230|AlignEnd=44406
+47	aux	au	ADP	_	_	44	udep	_	AlignBegin=44406|AlignEnd=44581
+48	autres	autre	PRON	_	Number=Plur|Person=3|PronType=Ind	47	comp:obj	_	AlignBegin=44581|AlignEnd=44757|SpaceAfter=No
+49	,	,	PUNCT	_	_	50	punct	_	AlignBegin=44757|AlignEnd=44757
+50	quoi	quoi	INTJ	_	_	48	discourse	_	AlignBegin=44757|AlignEnd=44932|SpaceAfter=No
+51	.	.	PUNCT	_	_	13	punct	_	AlignBegin=44932|AlignEnd=44932
+
+# sent_id = ParisStories_2023_coursBizarre_coursBizarre__8
+# text = et, du coup, bah, c'était super drôle.
+# sound_url = ParisStories_2023_coursBizarre_coursBizarre.mp3
+# speaker = L0
+# user_id = trankitParser100
+# timestamp = 0
+1	et	et	CCONJ	_	_	9	cc	_	AlignBegin=46500|AlignEnd=46689|SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	AlignBegin=46689|AlignEnd=46689
+3	du	du	ADP	_	_	9	discourse	_	AlignBegin=46689|AlignEnd=46877
+4	coup	coup	NOUN	_	Gender=Masc|Number=Sing	3	comp:obj	_	AlignBegin=46877|AlignEnd=47066|SpaceAfter=No
+5	,	,	PUNCT	_	_	3	punct	_	AlignBegin=47066|AlignEnd=47066
+6	bah	bah	INTJ	_	_	9	discourse	_	AlignBegin=47066|AlignEnd=47255|SpaceAfter=No
+7	,	,	PUNCT	_	_	9	punct	_	AlignBegin=47255|AlignEnd=47255
+8	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	9	subj	_	AlignBegin=47255|AlignEnd=47443|SpaceAfter=No
+9	était	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	AlignBegin=47443|AlignEnd=47632
+10	super	super	ADV	_	_	11	mod	_	AlignBegin=47632|AlignEnd=47820
+11	drôle	drôle	ADJ	_	Number=Sing	9	comp:pred	_	AlignBegin=47820|AlignEnd=48009|SpaceAfter=No
+12	.	.	PUNCT	_	_	9	punct	_	AlignBegin=48009|AlignEnd=48009
+
+# sent_id = ParisStories_2023_coursBizarre_coursBizarre__9
+# text = mais, enfin, bref, on continue le cours, tout ça.
+# sound_url = ParisStories_2023_coursBizarre_coursBizarre.mp3
+# speaker = L0
+# user_id = trankitParser100
+# timestamp = 0
+1	mais	mais	CCONJ	_	_	8	cc	_	AlignBegin=48617|AlignEnd=48821|SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	AlignBegin=48821|AlignEnd=48821
+3	enfin	enfin	ADV	_	_	8	discourse	_	AlignBegin=48821|AlignEnd=49026|SpaceAfter=No
+4	,	,	PUNCT	_	_	3	punct	_	AlignBegin=49026|AlignEnd=49026
+5	bref	bref	INTJ	_	_	8	discourse	_	AlignBegin=49026|AlignEnd=49230|SpaceAfter=No
+6	,	,	PUNCT	_	_	5	punct	_	AlignBegin=49230|AlignEnd=49230
+7	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	8	subj	_	AlignBegin=49338|AlignEnd=49607
+8	continue	continuer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=49607|AlignEnd=49875
+9	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art|Shared=No	10	det	_	AlignBegin=49875|AlignEnd=50144
+10	cours	cours	NOUN	_	Gender=Masc|Number=Sing	8	comp:obj	_	AlignBegin=50144|AlignEnd=50413|SpaceAfter=No
+11	,	,	PUNCT	_	_	13	punct	_	AlignBegin=50413|AlignEnd=50413
+12	tout	tout	ADJ	_	Gender=Masc|Number=Sing|PronType=Ind	13	mod	_	AlignBegin=50413|AlignEnd=50681
+13	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	10	conj:coord	_	AlignBegin=50681|AlignEnd=50950|SpaceAfter=No
+14	.	.	PUNCT	_	_	8	punct	_	AlignBegin=50950|AlignEnd=50950
+
+# sent_id = ParisStories_2023_coursBizarre_coursBizarre__10
+# text = et à la fin du cours, il y en a une qui vient me voir et qui me dit " ouais, ça te dit de, de venir manger avec nous ? ".
+# sound_url = ParisStories_2023_coursBizarre_coursBizarre.mp3
+# speaker = L0
+# user_id = trankitParser100
+# timestamp = 0
+1	et	et	CCONJ	_	_	11	cc	_	AlignBegin=51347|AlignEnd=51490
+2	à	à	ADP	_	_	11	mod	_	AlignBegin=51490|AlignEnd=51490
+3	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	AlignBegin=51490|AlignEnd=51632
+4	fin	fin	NOUN	_	Gender=Fem|Number=Sing	2	comp:obj	_	AlignBegin=51632|AlignEnd=51775
+5	du	du	ADP	_	_	4	udep	_	AlignBegin=51775|AlignEnd=51918
+6	cours	cours	NOUN	_	Gender=Masc|Number=Sing	5	comp:obj	_	AlignBegin=51918|AlignEnd=52060|SpaceAfter=No
+7	,	,	PUNCT	_	_	2	punct	_	AlignBegin=52060|AlignEnd=52060
+8	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	subj@expl	_	AlignBegin=52060|AlignEnd=52203
+9	y	y	PRON	_	Person=3|PronType=Prs	11	comp@expl	_	AlignBegin=52203|AlignEnd=52346
+10	en	en	PRON	_	Person=3|PronType=Prs	12	mod	_	AlignBegin=52346|AlignEnd=52488
+11	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=52488|AlignEnd=52631
+12	une	un	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Ind	11	comp:obj	_	AlignBegin=52631|AlignEnd=52773
+13	qui	qui	PRON	_	PronType=Rel	14	subj	_	AlignBegin=52773|AlignEnd=52916
+14	vient	venir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	mod@relcl	_	AlignBegin=52916|AlignEnd=53059
+15	me	lui	PRON	_	Number=Sing|Person=1|PronType=Prs	16	comp:obj	_	AlignBegin=53059|AlignEnd=53201
+16	voir	voir	VERB	_	VerbForm=Inf	14	comp:obj	_	AlignBegin=53201|AlignEnd=53344
+17	et	et	CCONJ	_	_	20	cc	_	AlignBegin=53768|AlignEnd=54052
+18	qui	qui	PRON	_	PronType=Rel	20	subj	_	AlignBegin=54052|AlignEnd=54336
+19	me	lui	PRON	_	Number=Sing|Person=1|PronType=Prs	20	comp:obl	_	AlignBegin=54336|AlignEnd=54620
+20	dit	dire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	conj:coord	_	AlignBegin=54620|AlignEnd=54904
+21	"	"	PUNCT	_	_	26	punct	_	AlignBegin=54904|AlignEnd=54904
+22	ouais	ouais	INTJ	_	_	26	discourse	_	AlignBegin=54904|AlignEnd=55188|SpaceAfter=No
+23	,	,	PUNCT	_	_	22	punct	_	AlignBegin=55188|AlignEnd=55188
+24	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	26	subj	_	AlignBegin=55188|AlignEnd=55472
+25	te	lui	PRON	_	Number=Sing|Person=2|PronType=Prs	26	comp:obl	_	AlignBegin=55472|AlignEnd=55756
+26	dit	dire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	comp:obj	_	AlignBegin=55756|AlignEnd=56040
+27	de	de	ADP	_	_	26	comp:obl	_	AlignBegin=56040|AlignEnd=56324|SpaceAfter=No
+28	,	,	PUNCT	_	_	29	punct	_	AlignBegin=56324|AlignEnd=56324
+29	de	de	ADP	_	_	27	conj:dicto	_	AlignBegin=57041|AlignEnd=57202
+30	venir	venir	VERB	_	VerbForm=Inf	29	comp:obj	_	AlignBegin=57202|AlignEnd=57363
+31	manger	manger	VERB	_	VerbForm=Inf	30	comp:obj	_	AlignBegin=57363|AlignEnd=57524
+32	avec	avec	ADP	_	_	31	mod	_	AlignBegin=57524|AlignEnd=57685
+33	nous	il	PRON	_	Number=Plur|Person=1|PronType=Prs	32	comp:obj	_	AlignBegin=57685|AlignEnd=57846
+34	?	?	PUNCT	_	_	26	punct	_	AlignBegin=57846|AlignEnd=57846
+35	"	"	PUNCT	_	_	26	punct	_	AlignBegin=57846|AlignEnd=57846|SpaceAfter=No
+36	.	.	PUNCT	_	_	11	punct	_	AlignBegin=57846|AlignEnd=57846
+
+# sent_id = ParisStories_2023_coursBizarre_coursBizarre__11
+# text = euh, du coup, bah, moi, euh, évidemment, j'ai dit " oui ".
+# sound_url = ParisStories_2023_coursBizarre_coursBizarre.mp3
+# speaker = L0
+# user_id = trankitParser100
+# timestamp = 0
+1	euh	euh	INTJ	_	_	15	discourse	_	AlignBegin=60173|AlignEnd=60452|SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	AlignBegin=60452|AlignEnd=60452
+3	du	du	ADP	_	_	15	discourse	_	AlignBegin=60452|AlignEnd=60731
+4	coup	coup	NOUN	_	Gender=Masc|Number=Sing	3	comp:obj	_	AlignBegin=60731|AlignEnd=61010|SpaceAfter=No
+5	,	,	PUNCT	_	_	3	punct	_	AlignBegin=61010|AlignEnd=61010
+6	bah	bah	INTJ	_	_	15	discourse	_	AlignBegin=61010|AlignEnd=61289|SpaceAfter=No
+7	,	,	PUNCT	_	_	6	punct	_	AlignBegin=61289|AlignEnd=61289
+8	moi	lui	PRON	_	Number=Sing|Person=1|PronType=Prs	15	dislocated	_	AlignBegin=61289|AlignEnd=61568|SpaceAfter=No
+9	,	,	PUNCT	_	_	10	punct	_	AlignBegin=61568|AlignEnd=61568
+10	euh	euh	INTJ	_	_	8	discourse	_	AlignBegin=61568|AlignEnd=61846|SpaceAfter=No
+11	,	,	PUNCT	_	_	10	punct	_	AlignBegin=61846|AlignEnd=61846
+12	évidemment	évidemment	ADV	_	_	15	mod	_	AlignBegin=61846|AlignEnd=62125|SpaceAfter=No
+13	,	,	PUNCT	_	_	12	punct	_	AlignBegin=62125|AlignEnd=62125
+14	j'	il	PRON	_	Number=Sing|Person=1|PronType=Prs	15	subj	_	AlignBegin=62125|AlignEnd=62404|SpaceAfter=No
+15	ai	avoir	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=62404|AlignEnd=62683
+16	dit	dire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	comp:aux@tense	_	AlignBegin=62683|AlignEnd=62962
+17	"	"	PUNCT	_	_	18	punct	_	AlignBegin=62962|AlignEnd=62962
+18	oui	oui	ADV	_	_	16	comp:obj	_	AlignBegin=62962|AlignEnd=63241
+19	"	"	PUNCT	_	_	18	punct	_	AlignBegin=63241|AlignEnd=63241|SpaceAfter=No
+20	.	.	PUNCT	_	_	15	punct	_	AlignBegin=63241|AlignEnd=63241
+
+# sent_id = ParisStories_2023_coursBizarre_coursBizarre__12
+# text = donc, on va à la cafet.
+# sound_url = ParisStories_2023_coursBizarre_coursBizarre.mp3
+# speaker = L0
+# user_id = trankitParser100
+# timestamp = 0
+1	donc	donc	ADV	_	_	4	mod	_	AlignBegin=64056|AlignEnd=64373|SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	AlignBegin=64373|AlignEnd=64373
+3	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	4	subj	_	AlignBegin=64373|AlignEnd=64690
+4	va	aller	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=64690|AlignEnd=65008
+5	à	à	ADP	_	_	4	comp:obl	_	AlignBegin=65008|AlignEnd=65008
+6	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	AlignBegin=65008|AlignEnd=65325
+7	cafet	cafet	NOUN	_	Gender=Fem|Number=Sing	5	comp:obj	_	AlignBegin=65325|AlignEnd=65642|SpaceAfter=No
+8	.	.	PUNCT	_	_	4	punct	_	AlignBegin=65642|AlignEnd=65642
+
+# sent_id = ParisStories_2023_coursBizarre_coursBizarre__13
+# text = et, euh, mh, et en fait, à ce moment-là, c'était trop bien parce que du coup, on se racontait nos vies.
+# sound_url = ParisStories_2023_coursBizarre_coursBizarre.mp3
+# speaker = L0
+# user_id = trankitParser100
+# timestamp = 0
+1	et	et	CCONJ	_	_	17	cc	_	AlignBegin=66978|AlignEnd=67402|SpaceAfter=No
+2	,	,	PUNCT	_	_	3	punct	_	AlignBegin=67402|AlignEnd=67402
+3	euh	euh	INTJ	_	_	17	discourse	_	AlignBegin=67402|AlignEnd=67827|SpaceAfter=No
+4	,	,	PUNCT	_	_	3	punct	_	AlignBegin=67827|AlignEnd=67827
+5	mh	mh	INTJ	_	_	1	discourse	_	AlignBegin=67827|AlignEnd=68251|SpaceAfter=No
+6	,	,	PUNCT	_	_	5	punct	_	AlignBegin=68251|AlignEnd=68251
+7	et	et	CCONJ	_	_	17	cc	_	AlignBegin=68949|AlignEnd=69113
+8	en	en	ADP	_	_	17	discourse	_	AlignBegin=69113|AlignEnd=69277
+9	fait	faire	NOUN	_	Gender=Masc|Number=Sing	8	comp:obj	_	AlignBegin=69277|AlignEnd=69441|SpaceAfter=No
+10	,	,	PUNCT	_	_	8	punct	_	AlignBegin=69441|AlignEnd=69441
+11	à	à	ADP	_	_	17	mod	_	AlignBegin=69441|AlignEnd=69441
+12	ce	ce	DET	_	Gender=Masc|Number=Sing|PronType=Dem	13	det	_	AlignBegin=69441|AlignEnd=69604
+13	moment	moment	NOUN	_	Gender=Masc|Number=Sing	11	comp:obj	_	AlignBegin=69604|AlignEnd=69768|SpaceAfter=No
+14	-là	là	ADV	_	_	13	mod	_	AlignBegin=69768|AlignEnd=69932|SpaceAfter=No
+15	,	,	PUNCT	_	_	11	punct	_	AlignBegin=69932|AlignEnd=69932
+16	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	17	subj	_	AlignBegin=69932|AlignEnd=70096|SpaceAfter=No
+17	était	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	AlignBegin=70096|AlignEnd=70260
+18	trop	trop	ADV	_	_	19	mod	_	AlignBegin=70260|AlignEnd=70424
+19	bien	bien	ADV	_	_	17	comp:pred	_	AlignBegin=70424|AlignEnd=70588
+20	parce	parce	ADV	_	_	17	mod	_	AlignBegin=70588|AlignEnd=70751
+21	que	que	SCONJ	_	_	20	unk	_	AlignBegin=70751|AlignEnd=70915
+22	du	du	ADP	_	_	27	discourse	_	AlignBegin=70915|AlignEnd=71079
+23	coup	coup	NOUN	_	Gender=Masc|Number=Sing	22	comp:obj	_	AlignBegin=71079|AlignEnd=71243|SpaceAfter=No
+24	,	,	PUNCT	_	_	22	punct	_	AlignBegin=71243|AlignEnd=71243
+25	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	27	subj	_	AlignBegin=71732|AlignEnd=71972
+26	se	se	PRON	_	Person=3|PronType=Prs|Reflex=Yes	27	comp:obl	_	AlignBegin=71972|AlignEnd=72213
+27	racontait	raconter	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	20	comp:obj	_	AlignBegin=72213|AlignEnd=72453
+28	nos	son	DET	_	Number=Plur|Number[psor]=Plur|Person[psor]=1|Poss=Yes|PronType=Prs	29	det	_	AlignBegin=72453|AlignEnd=72694
+29	vies	vie	NOUN	_	Gender=Fem|Number=Plur	27	comp:obj	_	AlignBegin=72694|AlignEnd=72934|SpaceAfter=No
+30	.	.	PUNCT	_	_	17	punct	_	AlignBegin=72934|AlignEnd=72934
+
+# sent_id = ParisStories_2023_coursBizarre_coursBizarre__14
+# text = euh, elles me racontaient la leur.
+# sound_url = ParisStories_2023_coursBizarre_coursBizarre.mp3
+# speaker = L0
+# user_id = trankitParser100
+# timestamp = 0
+1	euh	euh	INTJ	_	_	5	discourse	_	AlignBegin=73731|AlignEnd=73991|SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	AlignBegin=73991|AlignEnd=73991
+3	elles	il	PRON	_	Gender=Fem|Number=Plur|Person=3|PronType=Prs	5	subj	_	AlignBegin=73991|AlignEnd=74250
+4	me	lui	PRON	_	Number=Sing|Person=1|PronType=Prs	5	comp:obl	_	AlignBegin=74250|AlignEnd=74510
+5	racontaient	racontaient	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	AlignBegin=74510|AlignEnd=74769
+6	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	AlignBegin=74769|AlignEnd=75029
+7	leur	son	DET	_	Number=Sing|Number[psor]=Plur|Person[psor]=3|PronType=Prs	5	comp:obj	_	AlignBegin=75029|AlignEnd=75289|SpaceAfter=No
+8	.	.	PUNCT	_	_	5	punct	_	AlignBegin=75289|AlignEnd=75289
+
+# sent_id = ParisStories_2023_coursBizarre_coursBizarre__15
+# text = moi, je leur racontais la mienne euh.
+# sound_url = ParisStories_2023_coursBizarre_coursBizarre.mp3
+# speaker = L0
+# user_id = trankitParser100
+# timestamp = 0
+1	moi	lui	PRON	_	Number=Sing|Person=1|PronType=Prs	5	dislocated	_	AlignBegin=75289|AlignEnd=75548|SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	AlignBegin=75548|AlignEnd=75548
+3	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	5	subj	_	AlignBegin=75548|AlignEnd=75808
+4	leur	son	PRON	_	Number=Plur|Person=3|PronType=Prs	5	comp:obl	_	AlignBegin=75808|AlignEnd=76068
+5	racontais	racontais	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	AlignBegin=76068|AlignEnd=76327
+6	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	7	det	_	AlignBegin=76327|AlignEnd=76587
+7	mienne	mienne	PRON	_	_	5	comp:obj	_	AlignBegin=76587|AlignEnd=76846
+8	euh	euh	INTJ	_	_	5	discourse	_	AlignBegin=76846|AlignEnd=77106|SpaceAfter=No
+9	.	.	PUNCT	_	_	5	punct	_	AlignBegin=77106|AlignEnd=77106
+
+# sent_id = ParisStories_2023_coursBizarre_coursBizarre__16
+# text = .
+# sound_url = ParisStories_2023_coursBizarre_coursBizarre.mp3
+# speaker = L0
+# user_id = trankitParser100
+# timestamp = 0
+1	.	.	PUNCT	_	_	0	root	_	AlignBegin=77106|AlignEnd=77106
+
+# sent_id = ParisStories_2023_coursBizarre_coursBizarre__17
+# text = et, euh, on a parlé vraiment de tout et de rien : amour, amitié, euh, parents, euh, euh, les cours, aussi.
+# sound_url = ParisStories_2023_coursBizarre_coursBizarre.mp3
+# speaker = L0
+# user_id = trankitParser100
+# timestamp = 0
+1	et	et	CCONJ	_	_	6	cc	_	AlignBegin=79042|AlignEnd=79265|SpaceAfter=No
+2	,	,	PUNCT	_	_	3	punct	_	AlignBegin=79265|AlignEnd=79265
+3	euh	euh	INTJ	_	_	1	discourse	_	AlignBegin=79265|AlignEnd=79487|SpaceAfter=No
+4	,	,	PUNCT	_	_	1	punct	_	AlignBegin=79487|AlignEnd=79487
+5	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	6	subj	_	AlignBegin=79487|AlignEnd=79710
+6	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=79710|AlignEnd=79932
+7	parlé	parler	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	6	comp:aux@tense	_	AlignBegin=79932|AlignEnd=80155
+8	vraiment	vraiment	ADV	_	_	7	mod	_	AlignBegin=80155|AlignEnd=80377
+9	de	de	ADP	_	_	7	comp:obl	_	AlignBegin=80377|AlignEnd=80600
+10	tout	tout	PRON	_	_	9	comp:obj	_	AlignBegin=80600|AlignEnd=80822
+11	et	et	CCONJ	_	_	12	cc	_	AlignBegin=80822|AlignEnd=81045
+12	de	de	ADP	_	_	9	conj:coord	_	AlignBegin=81045|AlignEnd=81267
+13	rien	rien	PRON	_	_	12	comp:obj	_	AlignBegin=81267|AlignEnd=81490
+14	:	:	PUNCT	_	_	15	punct	_	AlignBegin=81490|AlignEnd=81490
+15	amour	amour	NOUN	_	Gender=Masc|Number=Sing	13	conj:appos	_	AlignBegin=81490|AlignEnd=82175|SpaceAfter=No
+16	,	,	PUNCT	_	_	17	punct	_	AlignBegin=82175|AlignEnd=82175
+17	amitié	amitié	NOUN	_	Gender=Fem|Number=Sing	15	conj:coord	_	AlignBegin=82175|AlignEnd=82860|SpaceAfter=No
+18	,	,	PUNCT	_	_	21	punct	_	AlignBegin=82860|AlignEnd=82860
+19	euh	euh	INTJ	_	_	21	discourse	_	AlignBegin=82860|AlignEnd=83544|SpaceAfter=No
+20	,	,	PUNCT	_	_	19	punct	_	AlignBegin=83544|AlignEnd=83544
+21	parents	parent	NOUN	_	Gender=Masc|Number=Plur	17	conj:coord	_	AlignBegin=83544|AlignEnd=84229|SpaceAfter=No
+22	,	,	PUNCT	_	_	28	punct	_	AlignBegin=84229|AlignEnd=84229
+23	euh	euh	INTJ	_	_	28	discourse	_	AlignBegin=84229|AlignEnd=84914|SpaceAfter=No
+24	,	,	PUNCT	_	_	23	punct	_	AlignBegin=84914|AlignEnd=84914
+25	euh	euh	INTJ	_	_	28	discourse	_	AlignBegin=85587|AlignEnd=85894|SpaceAfter=No
+26	,	,	PUNCT	_	_	25	punct	_	AlignBegin=85894|AlignEnd=85894
+27	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	28	det	_	AlignBegin=85977|AlignEnd=86238
+28	cours	cours	NOUN	_	Gender=Masc|Number=Plur	21	conj:coord	_	AlignBegin=86238|AlignEnd=86500|SpaceAfter=No
+29	,	,	PUNCT	_	_	30	punct	_	AlignBegin=86500|AlignEnd=86500
+30	aussi	aussi	ADV	_	_	28	mod	_	AlignBegin=86500|AlignEnd=86761|SpaceAfter=No
+31	.	.	PUNCT	_	_	6	punct	_	AlignBegin=86761|AlignEnd=86761
+
+# sent_id = ParisStories_2023_coursBizarre_coursBizarre__18
+# text = du coup, on a beaucoup parlé des cours, tout ça.
+# sound_url = ParisStories_2023_coursBizarre_coursBizarre.mp3
+# speaker = L0
+# user_id = trankitParser100
+# timestamp = 0
+1	du	du	ADP	_	_	5	discourse	_	AlignBegin=86761|AlignEnd=87022
+2	coup	coup	NOUN	_	Gender=Masc|Number=Sing	1	comp:obj	_	AlignBegin=87022|AlignEnd=87284|SpaceAfter=No
+3	,	,	PUNCT	_	_	1	punct	_	AlignBegin=87284|AlignEnd=87284
+4	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	5	subj	_	AlignBegin=87284|AlignEnd=87545
+5	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=87545|AlignEnd=87806
+6	beaucoup	beaucoup	ADV	_	_	5	mod	_	AlignBegin=87806|AlignEnd=88067
+7	parlé	parler	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	5	comp:aux@tense	_	AlignBegin=88067|AlignEnd=88329
+8	des	un	ADP	_	_	7	comp:obl	_	AlignBegin=88329|AlignEnd=88590
+9	cours	cours	NOUN	_	Gender=Masc|Number=Plur	8	comp:obj	_	AlignBegin=88590|AlignEnd=88851|SpaceAfter=No
+10	,	,	PUNCT	_	_	12	punct	_	AlignBegin=88851|AlignEnd=88851
+11	tout	tout	ADJ	_	Gender=Masc|Number=Sing|PronType=Ind	12	mod	_	AlignBegin=88851|AlignEnd=89113
+12	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	9	conj:coord	_	AlignBegin=89113|AlignEnd=89374|SpaceAfter=No
+13	.	.	PUNCT	_	_	5	punct	_	AlignBegin=89374|AlignEnd=89374
+
+# sent_id = ParisStories_2023_coursBizarre_coursBizarre__19
+# text = mais, euh, c'était vraiment trop bien.
+# sound_url = ParisStories_2023_coursBizarre_coursBizarre.mp3
+# speaker = L0
+# user_id = trankitParser100
+# timestamp = 0
+1	mais	mais	CCONJ	_	_	6	cc	_	AlignBegin=90322|AlignEnd=90586|SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	AlignBegin=90586|AlignEnd=90586
+3	euh	euh	INTJ	_	_	6	discourse	_	AlignBegin=90586|AlignEnd=90851|SpaceAfter=No
+4	,	,	PUNCT	_	_	3	punct	_	AlignBegin=90851|AlignEnd=90851
+5	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	6	subj	_	AlignBegin=90851|AlignEnd=91115|SpaceAfter=No
+6	était	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	AlignBegin=91115|AlignEnd=91380
+7	vraiment	vraiment	ADV	_	_	6	mod	_	AlignBegin=91380|AlignEnd=91644
+8	trop	trop	ADV	_	_	9	mod	_	AlignBegin=91644|AlignEnd=91909
+9	bien	bien	ADV	_	_	6	comp:pred	_	AlignBegin=91909|AlignEnd=92173|SpaceAfter=No
+10	.	.	PUNCT	_	_	6	punct	_	AlignBegin=92173|AlignEnd=92173
+
+# sent_id = ParisStories_2023_coursBizarre_coursBizarre__20
+# text = et vu qu'on avait beaucoup d'heures de trous, euh, avant les, les CM du soir, bah, on a parlé, on a parlé, on a parlé, pendant je sais pas combien de temps.
+# sound_url = ParisStories_2023_coursBizarre_coursBizarre.mp3
+# speaker = L0
+# user_id = trankitParser100
+# timestamp = 0
+1	et	et	CCONJ	_	_	25	cc	_	AlignBegin=92931|AlignEnd=93107
+2	vu	voir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	25	mod	_	AlignBegin=93107|AlignEnd=93283
+3	qu'	que	SCONJ	_	_	2	comp:obj	_	AlignBegin=93283|AlignEnd=93459|SpaceAfter=No
+4	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	5	subj	_	AlignBegin=93459|AlignEnd=93635
+5	avait	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	3	comp:obj	_	AlignBegin=93635|AlignEnd=93812
+6	beaucoup	beaucoup	ADV	_	_	5	comp:obj	_	AlignBegin=93812|AlignEnd=93988
+7	d'	de	ADP	_	_	6	udep	_	AlignBegin=93988|AlignEnd=94164|SpaceAfter=No
+8	heures	heure	NOUN	_	Gender=Fem|Number=Plur	7	comp:obj	_	AlignBegin=94164|AlignEnd=94340
+9	de	de	ADP	_	_	8	udep	_	AlignBegin=94340|AlignEnd=94516
+10	trous	trou	NOUN	_	Gender=Masc|Number=Plur	9	comp:obj	_	AlignBegin=94516|AlignEnd=94692|SpaceAfter=No
+11	,	,	PUNCT	_	_	14	punct	_	AlignBegin=94692|AlignEnd=94692
+12	euh	euh	INTJ	_	_	14	discourse	_	AlignBegin=95261|AlignEnd=95608|SpaceAfter=No
+13	,	,	PUNCT	_	_	12	punct	_	AlignBegin=95608|AlignEnd=95608
+14	avant	avant	ADP	_	_	5	mod	_	AlignBegin=95608|AlignEnd=95954
+15	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	18	det	_	AlignBegin=95954|AlignEnd=96301|SpaceAfter=No
+16	,	,	PUNCT	_	_	17	punct	_	AlignBegin=96301|AlignEnd=96301
+17	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	15	conj:dicto	_	AlignBegin=96301|AlignEnd=96647
+18	CM	CM	PROPN	_	_	14	comp:obj	_	AlignBegin=96647|AlignEnd=96994
+19	du	du	ADP	_	_	18	mod	_	AlignBegin=96994|AlignEnd=97340
+20	soir	soir	NOUN	_	Gender=Masc|Number=Sing	19	comp:obj	_	AlignBegin=97340|AlignEnd=97687|SpaceAfter=No
+21	,	,	PUNCT	_	_	2	punct	_	AlignBegin=97687|AlignEnd=97687
+22	bah	bah	INTJ	_	_	25	discourse	_	AlignBegin=98077|AlignEnd=98276|SpaceAfter=No
+23	,	,	PUNCT	_	_	22	punct	_	AlignBegin=98276|AlignEnd=98276
+24	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	25	subj	_	AlignBegin=98276|AlignEnd=98475
+25	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=98475|AlignEnd=98675
+26	parlé	parler	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	25	comp:aux@tense	_	AlignBegin=98675|AlignEnd=98874|SpaceAfter=No
+27	,	,	PUNCT	_	_	29	punct	_	AlignBegin=98874|AlignEnd=98874
+28	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	29	subj	_	AlignBegin=98874|AlignEnd=99073
+29	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	25	conj:dicto	_	AlignBegin=99073|AlignEnd=99272
+30	parlé	parler	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	29	comp:aux@tense	_	AlignBegin=99272|AlignEnd=99471|SpaceAfter=No
+31	,	,	PUNCT	_	_	33	punct	_	AlignBegin=99471|AlignEnd=99471
+32	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	33	subj	_	AlignBegin=99471|AlignEnd=99671
+33	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	29	conj:dicto	_	AlignBegin=99671|AlignEnd=99870
+34	parlé	parler	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	33	comp:aux@tense	_	AlignBegin=99870|AlignEnd=100069|SpaceAfter=No
+35	,	,	PUNCT	_	_	36	punct	_	AlignBegin=100069|AlignEnd=100069
+36	pendant	pendant	ADP	_	_	34	mod	_	AlignBegin=100912|AlignEnd=101096
+37	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	38	subj	_	AlignBegin=101096|AlignEnd=101281
+38	sais	savoir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	36	comp:obj	_	AlignBegin=101281|AlignEnd=101465
+39	pas	pas	ADV	_	Polarity=Neg	38	mod	_	AlignBegin=101465|AlignEnd=101649
+40	combien	combien	ADV	_	_	38	comp:obj	_	AlignBegin=101649|AlignEnd=101833
+41	de	de	ADP	_	_	40	mod	_	AlignBegin=101833|AlignEnd=102018
+42	temps	temps	NOUN	_	Gender=Masc	41	comp:obj	_	AlignBegin=102018|AlignEnd=102202|SpaceAfter=No
+43	.	.	PUNCT	_	_	25	punct	_	AlignBegin=102202|AlignEnd=102202
+
+# sent_id = ParisStories_2023_coursBizarre_coursBizarre__21
+# text = et, euh, bah, c'était trop cool.
+# sound_url = ParisStories_2023_coursBizarre_coursBizarre.mp3
+# speaker = L0
+# user_id = trankitParser100
+# timestamp = 0
+1	et	et	CCONJ	_	_	8	cc	_	AlignBegin=104049|AlignEnd=104301|SpaceAfter=No
+2	,	,	PUNCT	_	_	3	punct	_	AlignBegin=104301|AlignEnd=104301
+3	euh	euh	INTJ	_	_	1	discourse	_	AlignBegin=104301|AlignEnd=104552|SpaceAfter=No
+4	,	,	PUNCT	_	_	3	punct	_	AlignBegin=104552|AlignEnd=104552
+5	bah	bah	INTJ	_	_	1	discourse	_	AlignBegin=104552|AlignEnd=104804|SpaceAfter=No
+6	,	,	PUNCT	_	_	8	punct	_	AlignBegin=104804|AlignEnd=104804
+7	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	8	subj	_	AlignBegin=104804|AlignEnd=105056|SpaceAfter=No
+8	était	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	AlignBegin=105056|AlignEnd=105308
+9	trop	trop	ADV	_	_	10	mod	_	AlignBegin=105308|AlignEnd=105559
+10	cool	cool	ADJ	_	Gender=Masc|Number=Sing	8	comp:pred	_	AlignBegin=105559|AlignEnd=105811|SpaceAfter=No
+11	.	.	PUNCT	_	_	8	punct	_	AlignBegin=105811|AlignEnd=105811
+
+# sent_id = ParisStories_2023_coursBizarre_coursBizarre__22
+# text = surtout que, bah, après c'est devenu mes amies, euh, vraiment quoi.
+# sound_url = ParisStories_2023_coursBizarre_coursBizarre.mp3
+# speaker = L0
+# user_id = trankitParser100
+# timestamp = 0
+1	surtout	surtout	ADV	_	_	0	root	_	AlignBegin=106178|AlignEnd=106451
+2	que	que	SCONJ	_	_	1	unk	_	AlignBegin=106451|AlignEnd=106725|SpaceAfter=No
+3	,	,	PUNCT	_	_	8	punct	_	AlignBegin=106725|AlignEnd=106725
+4	bah	bah	INTJ	_	_	8	discourse	_	AlignBegin=106725|AlignEnd=106998|SpaceAfter=No
+5	,	,	PUNCT	_	_	4	punct	_	AlignBegin=106998|AlignEnd=106998
+6	après	après	ADV	_	_	8	mod	_	AlignBegin=106998|AlignEnd=107272
+7	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	8	subj	_	AlignBegin=107272|AlignEnd=107545|SpaceAfter=No
+8	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	comp:obj	_	AlignBegin=107545|AlignEnd=107819
+9	devenu	devenir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	8	comp:aux@tense	_	AlignBegin=107819|AlignEnd=108092
+10	mes	son	DET	_	Number=Plur|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs	11	det	_	AlignBegin=108092|AlignEnd=108365
+11	amies	amie	NOUN	_	Gender=Fem|Number=Plur	9	comp:obj	_	AlignBegin=108365|AlignEnd=108639|SpaceAfter=No
+12	,	,	PUNCT	_	_	13	punct	_	AlignBegin=108639|AlignEnd=108639
+13	euh	euh	INTJ	_	_	11	discourse	_	AlignBegin=108639|AlignEnd=108912|SpaceAfter=No
+14	,	,	PUNCT	_	_	15	punct	_	AlignBegin=108912|AlignEnd=108912
+15	vraiment	vraiment	ADV	_	_	8	discourse	_	AlignBegin=108912|AlignEnd=109186
+16	quoi	quoi	INTJ	_	_	8	discourse	_	AlignBegin=109186|AlignEnd=109459|SpaceAfter=No
+17	.	.	PUNCT	_	_	8	punct	_	AlignBegin=109459|AlignEnd=109459
+
+# sent_id = ParisStories_2023_coursBizarre_coursBizarre__23
+# text = euh, on se voyait, euh, le plus souvent, euh, que ce soit en cours, même en dehors des cours, on s'est vues aussi.
+# sound_url = ParisStories_2023_coursBizarre_coursBizarre.mp3
+# speaker = L0
+# user_id = trankitParser100
+# timestamp = 0
+1	euh	euh	INTJ	_	_	5	discourse	_	AlignBegin=110201|AlignEnd=110455|SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	AlignBegin=110455|AlignEnd=110455
+3	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	5	subj	_	AlignBegin=110455|AlignEnd=110709
+4	se	se	PRON	_	Person=3|PronType=Prs|Reflex=Yes	5	comp:obj	_	AlignBegin=110709|AlignEnd=110963
+5	voyait	voir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	AlignBegin=110963|AlignEnd=111217|SpaceAfter=No
+6	,	,	PUNCT	_	_	7	punct	_	AlignBegin=111217|AlignEnd=111217
+7	euh	euh	INTJ	_	_	5	discourse	_	AlignBegin=111217|AlignEnd=111471|SpaceAfter=No
+8	,	,	PUNCT	_	_	11	punct	_	AlignBegin=111471|AlignEnd=111471
+9	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	AlignBegin=111471|AlignEnd=111726
+10	plus	plus	ADV	_	_	11	mod	_	AlignBegin=111726|AlignEnd=111980
+11	souvent	souvent	ADV	_	_	5	mod	_	AlignBegin=111980|AlignEnd=112234|SpaceAfter=No
+12	,	,	PUNCT	_	_	13	punct	_	AlignBegin=112234|AlignEnd=112234
+13	euh	euh	INTJ	_	_	15	discourse	_	AlignBegin=112234|AlignEnd=112488|SpaceAfter=No
+14	,	,	PUNCT	_	_	13	punct	_	AlignBegin=112488|AlignEnd=112488
+15	que	que	SCONJ	_	_	29	mod	_	AlignBegin=112488|AlignEnd=112742
+16	ce	ce	PRON	_	Gender=Masc|Number=Sing|PronType=Dem	17	subj	_	AlignBegin=112742|AlignEnd=112996
+17	soit	être	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	comp:obj	_	AlignBegin=112996|AlignEnd=113250
+18	en	en	ADP	_	_	17	comp:pred	_	AlignBegin=113250|AlignEnd=113504
+19	cours	cours	NOUN	_	Gender=Masc|Number=Sing	18	comp:obj	_	AlignBegin=113504|AlignEnd=113758|SpaceAfter=No
+20	,	,	PUNCT	_	_	22	punct	_	AlignBegin=113758|AlignEnd=113758
+21	même	même	ADV	_	_	22	mod	_	AlignBegin=113758|AlignEnd=114012
+22	en	en	ADP	_	_	18	conj:coord	_	AlignBegin=114012|AlignEnd=114266
+23	dehors	dehors	NOUN	_	Gender=Masc|Number=Sing	22	comp:obj	_	AlignBegin=114266|AlignEnd=114520
+24	des	un	ADP	_	_	23	mod	_	AlignBegin=114520|AlignEnd=114775
+25	cours	cours	NOUN	_	Gender=Masc|Number=Plur	24	comp:obj	_	AlignBegin=114775|AlignEnd=115029|SpaceAfter=No
+26	,	,	PUNCT	_	_	29	punct	_	AlignBegin=115029|AlignEnd=115029
+27	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	29	subj@pass	_	AlignBegin=115029|AlignEnd=115283
+28	s'	se	PRON	_	Person=3|PronType=Prs|Reflex=Yes	30	comp:obj	_	AlignBegin=115283|AlignEnd=115537|SpaceAfter=No
+29	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	conj:coord	_	AlignBegin=115537|AlignEnd=115791
+30	vues	vue	VERB	_	Gender=Fem|Number=Plur|Tense=Past|VerbForm=Part	29	comp:aux@pass	_	AlignBegin=115791|AlignEnd=116045
+31	aussi	aussi	ADV	_	_	30	mod	_	AlignBegin=116045|AlignEnd=116299|SpaceAfter=No
+32	.	.	PUNCT	_	_	5	punct	_	AlignBegin=116299|AlignEnd=116299
+
+# sent_id = ParisStories_2023_coursBizarre_coursBizarre__24
+# text = euh, et, même, euh, il y en a une qui est devenue une de mes meilleures amies.
+# sound_url = ParisStories_2023_coursBizarre_coursBizarre.mp3
+# speaker = L0
+# user_id = trankitParser100
+# timestamp = 0
+1	euh	euh	INTJ	_	_	12	discourse	_	AlignBegin=117714|AlignEnd=118444|SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	AlignBegin=118444|AlignEnd=118444
+3	et	et	CCONJ	_	_	12	cc	_	AlignBegin=118603|AlignEnd=118790|SpaceAfter=No
+4	,	,	PUNCT	_	_	3	punct	_	AlignBegin=118790|AlignEnd=118790
+5	même	même	ADV	_	_	12	mod	_	AlignBegin=118790|AlignEnd=118976|SpaceAfter=No
+6	,	,	PUNCT	_	_	7	punct	_	AlignBegin=118976|AlignEnd=118976
+7	euh	euh	INTJ	_	_	5	discourse	_	AlignBegin=118976|AlignEnd=119163|SpaceAfter=No
+8	,	,	PUNCT	_	_	5	punct	_	AlignBegin=119163|AlignEnd=119163
+9	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	subj@expl	_	AlignBegin=119163|AlignEnd=119350
+10	y	y	PRON	_	Person=3|PronType=Prs	12	comp@expl	_	AlignBegin=119350|AlignEnd=119536
+11	en	en	PRON	_	Person=3|PronType=Prs	13	mod	_	AlignBegin=119536|AlignEnd=119723
+12	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=119723|AlignEnd=119909
+13	une	un	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Ind	12	comp:obj	_	AlignBegin=119909|AlignEnd=120096
+14	qui	qui	PRON	_	_	15	subj	_	AlignBegin=120096|AlignEnd=120283
+15	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	mod@relcl	_	AlignBegin=120283|AlignEnd=120469
+16	devenue	devenir	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	15	comp:aux@tense	_	AlignBegin=120469|AlignEnd=120656
+17	une	un	PRON	_	Gender=Fem|Number=Sing|Person=3|PronType=Ind	16	comp:obj	_	AlignBegin=120656|AlignEnd=120843
+18	de	de	ADP	_	_	17	mod	_	AlignBegin=120843|AlignEnd=121029
+19	mes	son	DET	_	Number=Plur|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs	21	det	_	AlignBegin=121029|AlignEnd=121216
+20	meilleures	meilleur	ADJ	_	Gender=Fem|Number=Plur	21	mod	_	AlignBegin=121216|AlignEnd=121402
+21	amies	amie	NOUN	_	Gender=Fem|Number=Plur	18	comp:obj	_	AlignBegin=121402|AlignEnd=121589|SpaceAfter=No
+22	.	.	PUNCT	_	_	12	punct	_	AlignBegin=121589|AlignEnd=121589
+

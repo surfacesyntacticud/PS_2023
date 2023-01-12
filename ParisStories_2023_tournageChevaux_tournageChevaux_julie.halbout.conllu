@@ -1,0 +1,1389 @@
+# sent_id = ParisStories_2023_tournageChevaux_tournageChevaux__1
+# text = et donc, nous on continue avec lecamping-car, sur la route, je sais pas quoi.
+# sound_url = ParisStories_2023_tournageChevaux_tournageChevaux.mp3
+# speaker = L0
+# user_id = trankitParser100
+# timestamp = 0
+1	et	et	CCONJ	_	_	6	cc	_	AlignBegin=502|AlignEnd=730
+2	donc	donc	ADV	_	_	6	mod	_	AlignBegin=730|AlignEnd=957|SpaceAfter=No
+3	,	,	PUNCT	_	_	2	punct	_	AlignBegin=957|AlignEnd=957
+4	nous	il	PRON	_	_	6	dislocated	_	AlignBegin=957|AlignEnd=1185
+5	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	6	subj	_	AlignBegin=1185|AlignEnd=1413
+6	continue	continuer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=1413|AlignEnd=1640
+7	avec	avec	ADP	_	_	6	mod	_	AlignBegin=1640|AlignEnd=1868
+8	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	9	det	_	AlignBegin=1868|AlignEnd=2095|SpaceAfter=No
+9	camping-car	camping-car	NOUN	_	Gender=Masc|Number=Sing	7	comp:obj	_	AlignBegin=2095|AlignEnd=2323|SpaceAfter=No
+10	,	,	PUNCT	_	_	11	punct	_	AlignBegin=2323|AlignEnd=2323
+11	sur	sur	ADP	_	_	6	mod	_	AlignBegin=2323|AlignEnd=2490
+12	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	det	_	AlignBegin=2490|AlignEnd=2656
+13	route	route	NOUN	_	Gender=Fem|Number=Sing	11	comp:obj	_	AlignBegin=2656|AlignEnd=2823|SpaceAfter=No
+14	,	,	PUNCT	_	_	16	punct	_	AlignBegin=2823|AlignEnd=2823
+15	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	16	subj	_	AlignBegin=2823|AlignEnd=2990
+16	sais	savoir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	13	discourse	_	AlignBegin=2990|AlignEnd=3157
+17	pas	pas	ADV	_	_	16	mod	_	AlignBegin=3157|AlignEnd=3323
+18	quoi	quoi	PRON	_	_	16	comp:obj	_	AlignBegin=3323|AlignEnd=3490|SpaceAfter=No
+19	.	.	PUNCT	_	_	6	punct	_	AlignBegin=3490|AlignEnd=3490
+
+# sent_id = ParisStories_2023_tournageChevaux_tournageChevaux__2
+# text = puis d'un côté, euh, enfin, euh, puis à un moment, on voit tout en haut de la falaise, on voit, euh, bah, deux, deux, deux mecs sur, euh, des chevaux.
+# sound_url = ParisStories_2023_tournageChevaux_tournageChevaux.mp3
+# speaker = L0
+# user_id = trankitParser100
+# timestamp = 0
+1	puis	puis	CCONJ	_	_	18	cc	_	AlignBegin=3494|AlignEnd=3761
+2	d'	de	ADP	_	_	18	mod	_	AlignBegin=3761|AlignEnd=4029|SpaceAfter=No
+3	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	AlignBegin=4029|AlignEnd=4296
+4	côté	côté	NOUN	_	Gender=Masc|Number=Sing	2	comp:obj	_	AlignBegin=4296|AlignEnd=4564|SpaceAfter=No
+5	,	,	PUNCT	_	_	6	punct	_	AlignBegin=4564|AlignEnd=4564
+6	euh	euh	INTJ	_	_	4	discourse	_	AlignBegin=4564|AlignEnd=4831|SpaceAfter=No
+7	,	,	PUNCT	_	_	8	punct	_	AlignBegin=4831|AlignEnd=4831
+8	enfin	enfin	ADV	_	_	4	discourse	_	AlignBegin=4831|AlignEnd=5099|SpaceAfter=No
+9	,	,	PUNCT	_	_	8	punct	_	AlignBegin=5099|AlignEnd=5099
+10	euh	euh	INTJ	_	_	18	discourse	_	AlignBegin=5099|AlignEnd=5366|SpaceAfter=No
+11	,	,	PUNCT	_	_	10	punct	_	AlignBegin=5366|AlignEnd=5366
+12	puis	puis	CCONJ	_	_	18	cc	_	AlignBegin=5367|AlignEnd=5577
+13	à	à	ADP	_	_	18	mod	_	AlignBegin=5577|AlignEnd=5577
+14	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	15	det	_	AlignBegin=5577|AlignEnd=5786
+15	moment	moment	NOUN	_	Gender=Masc|Number=Sing	13	comp:obj	_	AlignBegin=5786|AlignEnd=5996|SpaceAfter=No
+16	,	,	PUNCT	_	_	13	punct	_	AlignBegin=5996|AlignEnd=5996
+17	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	18	subj	_	AlignBegin=6228|AlignEnd=6432
+18	voit	voir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=6432|AlignEnd=6636
+19	tout	tout	ADV	_	_	20	mod	_	AlignBegin=6636|AlignEnd=6839
+20	en	en	ADP	_	_	18	mod	_	AlignBegin=6839|AlignEnd=7043
+21	haut	haut	NOUN	_	Gender=Masc|Number=Sing	20	comp:obj	_	AlignBegin=7043|AlignEnd=7247
+22	de	de	ADP	_	_	21	mod	_	AlignBegin=7247|AlignEnd=7451
+23	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	24	det	_	AlignBegin=7451|AlignEnd=7654
+24	falaise	falaise	NOUN	_	Gender=Fem|Number=Sing	22	comp:obj	_	AlignBegin=7654|AlignEnd=7858|SpaceAfter=No
+25	,	,	PUNCT	_	_	27	punct	_	AlignBegin=7858|AlignEnd=7858
+26	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	27	subj	_	AlignBegin=8277|AlignEnd=8799
+27	voit	voir	VERB	conj:reform	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	conj:dicto	_	AlignBegin=8799|AlignEnd=9321|SpaceAfter=No
+28	,	,	PUNCT	_	_	27	punct	_	AlignBegin=9321|AlignEnd=9321
+29	euh	euh	INTJ	_	_	27	discourse	_	AlignBegin=9321|AlignEnd=9843|SpaceAfter=No
+30	,	,	PUNCT	_	_	29	punct	_	AlignBegin=9843|AlignEnd=9843
+31	bah	bah	INTJ	_	_	27	discourse	_	AlignBegin=9987|AlignEnd=10243|SpaceAfter=No
+32	,	,	PUNCT	_	_	31	punct	_	AlignBegin=10243|AlignEnd=10243
+33	deux	deux	NUM	_	Number=Plur	38	det	_	AlignBegin=10243|AlignEnd=10500|SpaceAfter=No
+34	,	,	PUNCT	_	_	35	punct	_	AlignBegin=10500|AlignEnd=10500
+35	deux	deux	NUM	_	Number=Plur	33	conj:dicto	_	AlignBegin=10500|AlignEnd=10756|SpaceAfter=No
+36	,	,	PUNCT	_	_	37	punct	_	AlignBegin=10756|AlignEnd=10756
+37	deux	deux	NUM	_	Number=Plur	35	conj:dicto	_	AlignBegin=10756|AlignEnd=11013
+38	mecs	mecs	NOUN	_	Gender=Masc|Number=Plur	27	comp:obj	_	AlignBegin=11013|AlignEnd=11269
+39	sur	sur	ADP	_	_	38	udep	_	AlignBegin=11269|AlignEnd=11526|SpaceAfter=No
+40	,	,	PUNCT	_	_	44	punct	_	AlignBegin=11526|AlignEnd=11526
+41	euh	euh	INTJ	_	_	44	discourse	_	AlignBegin=11526|AlignEnd=11782|SpaceAfter=No
+42	,	,	PUNCT	_	_	41	punct	_	AlignBegin=11782|AlignEnd=11782
+43	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	44	det	_	AlignBegin=11782|AlignEnd=12039
+44	chevaux	cheval	NOUN	_	Gender=Masc|Number=Plur	39	comp:obj	_	AlignBegin=12039|AlignEnd=12295|SpaceAfter=No
+45	.	.	PUNCT	_	_	18	punct	_	AlignBegin=12295|AlignEnd=12295
+
+# sent_id = ParisStories_2023_tournageChevaux_tournageChevaux__3
+# text = et t~, on voit que c'est vraiment un …
+# sound_url = ParisStories_2023_tournageChevaux_tournageChevaux.mp3
+# speaker = L0
+# user_id = trankitParser100
+# timestamp = 0
+1	et	et	CCONJ	_	_	5	cc	_	AlignBegin=13159|AlignEnd=13411
+2	t~	t~	X	_	_	5	unk@scrap	_	AlignBegin=13411|AlignEnd=13664|SpaceAfter=No
+3	,	,	PUNCT	_	_	4	punct	_	AlignBegin=13664|AlignEnd=13664
+4	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	2	conj:dicto	_	AlignBegin=13664|AlignEnd=13916
+5	voit	voir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=13916|AlignEnd=14168
+6	que	que	SCONJ	_	_	5	comp:obj	_	AlignBegin=14168|AlignEnd=14421
+7	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	8	subj	_	AlignBegin=14421|AlignEnd=14673|SpaceAfter=No
+8	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	comp:obj	_	AlignBegin=14673|AlignEnd=14925
+9	vraiment	vraiment	ADV	_	_	8	mod	_	AlignBegin=14925|AlignEnd=15178
+10	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	8	comp:pred@scrap	_	AlignBegin=15178|AlignEnd=15430
+11	…	…	PUNCT	_	_	5	punct	_	AlignBegin=15430|AlignEnd=15430
+
+# sent_id = ParisStories_2023_tournageChevaux_tournageChevaux__4
+# text = sur le moment, on comprend pas.
+# sound_url = ParisStories_2023_tournageChevaux_tournageChevaux.mp3
+# speaker = L0
+# user_id = trankitParser100
+# timestamp = 0
+1	sur	sur	ADP	_	_	6	mod	_	AlignBegin=15892|AlignEnd=16043
+2	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	AlignBegin=16043|AlignEnd=16193
+3	moment	moment	NOUN	_	Gender=Masc|Number=Sing	1	comp:obj	_	AlignBegin=16193|AlignEnd=16344|SpaceAfter=No
+4	,	,	PUNCT	_	_	1	punct	_	AlignBegin=16344|AlignEnd=16344
+5	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	6	subj	_	AlignBegin=16344|AlignEnd=16495
+6	comprend	comprendre	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=16495|AlignEnd=16645
+7	pas	pas	ADV	_	_	6	mod	_	AlignBegin=16645|AlignEnd=16796|SpaceAfter=No
+8	.	.	PUNCT	_	_	6	punct	_	AlignBegin=16796|AlignEnd=16796
+
+# sent_id = ParisStories_2023_tournageChevaux_tournageChevaux__5
+# text = mais on voit juste de, des, bah, deux personnes qui font un, euh, qui se cabrent avec le, les chevaux, tout ça, au bord de la falaise.
+# sound_url = ParisStories_2023_tournageChevaux_tournageChevaux.mp3
+# speaker = L0
+# user_id = trankitParser100
+# timestamp = 0
+1	mais	mais	CCONJ	_	_	3	cc	_	AlignBegin=16796|AlignEnd=17125
+2	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	3	subj	_	AlignBegin=17125|AlignEnd=17454
+3	voit	voir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=17454|AlignEnd=17783
+4	juste	juste	ADV	_	_	3	mod	_	AlignBegin=17783|AlignEnd=18112
+5	de	de	DET	_	Definite=Ind|Number=Plur|PronType=Art	12	det	_	AlignBegin=18112|AlignEnd=18441|SpaceAfter=No
+6	,	,	PUNCT	_	_	7	punct	_	AlignBegin=18441|AlignEnd=18441
+7	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	5	conj:dicto	_	AlignBegin=18441|AlignEnd=18770|SpaceAfter=No
+8	,	,	PUNCT	_	_	9	punct	_	AlignBegin=18770|AlignEnd=18770
+9	bah	bah	INTJ	_	_	11	discourse	_	AlignBegin=18770|AlignEnd=19099|SpaceAfter=No
+10	,	,	PUNCT	_	_	9	punct	_	AlignBegin=19099|AlignEnd=19099
+11	deux	deux	NUM	_	Number=Plur	12	conj:dicto	_	AlignBegin=19099|AlignEnd=19428
+12	personnes	personne	NOUN	_	Gender=Fem|Number=Plur	3	comp:obj	_	AlignBegin=19428|AlignEnd=19757
+13	qui	qui	PRON	_	PronType=Rel	14	subj	_	AlignBegin=20154|AlignEnd=20414
+14	font	faire	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	12	mod@relcl	_	AlignBegin=20414|AlignEnd=20673
+15	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	14	comp:obj	_	AlignBegin=20673|AlignEnd=20933|SpaceAfter=No
+16	,	,	PUNCT	_	_	17	punct	_	AlignBegin=20933|AlignEnd=20933
+17	euh	euh	INTJ	_	_	15	discourse	_	AlignBegin=20933|AlignEnd=21192|SpaceAfter=No
+18	,	,	PUNCT	_	_	21	punct	_	AlignBegin=21192|AlignEnd=21192
+19	qui	qui	PRON	_	PronType=Rel	21	subj	_	AlignBegin=21192|AlignEnd=21452
+20	se	se	PRON	_	Person=3|PronType=Prs	21	comp:obj	_	AlignBegin=21452|AlignEnd=21711
+21	cabrent	cabrent	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	14	conj:dicto	_	AlignBegin=21711|AlignEnd=21971
+22	avec	avec	ADP	_	_	21	mod	_	AlignBegin=21971|AlignEnd=22230
+23	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	26	det	_	AlignBegin=22230|AlignEnd=22490|SpaceAfter=No
+24	,	,	PUNCT	_	_	25	punct	_	AlignBegin=22490|AlignEnd=22490
+25	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	23	conj:dicto	_	AlignBegin=22490|AlignEnd=22749
+26	chevaux	cheval	NOUN	_	Gender=Masc|Number=Plur	22	comp:obj	_	AlignBegin=22749|AlignEnd=23009|SpaceAfter=No
+27	,	,	PUNCT	_	_	29	punct	_	AlignBegin=23009|AlignEnd=23009
+28	tout	tout	ADJ	_	Gender=Masc|Number=Sing	29	mod	_	AlignBegin=23069|AlignEnd=23282
+29	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	26	conj:coord	_	AlignBegin=23282|AlignEnd=23495|SpaceAfter=No
+30	,	,	PUNCT	_	_	31	punct	_	AlignBegin=23495|AlignEnd=23495
+31	au	au	ADP	_	_	14	mod	_	AlignBegin=23495|AlignEnd=23708
+32	bord	bord	NOUN	_	Gender=Masc|Number=Sing	31	comp:obj	_	AlignBegin=23708|AlignEnd=23921
+33	de	de	ADP	_	_	32	udep	_	AlignBegin=23921|AlignEnd=24134
+34	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	35	det	_	AlignBegin=24134|AlignEnd=24347
+35	falaise	falaise	NOUN	_	Gender=Fem|Number=Sing	33	comp:obj	_	AlignBegin=24347|AlignEnd=24560|SpaceAfter=No
+36	.	.	PUNCT	_	_	3	punct	_	AlignBegin=24560|AlignEnd=24560
+
+# sent_id = ParisStories_2023_tournageChevaux_tournageChevaux__6
+# text = alors nous, euh, on comprend pas.
+# sound_url = ParisStories_2023_tournageChevaux_tournageChevaux.mp3
+# speaker = L0
+# user_id = trankitParser100
+# timestamp = 0
+1	alors	alors	ADV	_	_	7	mod	_	AlignBegin=24690|AlignEnd=24972
+2	nous	il	PRON	_	Number=Plur|Person=1|PronType=Prs	7	dislocated	_	AlignBegin=24972|AlignEnd=25254|SpaceAfter=No
+3	,	,	PUNCT	_	_	4	punct	_	AlignBegin=25254|AlignEnd=25254
+4	euh	euh	INTJ	_	_	2	discourse	_	AlignBegin=25254|AlignEnd=25536|SpaceAfter=No
+5	,	,	PUNCT	_	_	2	punct	_	AlignBegin=25536|AlignEnd=25536
+6	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	7	subj	_	AlignBegin=25536|AlignEnd=25817
+7	comprend	comprendre	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=25817|AlignEnd=26099
+8	pas	pas	ADV	_	_	7	mod	_	AlignBegin=26099|AlignEnd=26381|SpaceAfter=No
+9	.	.	PUNCT	_	_	7	punct	_	AlignBegin=26381|AlignEnd=26381
+
+# sent_id = ParisStories_2023_tournageChevaux_tournageChevaux__7
+# text = et on voit en fait que c'…
+# sound_url = ParisStories_2023_tournageChevaux_tournageChevaux.mp3
+# speaker = L0
+# user_id = trankitParser100
+# timestamp = 0
+1	et	et	CCONJ	_	_	3	cc	_	AlignBegin=26860|AlignEnd=27024
+2	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	3	subj	_	AlignBegin=27024|AlignEnd=27188
+3	voit	voir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=27188|AlignEnd=27352
+4	en	en	ADP	_	_	3	discourse	_	AlignBegin=27352|AlignEnd=27515
+5	fait	faire	NOUN	_	Gender=Masc|Number=Sing	4	comp:obj	_	AlignBegin=27515|AlignEnd=27679
+6	que	que	SCONJ	_	_	3	comp:obj	_	AlignBegin=27679|AlignEnd=27843
+7	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	6	comp:obj@scrap	_	AlignBegin=27843|AlignEnd=28007|SpaceAfter=No
+8	…	…	PUNCT	_	_	3	punct	_	AlignBegin=28007|AlignEnd=28007
+
+# sent_id = ParisStories_2023_tournageChevaux_tournageChevaux__8
+# text = tout de suite après, on comprend que c'est des acteurs.
+# sound_url = ParisStories_2023_tournageChevaux_tournageChevaux.mp3
+# speaker = L0
+# user_id = trankitParser100
+# timestamp = 0
+1	tout	tout	ADV	_	_	2	mod	_	AlignBegin=28007|AlignEnd=28100
+2	de	de	ADP	_	_	4	mod	_	AlignBegin=28100|AlignEnd=28193
+3	suite	suite	NOUN	_	Gender=Fem|Number=Sing	2	comp:obj	_	AlignBegin=28193|AlignEnd=28285
+4	après	après	ADV	_	_	7	mod	_	AlignBegin=28285|AlignEnd=28378|SpaceAfter=No
+5	,	,	PUNCT	_	_	4	punct	_	AlignBegin=28378|AlignEnd=28378
+6	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	7	subj	_	AlignBegin=28452|AlignEnd=28621
+7	comprend	comprendre	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=28621|AlignEnd=28790
+8	que	que	SCONJ	_	_	7	comp:obj	_	AlignBegin=28790|AlignEnd=28959
+9	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	10	subj	_	AlignBegin=28959|AlignEnd=29129|SpaceAfter=No
+10	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	comp:obj	_	AlignBegin=29129|AlignEnd=29298
+11	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	12	det	_	AlignBegin=29298|AlignEnd=29467
+12	acteurs	acteur	NOUN	_	Gender=Masc|Number=Plur	10	comp:pred	_	AlignBegin=29467|AlignEnd=29636|SpaceAfter=No
+13	.	.	PUNCT	_	_	7	punct	_	AlignBegin=29636|AlignEnd=29636
+
+# sent_id = ParisStories_2023_tournageChevaux_tournageChevaux__9
+# text = et on se dit " mais, en fait, ils sont là les mecs du film. ".
+# sound_url = ParisStories_2023_tournageChevaux_tournageChevaux.mp3
+# speaker = L0
+# user_id = trankitParser100
+# timestamp = 0
+1	et	et	CCONJ	_	_	4	cc	_	AlignBegin=30053|AlignEnd=30207
+2	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	4	subj	_	AlignBegin=30207|AlignEnd=30361
+3	se	se	PRON	_	Person=3|PronType=Prs|Reflex=Yes	4	comp:obl	_	AlignBegin=30361|AlignEnd=30515
+4	dit	dire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=30515|AlignEnd=30669
+5	"	"	PUNCT	_	_	12	punct	_	AlignBegin=30669|AlignEnd=30669
+6	mais	mais	CCONJ	_	_	12	cc	_	AlignBegin=30669|AlignEnd=30823|SpaceAfter=No
+7	,	,	PUNCT	_	_	6	punct	_	AlignBegin=30823|AlignEnd=30823
+8	en	en	ADP	_	_	12	discourse	_	AlignBegin=30823|AlignEnd=30977
+9	fait	faire	NOUN	_	Gender=Masc|Number=Sing	8	comp:obj	_	AlignBegin=30977|AlignEnd=31131|SpaceAfter=No
+10	,	,	PUNCT	_	_	8	punct	_	AlignBegin=31131|AlignEnd=31131
+11	ils	il	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	12	subj	_	AlignBegin=31131|AlignEnd=31284
+12	sont	être	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	4	comp:obj	_	AlignBegin=31284|AlignEnd=31438
+13	là	là	ADV	_	_	12	mod	_	AlignBegin=31438|AlignEnd=31592
+14	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	15	det	_	AlignBegin=31592|AlignEnd=31746
+15	mecs	mecs	NOUN	_	Gender=Masc|Number=Plur	12	comp:pred	_	AlignBegin=31746|AlignEnd=31900
+16	du	du	ADP	_	_	15	udep	_	AlignBegin=31900|AlignEnd=32054
+17	film	film	NOUN	_	Gender=Masc|Number=Sing	16	comp:obj	_	AlignBegin=32054|AlignEnd=32208|SpaceAfter=No
+18	.	.	PUNCT	_	_	12	punct	_	AlignBegin=32208|AlignEnd=32208
+19	"	"	PUNCT	_	_	12	punct	_	AlignBegin=32208|AlignEnd=32208|SpaceAfter=No
+20	.	.	PUNCT	_	_	4	punct	_	AlignBegin=32208|AlignEnd=32208
+
+# sent_id = ParisStories_2023_tournageChevaux_tournageChevaux__10
+# text = c'est des, les acteurs qui sont en train de tourner.
+# sound_url = ParisStories_2023_tournageChevaux_tournageChevaux.mp3
+# speaker = L0
+# user_id = trankitParser100
+# timestamp = 0
+1	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	2	subj	_	AlignBegin=32208|AlignEnd=32381|SpaceAfter=No
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=32381|AlignEnd=32553
+3	des	un	DET	de	Definite=Ind|Number=Plur|PronType=Art	6	det	_	AlignBegin=32553|AlignEnd=32726|SpaceAfter=No
+4	,	,	PUNCT	_	_	5	punct	_	AlignBegin=32726|AlignEnd=32726
+5	les	le	DET	conj:reform	Definite=Def|Number=Plur|PronType=Art	3	conj:dicto	_	AlignBegin=32726|AlignEnd=32899
+6	acteurs	acteur	NOUN	_	Gender=Masc|Number=Plur	2	comp:pred	_	AlignBegin=32899|AlignEnd=33072
+7	qui	qui	PRON	_	PronType=Rel	8	subj	_	AlignBegin=33072|AlignEnd=33244
+8	sont	être	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	6	mod@relcl	_	AlignBegin=33244|AlignEnd=33417
+9	en	en	ADP	_	_	8	comp:obl	_	AlignBegin=33417|AlignEnd=33590
+10	train	train	NOUN	_	Gender=Masc|Number=Sing	9	comp:obj	_	AlignBegin=33590|AlignEnd=33763
+11	de	de	ADP	_	_	10	comp:obl	_	AlignBegin=33763|AlignEnd=33935
+12	tourner	tourner	VERB	_	VerbForm=Inf	11	comp:obj	_	AlignBegin=33935|AlignEnd=34108|SpaceAfter=No
+13	.	.	PUNCT	_	_	2	punct	_	AlignBegin=34108|AlignEnd=34108
+
+# sent_id = ParisStories_2023_tournageChevaux_tournageChevaux__11
+# text = c'est eux.
+# sound_url = ParisStories_2023_tournageChevaux_tournageChevaux.mp3
+# speaker = L0
+# user_id = trankitParser100
+# timestamp = 0
+1	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	2	subj	_	AlignBegin=34108|AlignEnd=34234|SpaceAfter=No
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=34234|AlignEnd=34361
+3	eux	lui	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	2	comp:pred	_	AlignBegin=34361|AlignEnd=34487|SpaceAfter=No
+4	.	.	PUNCT	_	_	2	punct	_	AlignBegin=34487|AlignEnd=34487
+
+# sent_id = ParisStories_2023_tournageChevaux_tournageChevaux__12
+# text = on les voit.
+# sound_url = ParisStories_2023_tournageChevaux_tournageChevaux.mp3
+# speaker = L0
+# user_id = trankitParser100
+# timestamp = 0
+1	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	3	subj	_	AlignBegin=34487|AlignEnd=34613
+2	les	le	PRON	_	Number=Plur|Person=3|PronType=Prs	3	comp:obj	_	AlignBegin=34613|AlignEnd=34740
+3	voit	voir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=34740|AlignEnd=34866|SpaceAfter=No
+4	.	.	PUNCT	_	_	3	punct	_	AlignBegin=34866|AlignEnd=34866
+
+# sent_id = ParisStories_2023_tournageChevaux_tournageChevaux__13
+# text = on se, on est juste en face …
+# sound_url = ParisStories_2023_tournageChevaux_tournageChevaux.mp3
+# speaker = L0
+# user_id = trankitParser100
+# timestamp = 0
+1	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	5	subj	_	AlignBegin=34866|AlignEnd=35039
+2	se	se	PRON	_	Person=3|PronType=Prs	1	unk@scrap	_	AlignBegin=35039|AlignEnd=35213|SpaceAfter=No
+3	,	,	PUNCT	_	_	4	punct	_	AlignBegin=35213|AlignEnd=35213
+4	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	1	conj:dicto	_	AlignBegin=35213|AlignEnd=35386
+5	est	être	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=35386|AlignEnd=35560
+6	juste	juste	ADV	_	_	7	mod	_	AlignBegin=35560|AlignEnd=35733
+7	en	en	ADP	_	_	5	comp:obl	_	AlignBegin=35733|AlignEnd=35907
+8	face	face	NOUN	_	Gender=Fem|Number=Sing	7	comp:obj	_	AlignBegin=35907|AlignEnd=36080
+9	…	…	PUNCT	_	_	5	punct	_	AlignBegin=36080|AlignEnd=36080
+
+# sent_id = ParisStories_2023_tournageChevaux_tournageChevaux__14
+# text = au bord de la falaise.
+# sound_url = ParisStories_2023_tournageChevaux_tournageChevaux.mp3
+# speaker = L0
+# user_id = trankitParser100
+# timestamp = 0
+1	au	au	ADP	_	_	0	root	_	AlignBegin=36738|AlignEnd=36903
+2	bord	bord	NOUN	_	Gender=Masc|Number=Sing	1	comp:obj	_	AlignBegin=36903|AlignEnd=37067
+3	de	de	ADP	_	_	2	udep	_	AlignBegin=37067|AlignEnd=37232
+4	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	5	det	_	AlignBegin=37232|AlignEnd=37396
+5	falaise	falaise	NOUN	_	Gender=Fem|Number=Sing	3	comp:obj	_	AlignBegin=37396|AlignEnd=37561|SpaceAfter=No
+6	.	.	PUNCT	_	_	1	punct	_	AlignBegin=37561|AlignEnd=37561
+
+# sent_id = ParisStories_2023_tournageChevaux_tournageChevaux__15
+# text = au bord de la
+# sound_url = ParisStories_2023_tournageChevaux_tournageChevaux.mp3
+# speaker = L1
+# user_id = trankitParser100
+# timestamp = 0
+1	au	au	ADP	_	_	0	root	_	AlignBegin=36080|AlignEnd=36245
+2	bord	bord	NOUN	_	Gender=Masc|Number=Sing	1	comp:obj	_	AlignBegin=36245|AlignEnd=36409
+3	de	de	ADP	_	_	2	udep	_	AlignBegin=36409|AlignEnd=36574
+4	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	3	comp:obj@scrap	_	AlignBegin=36574|AlignEnd=36738
+
+# sent_id = ParisStories_2023_tournageChevaux_tournageChevaux__16
+# text = on les voit.
+# sound_url = ParisStories_2023_tournageChevaux_tournageChevaux.mp3
+# speaker = L0
+# user_id = trankitParser100
+# timestamp = 0
+1	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	3	subj	_	AlignBegin=37561|AlignEnd=37770
+2	les	le	PRON	_	Number=Plur|Person=3|PronType=Prs	3	comp:obj	_	AlignBegin=37770|AlignEnd=37979
+3	voit	voir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=37979|AlignEnd=38188|SpaceAfter=No
+4	.	.	PUNCT	_	_	3	punct	_	AlignBegin=38188|AlignEnd=38188
+
+# sent_id = ParisStories_2023_tournageChevaux_tournageChevaux__17
+# text = on est encontre-bas.
+# sound_url = ParisStories_2023_tournageChevaux_tournageChevaux.mp3
+# speaker = L0
+# user_id = trankitParser100
+# timestamp = 0
+1	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	2	subj	_	AlignBegin=38188|AlignEnd=38397
+2	est	être	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=38397|AlignEnd=38606
+3	en	en	ADP	_	_	2	comp:obl	_	AlignBegin=38606|AlignEnd=38815|SpaceAfter=No
+4	contre-bas	contre-bas	NOUN	_	Gender=Masc|Number=Sing	3	comp:obj	_	AlignBegin=38815|AlignEnd=39024|SpaceAfter=No
+5	.	.	PUNCT	_	_	2	punct	_	AlignBegin=39024|AlignEnd=39024
+
+# sent_id = ParisStories_2023_tournageChevaux_tournageChevaux__18
+# text = on les voit.
+# sound_url = ParisStories_2023_tournageChevaux_tournageChevaux.mp3
+# speaker = L0
+# user_id = trankitParser100
+# timestamp = 0
+1	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	3	subj	_	AlignBegin=39024|AlignEnd=39242
+2	les	le	PRON	_	Number=Plur|Person=3|PronType=Prs	3	comp:obj	_	AlignBegin=39242|AlignEnd=39461
+3	voit	voir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=39461|AlignEnd=39679|SpaceAfter=No
+4	.	.	PUNCT	_	_	3	punct	_	AlignBegin=39679|AlignEnd=39679
+
+# sent_id = ParisStories_2023_tournageChevaux_tournageChevaux__19
+# text = en fait, on est sur le tournage du, du film, quoi.
+# sound_url = ParisStories_2023_tournageChevaux_tournageChevaux.mp3
+# speaker = L0
+# user_id = trankitParser100
+# timestamp = 0
+1	en	en	ADP	_	_	5	discourse	_	AlignBegin=39679|AlignEnd=39858
+2	fait	faire	NOUN	_	Gender=Masc|Number=Sing	1	comp:obj	_	AlignBegin=39858|AlignEnd=40036|SpaceAfter=No
+3	,	,	PUNCT	_	_	1	punct	_	AlignBegin=40036|AlignEnd=40036
+4	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	5	subj	_	AlignBegin=40036|AlignEnd=40215
+5	est	être	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=40215|AlignEnd=40394
+6	sur	sur	ADP	_	_	5	comp:obl	_	AlignBegin=40394|AlignEnd=40572
+7	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	8	det	_	AlignBegin=40572|AlignEnd=40751
+8	tournage	tournage	NOUN	_	Gender=Masc|Number=Sing	6	comp:obj	_	AlignBegin=40751|AlignEnd=40929
+9	du	du	ADP	de	_	8	udep	_	AlignBegin=40929|AlignEnd=41108|SpaceAfter=No
+10	,	,	PUNCT	_	_	11	punct	_	AlignBegin=41108|AlignEnd=41108
+11	du	du	ADP	de	_	9	conj:dicto	_	AlignBegin=41108|AlignEnd=41287
+12	film	film	NOUN	_	Gender=Masc|Number=Sing	11	comp:obj	_	AlignBegin=41287|AlignEnd=41465|SpaceAfter=No
+13	,	,	PUNCT	_	_	14	punct	_	AlignBegin=41465|AlignEnd=41465
+14	quoi	quoi	INTJ	_	_	12	discourse	_	AlignBegin=41465|AlignEnd=41644|SpaceAfter=No
+15	.	.	PUNCT	_	_	5	punct	_	AlignBegin=41644|AlignEnd=41644
+
+# sent_id = ParisStories_2023_tournageChevaux_tournageChevaux__20
+# text = mais à ce moment là, on savait pas qui c'était.
+# sound_url = ParisStories_2023_tournageChevaux_tournageChevaux.mp3
+# speaker = L0
+# user_id = trankitParser100
+# timestamp = 0
+1	mais	mais	CCONJ	_	_	8	cc	_	AlignBegin=42201|AlignEnd=42353
+2	à	à	ADP	_	_	8	mod	_	AlignBegin=42353|AlignEnd=42353
+3	ce	ce	DET	_	Gender=Masc|Number=Sing|PronType=Dem	4	det	_	AlignBegin=42353|AlignEnd=42505
+4	moment	moment	NOUN	_	Gender=Masc|Number=Sing	2	comp:obj	_	AlignBegin=42505|AlignEnd=42656
+5	là	là	ADV	_	_	4	mod	_	AlignBegin=42656|AlignEnd=42808|SpaceAfter=No
+6	,	,	PUNCT	_	_	2	punct	_	AlignBegin=42808|AlignEnd=42808
+7	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	8	subj	_	AlignBegin=42808|AlignEnd=42960
+8	savait	savoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	AlignBegin=42960|AlignEnd=43112
+9	pas	pas	ADV	_	_	8	mod	_	AlignBegin=43112|AlignEnd=43264
+10	qui	qui	PRON	_	PronType=Rel	12	comp:pred	_	AlignBegin=43264|AlignEnd=43415
+11	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	12	subj	_	AlignBegin=43415|AlignEnd=43567|SpaceAfter=No
+12	était	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	8	comp:obj	_	AlignBegin=43567|AlignEnd=43719|SpaceAfter=No
+13	.	.	PUNCT	_	_	8	punct	_	AlignBegin=43719|AlignEnd=43719
+
+# sent_id = ParisStories_2023_tournageChevaux_tournageChevaux__21
+# text = on savait pas quel film.
+# sound_url = ParisStories_2023_tournageChevaux_tournageChevaux.mp3
+# speaker = L0
+# user_id = trankitParser100
+# timestamp = 0
+1	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	2	subj	_	AlignBegin=44003|AlignEnd=44253
+2	savait	savoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	AlignBegin=44253|AlignEnd=44503
+3	pas	pas	ADV	_	_	2	mod	_	AlignBegin=44503|AlignEnd=44752
+4	quel	quel	DET	_	Gender=Masc|Number=Sing|Person=3|PronType=Int	5	det	_	AlignBegin=44752|AlignEnd=45002
+5	film	film	NOUN	_	Gender=Masc|Number=Sing	2	comp:obj	_	AlignBegin=45002|AlignEnd=45252|SpaceAfter=No
+6	.	.	PUNCT	_	_	2	punct	_	AlignBegin=45252|AlignEnd=45252
+
+# sent_id = ParisStories_2023_tournageChevaux_tournageChevaux__22
+# text = on savait rien du tout.
+# sound_url = ParisStories_2023_tournageChevaux_tournageChevaux.mp3
+# speaker = L0
+# user_id = trankitParser100
+# timestamp = 0
+1	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	2	subj	_	AlignBegin=45252|AlignEnd=45382
+2	savait	savoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	AlignBegin=45382|AlignEnd=45512
+3	rien	rien	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Neg	2	comp:obj	_	AlignBegin=45512|AlignEnd=45642
+4	du	du	ADP	_	_	3	mod	_	AlignBegin=45642|AlignEnd=45772
+5	tout	tout	NOUN	_	Gender=Masc|Number=Sing	4	comp:obj	_	AlignBegin=45772|AlignEnd=45902|SpaceAfter=No
+6	.	.	PUNCT	_	_	2	punct	_	AlignBegin=45902|AlignEnd=45902
+
+# sent_id = ParisStories_2023_tournageChevaux_tournageChevaux__23
+# text = je l'ai pas reconnu.
+# sound_url = ParisStories_2023_tournageChevaux_tournageChevaux.mp3
+# speaker = L0
+# user_id = trankitParser100
+# timestamp = 0
+1	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	3	subj	_	AlignBegin=204044|AlignEnd=204157
+2	l'	le	PRON	_	Number=Sing|Person=3|PronType=Prs	5	comp:obj	_	AlignBegin=204157|AlignEnd=204269|SpaceAfter=No
+3	ai	avoir	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=204269|AlignEnd=204381
+4	pas	pas	ADV	_	_	3	mod	_	AlignBegin=204381|AlignEnd=204493
+5	reconnu	reconnaître	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	comp:aux@tense	_	AlignBegin=204493|AlignEnd=204606|SpaceAfter=No
+6	.	.	PUNCT	_	_	3	punct	_	AlignBegin=204606|AlignEnd=204606
+
+# sent_id = ParisStories_2023_tournageChevaux_tournageChevaux__24
+# text = c'est un film decow-boys ? ben, ouais, mais bon, bien vu. bon, bref, et du coup, avec, euh, tout le, tout le reste du chemin, on est là " ouais, trop bien. on va, on on va apparaître dans un film. on sait pas quoi. " puis on, on sort du, du chemin. on arrive à se poser. on se gare à, euh, plus, plus loin en fait, sur une grande place. en fait, on retrouve plein de, plein de véhicules, plein de … là, on se retrouve avec plein de chevaux, plein de camions, de caméras et tout. et en fait, euh, on se retrouve du coup à, euh, au, sur l'espace de tournage. mais, à raconter, c'est un truc de dingue, parce que, normalement, tu, tu n'es pas censé te retrouver là. ben, ouais. normalement, c'est interdit au public. et je sais pas co~... ben, ouais. pourquoi du comment nous, on s'est retrouvés là. mais il y avait que vous ? ouais, il y avait que nous. c'est trop bien. je sais qu'en tout cas … franchement, c'est privilégié. bah, carrément. et du coup, on se gare là avec tous les, tous les autres camions, caméras, chevaux. alors, moi, j'étais comme une dingue, parce que, moi, les chevaux, j'adore ça. ouais, limite plus qu'eux ! j'en faisais, c'est ça. plus que de voir les mecs, parce que je comprenais pas encore. ouais. et, euh, et je me retrouve là, au milieu des chevaux. j'étais là " ouah, trop bien ! ". puis, en plein milieu du, du désert, quoi. c'est, c'est juste incroyable comme, euh, comme contexte, comme paysage. et là, d'un coup, bah, on se met à, bon, moi, je me mets à caresser les chevaux, tout ça. il y a même des gens qui me proposent de m'occup~, enfin de, euh, de les aider à s'occuper des chevaux. donc, moi je suis vraiment trop contente, hein, aux anges, euh, vraiment trop bien.. et d'un coup, on voit un mec qui débarque, mais de nulle part, hein, t~, euh, habillé encow-boy, tout noir, le masque, et compagnie. et, euh, et qui marche en mode méchant. je dis " ouah, c'est quoi ça ? ". et là, donc, il y a mon père qui était, euh, derrière et qui, qui, qui, qui demande un, à quelqu'un qui était sur, euh, sur le, sur la place, " mais qu'est ce qui se passe en fait ? parce qu'on a vu des caméramans. les enfants ont été filmés, tout ça. mais on est où ? ". et là y'a un mec qui l~, qui lui répond " bah, en fait vous êtes sur le tournage du, du fi~, du nouveau Disney, euh … ". Disney ? ouais, c'est Lone, Lone Rangers. c'est un Dis~ … je l'ai pas vu. si, c'est un Disney. et euh, il dit " ben, ça, c'est le méchant qui joue dans le film. et il y a Johnny Depp qui n'est pas loin ! ". et là, moi je me retourne. moi je, tu sais, à ce m~, je comprenais pas. moi, j'entends juste " Johnny Depp ". je fais " quoi, Johnny Depp ! ". et euh, en fait, le, Johnny Depp, c'était le, ben, c'était l'autre acteur qu'on avait vu se cabrer au bord de la falaise. oh làlà ! donc c'était le méchant et euh, et le, et Johnny Depp qui étaient en train, qu'on a vu en fait. donc, c'était trop drôle. tu aurais dû attraper le méchant. j'aurais dû attraper le méchant. et ouais, et du coup, bah, j'ai vu le méchant. et Johnny Depp, bah, en soit, euh, je l'ai vu. je l'ai aperçu. oui. mais je l'ai pas, sur le moment … tu as vu son ombre.
+# sound_url = ParisStories_2023_tournageChevaux_tournageChevaux.mp3
+# speaker = L1
+# user_id = trankitParser100
+# timestamp = 0
+1	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	2	subj	_	AlignBegin=45902|AlignEnd=46033|SpaceAfter=No
+2	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=46033|AlignEnd=46163
+3	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	4	det	_	AlignBegin=46163|AlignEnd=46293
+4	film	film	NOUN	_	Gender=Masc|Number=Sing	2	comp:pred	_	AlignBegin=46293|AlignEnd=46423
+5	de	de	ADP	_	_	4	udep	_	AlignBegin=46423|AlignEnd=46553|SpaceAfter=No
+6	cow-boys	cow-boys	NOUN	_	Gender=Masc|Number=Plur	5	comp:obj	_	AlignBegin=46553|AlignEnd=46683
+7	?	?	PUNCT	_	_	2	punct	_	AlignBegin=46683|AlignEnd=46683
+8	ben	ben	INTJ	_	_	336	discourse	_	AlignBegin=47150|AlignEnd=47422|SpaceAfter=No
+9	,	,	PUNCT	_	_	8	punct	_	AlignBegin=47422|AlignEnd=47422
+10	ouais	ouais	INTJ	_	_	336	discourse	_	AlignBegin=47422|AlignEnd=47694|SpaceAfter=No
+11	,	,	PUNCT	_	_	10	punct	_	AlignBegin=47694|AlignEnd=47694
+12	mais	mais	CCONJ	_	_	16	cc	_	AlignBegin=47694|AlignEnd=47965
+13	bon	bon	INTJ	_	_	320	discourse	_	AlignBegin=47965|AlignEnd=48237|SpaceAfter=No
+14	,	,	PUNCT	_	_	13	punct	_	AlignBegin=48237|AlignEnd=48237
+15	bien	bien	ADV	_	_	16	mod	_	AlignBegin=48868|AlignEnd=49108
+16	vu	voir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	336	conj:coord	_	AlignBegin=49108|AlignEnd=49348|SpaceAfter=No
+17	.	.	PUNCT	_	_	336	punct	_	AlignBegin=49348|AlignEnd=49348
+18	bon	bon	INTJ	_	_	336	discourse	_	AlignBegin=51259|AlignEnd=51415|SpaceAfter=No
+19	,	,	PUNCT	_	_	18	punct	_	AlignBegin=51415|AlignEnd=51415
+20	bref	bref	INTJ	_	_	40	discourse	_	AlignBegin=51415|AlignEnd=51571|SpaceAfter=No
+21	,	,	PUNCT	_	_	20	punct	_	AlignBegin=51571|AlignEnd=51571
+22	et	et	CCONJ	_	_	40	cc	_	AlignBegin=51571|AlignEnd=51726
+23	du	du	ADP	_	_	40	discourse	_	AlignBegin=51726|AlignEnd=51882
+24	coup	coup	NOUN	_	Gender=Masc|Number=Sing	23	comp:obj	_	AlignBegin=51882|AlignEnd=52038|SpaceAfter=No
+25	,	,	PUNCT	_	_	23	punct	_	AlignBegin=52038|AlignEnd=52038
+26	avec	avec	ADP	_	_	40	mod	_	AlignBegin=52038|AlignEnd=52280|SpaceAfter=No
+27	,	,	PUNCT	_	_	35	punct	_	AlignBegin=52280|AlignEnd=52280
+28	euh	euh	INTJ	_	_	35	discourse	_	AlignBegin=52280|AlignEnd=52522|SpaceAfter=No
+29	,	,	PUNCT	_	_	28	punct	_	AlignBegin=52522|AlignEnd=52522
+30	tout	tout	ADJ	_	Gender=Masc|Number=Sing	35	mod	_	AlignBegin=52522|AlignEnd=52764
+31	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	35	det	_	AlignBegin=52764|AlignEnd=53006|SpaceAfter=No
+32	,	,	PUNCT	_	_	125	punct	_	AlignBegin=53006|AlignEnd=53006
+33	tout	tout	ADJ	_	Gender=Masc|Number=Sing	125	mod	_	AlignBegin=53006|AlignEnd=53248
+34	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	35	det	_	AlignBegin=53248|AlignEnd=53490
+35	reste	rester	NOUN	_	Gender=Masc|Number=Sing	26	comp:obj	_	AlignBegin=53490|AlignEnd=53732
+36	du	du	ADP	_	_	35	udep	_	AlignBegin=53732|AlignEnd=53974
+37	chemin	chemin	NOUN	_	Gender=Masc|Number=Sing	36	comp:obj	_	AlignBegin=53974|AlignEnd=54216|SpaceAfter=No
+38	,	,	PUNCT	_	_	26	punct	_	AlignBegin=54216|AlignEnd=54216
+39	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	40	subj	_	AlignBegin=54216|AlignEnd=54382
+40	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	63	root	_	AlignBegin=54382|AlignEnd=54549
+41	là	là	ADV	_	_	40	comp:pred	_	AlignBegin=54549|AlignEnd=54715
+42	"	"	PUNCT	_	_	49	punct	_	AlignBegin=54715|AlignEnd=54715
+43	ouais	ouais	INTJ	_	_	49	discourse	_	AlignBegin=54715|AlignEnd=54881|SpaceAfter=No
+44	,	,	PUNCT	_	_	43	punct	_	AlignBegin=54881|AlignEnd=54881
+45	trop	trop	ADV	_	_	46	mod	_	AlignBegin=54881|AlignEnd=55048
+46	bien	bien	ADV	_	_	345	discourse	_	AlignBegin=55048|AlignEnd=55214|SpaceAfter=No
+47	.	.	PUNCT	_	_	207	punct	_	AlignBegin=55214|AlignEnd=55214
+48	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	49	subj	_	AlignBegin=55214|AlignEnd=55380
+49	va	aller	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	69	conj:dicto	_	AlignBegin=55380|AlignEnd=55547|SpaceAfter=No
+50	,	,	PUNCT	_	_	53	punct	_	AlignBegin=55547|AlignEnd=55547
+51	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	53	subj	_	AlignBegin=55547|AlignEnd=55713
+52	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	51	conj:dicto	_	AlignBegin=55713|AlignEnd=55995
+53	va	aller	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	229	conj:dicto	_	AlignBegin=55995|AlignEnd=56276
+54	apparaître	apparaître	VERB	_	VerbForm=Inf	53	comp:obj	_	AlignBegin=56276|AlignEnd=56558
+55	dans	dans	ADP	_	_	54	comp:obl	_	AlignBegin=56558|AlignEnd=56840
+56	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	57	det	_	AlignBegin=56840|AlignEnd=57121
+57	film	film	NOUN	_	Gender=Masc|Number=Sing	55	comp:obj	_	AlignBegin=57121|AlignEnd=57403|SpaceAfter=No
+58	.	.	PUNCT	_	_	60	punct	_	AlignBegin=57403|AlignEnd=57403
+59	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	60	subj	_	AlignBegin=57407|AlignEnd=57709
+60	sait	savoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	57	parataxis:parenth	_	AlignBegin=57709|AlignEnd=58012
+61	pas	pas	ADV	_	_	60	mod	_	AlignBegin=58012|AlignEnd=58314
+62	quoi	quoi	PRON	_	Person=3|PronType=Ind	60	comp:obj	_	AlignBegin=58314|AlignEnd=58616|SpaceAfter=No
+63	.	.	PUNCT	_	_	2	punct	_	AlignBegin=58616|AlignEnd=58616
+64	"	"	PUNCT	_	_	69	punct	_	AlignBegin=58616|AlignEnd=58616
+65	puis	puis	CCONJ	_	_	69	cc	_	AlignBegin=59572|AlignEnd=59882
+66	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	69	subj	_	AlignBegin=59882|AlignEnd=60193|SpaceAfter=No
+67	,	,	PUNCT	_	_	68	punct	_	AlignBegin=60193|AlignEnd=60193
+68	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	66	conj:dicto	_	AlignBegin=60193|AlignEnd=60503
+69	sort	sortir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	40	conj:coord	_	AlignBegin=60503|AlignEnd=60813
+70	du	du	ADP	_	_	69	comp:obl	_	AlignBegin=60813|AlignEnd=61123|SpaceAfter=No
+71	,	,	PUNCT	_	_	72	punct	_	AlignBegin=61123|AlignEnd=61123
+72	du	du	ADP	_	_	70	conj:dicto	_	AlignBegin=61123|AlignEnd=61434
+73	chemin	chemin	NOUN	_	Gender=Masc|Number=Sing	72	comp:obj	_	AlignBegin=61434|AlignEnd=61744|SpaceAfter=No
+74	.	.	PUNCT	_	_	69	punct	_	AlignBegin=61744|AlignEnd=61744
+75	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	76	subj	_	AlignBegin=61771|AlignEnd=62017
+76	arrive	arriver	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	69	conj:coord	_	AlignBegin=62017|AlignEnd=62263
+77	à	à	ADP	_	_	76	comp:obl	_	AlignBegin=62263|AlignEnd=62263
+78	se	se	PRON	_	Person=3|PronType=Prs	79	comp:obj	_	AlignBegin=62263|AlignEnd=62509
+79	poser	poser	VERB	_	VerbForm=Inf	77	comp:obj	_	AlignBegin=62509|AlignEnd=62756|SpaceAfter=No
+80	.	.	PUNCT	_	_	83	punct	_	AlignBegin=62756|AlignEnd=62756
+81	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	83	subj	_	AlignBegin=62756|AlignEnd=63002
+82	se	se	PRON	_	Person=3|PronType=Prs	83	comp@expl	_	AlignBegin=63002|AlignEnd=63248
+83	gare	gare	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	69	conj:dicto	_	AlignBegin=63248|AlignEnd=63494
+84	à	à	ADP	_	_	83	comp:obl	_	AlignBegin=63494|AlignEnd=63494|SpaceAfter=No
+85	,	,	PUNCT	_	_	91	punct	_	AlignBegin=63494|AlignEnd=63494
+86	euh	euh	INTJ	_	_	91	discourse	_	AlignBegin=63494|AlignEnd=63740|SpaceAfter=No
+87	,	,	PUNCT	_	_	88	punct	_	AlignBegin=63740|AlignEnd=63740
+88	plus	plus	ADV	_	_	91	mod	_	AlignBegin=63963|AlignEnd=64225|SpaceAfter=No
+89	,	,	PUNCT	_	_	88	punct	_	AlignBegin=64225|AlignEnd=64225
+90	plus	plus	ADV	_	_	88	conj:dicto	_	AlignBegin=64225|AlignEnd=64488
+91	loin	loin	ADV	_	_	84	conj:dicto	_	AlignBegin=64488|AlignEnd=64750
+92	en	en	ADP	_	_	95	discourse	_	AlignBegin=64750|AlignEnd=65013
+93	fait	faire	NOUN	_	Gender=Masc|Number=Sing	92	comp:obj	_	AlignBegin=65013|AlignEnd=65275|SpaceAfter=No
+94	,	,	PUNCT	_	_	95	punct	_	AlignBegin=65275|AlignEnd=65275
+95	sur	sur	ADP	_	_	91	conj:dicto	_	AlignBegin=65275|AlignEnd=65538
+96	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	98	det	_	AlignBegin=65538|AlignEnd=65800
+97	grande	grand	ADJ	_	Gender=Fem|Number=Sing	98	mod	_	AlignBegin=65800|AlignEnd=66063
+98	place	place	NOUN	_	Gender=Fem|Number=Sing	95	comp:obj	_	AlignBegin=66063|AlignEnd=66325|SpaceAfter=No
+99	.	.	PUNCT	_	_	261	punct	_	AlignBegin=66325|AlignEnd=66325
+100	en	en	ADP	_	_	104	discourse	_	AlignBegin=66325|AlignEnd=66579
+101	fait	faire	NOUN	_	Gender=Masc|Number=Sing	100	comp:obj	_	AlignBegin=66579|AlignEnd=66833|SpaceAfter=No
+102	,	,	PUNCT	_	_	100	punct	_	AlignBegin=66833|AlignEnd=66833
+103	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	104	subj	_	AlignBegin=66833|AlignEnd=67088
+104	retrouve	retrouver	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	261	conj:dicto	_	AlignBegin=67088|AlignEnd=67342
+105	plein	plein	ADV	_	_	104	comp:obj	_	AlignBegin=67342|AlignEnd=67596
+106	de	de	ADP	_	_	105	comp:obl	_	AlignBegin=67596|AlignEnd=67850|SpaceAfter=No
+107	,	,	PUNCT	_	_	108	punct	_	AlignBegin=67850|AlignEnd=67850
+108	plein	plein	ADV	_	_	105	conj:dicto	_	AlignBegin=67850|AlignEnd=68105
+109	de	de	ADP	_	_	108	comp:obl	_	AlignBegin=68105|AlignEnd=68359
+110	véhicules	véhicule	NOUN	_	Gender=Masc|Number=Plur	109	comp:obj	_	AlignBegin=68359|AlignEnd=68613|SpaceAfter=No
+111	,	,	PUNCT	_	_	112	punct	_	AlignBegin=68613|AlignEnd=68613
+112	plein	plein	ADV	_	_	108	conj:dicto	_	AlignBegin=68613|AlignEnd=68829
+113	de	de	ADP	_	_	112	comp:obl	_	AlignBegin=68829|AlignEnd=69044
+114	…	…	PUNCT	_	_	119	punct	_	AlignBegin=69044|AlignEnd=69044
+115	là	là	ADV	_	_	119	mod	_	AlignBegin=69357|AlignEnd=69537|SpaceAfter=No
+116	,	,	PUNCT	_	_	115	punct	_	AlignBegin=69537|AlignEnd=69537
+117	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	119	subj	_	AlignBegin=69537|AlignEnd=69717
+118	se	se	PRON	_	Person=3|PronType=Prs	119	comp:obj	_	AlignBegin=69717|AlignEnd=69897
+119	retrouve	retrouver	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	395	conj:dicto	_	AlignBegin=69897|AlignEnd=70078
+120	avec	avec	ADP	_	_	119	mod	_	AlignBegin=70078|AlignEnd=70258
+121	plein	plein	ADV	_	_	120	comp:obj	_	AlignBegin=70258|AlignEnd=70438
+122	de	de	ADP	_	_	121	comp:obl	_	AlignBegin=70438|AlignEnd=70618
+123	chevaux	cheval	NOUN	_	Gender=Masc|Number=Plur	122	comp:obj	_	AlignBegin=70618|AlignEnd=70798|SpaceAfter=No
+124	,	,	PUNCT	_	_	125	punct	_	AlignBegin=70798|AlignEnd=70798
+125	plein	plein	ADV	_	_	121	conj:coord	_	AlignBegin=70880|AlignEnd=71232
+126	de	de	ADP	_	_	125	comp:obl	_	AlignBegin=71232|AlignEnd=71583
+127	camions	camion	NOUN	_	Gender=Masc|Number=Plur	126	comp:obj	_	AlignBegin=71583|AlignEnd=71935|SpaceAfter=No
+128	,	,	PUNCT	_	_	129	punct	_	AlignBegin=71935|AlignEnd=71935
+129	de	de	ADP	_	_	126	conj:coord	_	AlignBegin=71935|AlignEnd=72286
+130	caméras	caméra	NOUN	_	Gender=Fem|Number=Plur	129	comp:obj	_	AlignBegin=72286|AlignEnd=72638
+131	et	et	CCONJ	_	_	132	cc	_	AlignBegin=72638|AlignEnd=72989
+132	tout	tout	ADV	_	_	112	conj:coord	_	AlignBegin=72989|AlignEnd=73341|SpaceAfter=No
+133	.	.	PUNCT	_	_	142	punct	_	AlignBegin=73341|AlignEnd=73341
+134	et	et	CCONJ	_	_	142	cc	_	AlignBegin=73655|AlignEnd=73905
+135	en	en	ADP	_	_	119	discourse	_	AlignBegin=73905|AlignEnd=74155
+136	fait	faire	NOUN	_	Gender=Masc|Number=Sing	135	comp:obj	_	AlignBegin=74155|AlignEnd=74404|SpaceAfter=No
+137	,	,	PUNCT	_	_	135	punct	_	AlignBegin=74404|AlignEnd=74404
+138	euh	euh	INTJ	_	_	119	discourse	_	AlignBegin=74404|AlignEnd=74654|SpaceAfter=No
+139	,	,	PUNCT	_	_	138	punct	_	AlignBegin=74654|AlignEnd=74654
+140	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	142	subj	_	AlignBegin=74654|AlignEnd=74810
+141	se	se	PRON	_	Person=3|PronType=Prs	142	comp:obj	_	AlignBegin=74810|AlignEnd=74966
+142	retrouve	retrouver	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	395	conj:coord	_	AlignBegin=74966|AlignEnd=75122
+143	du	du	ADP	_	_	142	discourse	_	AlignBegin=75122|AlignEnd=75278
+144	coup	coup	NOUN	_	Gender=Masc|Number=Sing	143	comp:obj	_	AlignBegin=75278|AlignEnd=75434
+145	à	à	ADP	_	_	142	comp:obl	_	AlignBegin=75434|AlignEnd=75434|SpaceAfter=No
+146	,	,	PUNCT	_	_	149	punct	_	AlignBegin=75434|AlignEnd=75434
+147	euh	euh	INTJ	_	_	149	discourse	_	AlignBegin=75434|AlignEnd=75590|SpaceAfter=No
+148	,	,	PUNCT	_	_	147	punct	_	AlignBegin=75590|AlignEnd=75590
+149	au	au	ADP	_	_	339	conj:dicto	_	AlignBegin=75590|AlignEnd=75746|SpaceAfter=No
+150	,	,	PUNCT	_	_	151	punct	_	AlignBegin=75746|AlignEnd=75746
+151	sur	sur	ADP	_	_	149	conj:dicto	_	AlignBegin=75746|AlignEnd=76136
+152	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	153	det	_	AlignBegin=76136|AlignEnd=76526|SpaceAfter=No
+153	espace	espace	NOUN	_	Gender=Masc|Number=Sing	151	comp:obj	_	AlignBegin=76526|AlignEnd=76916
+154	de	de	ADP	_	_	153	udep	_	AlignBegin=76916|AlignEnd=77306
+155	tournage	tournage	NOUN	_	Gender=Masc|Number=Sing	154	comp:obj	_	AlignBegin=77306|AlignEnd=77696|SpaceAfter=No
+156	.	.	PUNCT	_	_	395	punct	_	AlignBegin=77696|AlignEnd=77696
+157	mais	mais	CCONJ	_	_	40	cc	_	AlignBegin=78105|AlignEnd=78383|SpaceAfter=No
+158	,	,	PUNCT	_	_	157	punct	_	AlignBegin=78383|AlignEnd=78383
+159	à	à	ADP	_	_	40	mod	_	AlignBegin=79391|AlignEnd=79391
+160	raconter	raconter	VERB	_	VerbForm=Inf	159	comp:obj	_	AlignBegin=79391|AlignEnd=79579|SpaceAfter=No
+161	,	,	PUNCT	_	_	159	punct	_	AlignBegin=79579|AlignEnd=79579
+162	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	163	subj	_	AlignBegin=79579|AlignEnd=79766|SpaceAfter=No
+163	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	comp:obj	_	AlignBegin=79766|AlignEnd=79954
+164	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	165	det	_	AlignBegin=79954|AlignEnd=80141
+165	truc	truc	NOUN	_	Gender=Masc|Number=Sing	163	comp:pred	_	AlignBegin=80141|AlignEnd=80329
+166	de	de	ADP	_	_	165	mod	_	AlignBegin=80329|AlignEnd=80516
+167	dingue	dingue	NOUN	_	Gender=Masc|Number=Sing	166	comp:obj	_	AlignBegin=80516|AlignEnd=80704|SpaceAfter=No
+168	,	,	PUNCT	_	_	169	punct	_	AlignBegin=80704|AlignEnd=80704
+169	parce	parce	ADV	_	_	2	mod	_	AlignBegin=80705|AlignEnd=80957
+170	que	que	SCONJ	_	_	169	unk	_	AlignBegin=80957|AlignEnd=81209|SpaceAfter=No
+171	,	,	PUNCT	_	_	178	punct	_	AlignBegin=81209|AlignEnd=81209
+172	normalement	normalement	ADV	_	_	16	mod	_	AlignBegin=81209|AlignEnd=81461|SpaceAfter=No
+173	,	,	PUNCT	_	_	172	punct	_	AlignBegin=81461|AlignEnd=81461
+174	tu	il	PRON	_	Number=Sing|Person=2|PronType=Prs	345	subj	_	AlignBegin=81461|AlignEnd=81590|SpaceAfter=No
+175	,	,	PUNCT	_	_	176	punct	_	AlignBegin=81590|AlignEnd=81590
+176	tu	il	PRON	_	Number=Sing|Person=2|PronType=Prs	174	conj:dicto	_	AlignBegin=81590|AlignEnd=81718
+177	n'	ne	ADV	_	Polarity=Neg	178	mod	_	AlignBegin=81718|AlignEnd=81847|SpaceAfter=No
+178	es	être	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	169	comp:obj	_	AlignBegin=81847|AlignEnd=81976
+179	pas	pas	ADV	_	_	178	mod	_	AlignBegin=81976|AlignEnd=82105
+180	censé	censé	ADJ	_	Gender=Masc|Number=Sing	178	comp:pred	_	AlignBegin=82105|AlignEnd=82233
+181	te	lui	PRON	_	Number=Sing|Person=2|PronType=Prs	182	comp:obj	_	AlignBegin=82233|AlignEnd=82362
+182	retrouver	retrouver	VERB	_	VerbForm=Inf	180	comp:obj	_	AlignBegin=82362|AlignEnd=82491
+183	là	là	ADV	_	_	182	mod	_	AlignBegin=82491|AlignEnd=82620|SpaceAfter=No
+184	.	.	PUNCT	_	_	182	punct	_	AlignBegin=82620|AlignEnd=82620
+185	ben	ben	INTJ	_	_	201	discourse	_	AlignBegin=82620|AlignEnd=82748|SpaceAfter=No
+186	,	,	PUNCT	_	_	298	punct	_	AlignBegin=82748|AlignEnd=82748
+187	ouais	ouais	INTJ	_	_	199	discourse	_	AlignBegin=82748|AlignEnd=82877|SpaceAfter=No
+188	.	.	PUNCT	_	_	187	punct	_	AlignBegin=82877|AlignEnd=82877
+189	normalement	normalement	ADV	_	_	192	mod	_	AlignBegin=83500|AlignEnd=83734|SpaceAfter=No
+190	,	,	PUNCT	_	_	189	punct	_	AlignBegin=83734|AlignEnd=83734
+191	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	192	subj	_	AlignBegin=83734|AlignEnd=83969|SpaceAfter=No
+192	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	40	conj:appos	_	AlignBegin=83969|AlignEnd=84203
+193	interdit	interdire	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	192	comp:aux@pass	_	AlignBegin=84203|AlignEnd=84437
+194	au	au	ADP	_	_	193	mod	_	AlignBegin=84437|AlignEnd=84672
+195	public	public	NOUN	_	Gender=Masc|Number=Sing	194	comp:obj	_	AlignBegin=84672|AlignEnd=84906|SpaceAfter=No
+196	.	.	PUNCT	_	_	199	punct	_	AlignBegin=84906|AlignEnd=84906
+197	et	et	CCONJ	_	_	199	cc	_	AlignBegin=84906|AlignEnd=85083
+198	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	199	subj	_	AlignBegin=85083|AlignEnd=85260
+199	sais	savoir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	49	discourse	_	AlignBegin=85260|AlignEnd=85437
+200	pas	pas	ADV	_	Polarity=Neg	199	mod	_	AlignBegin=85437|AlignEnd=85614
+201	co~	co~	X	_	_	199	comp:obj	_	AlignBegin=85614|AlignEnd=85791|SpaceAfter=No
+202	...	...	PUNCT	_	_	214	punct	_	AlignBegin=85791|AlignEnd=85791
+203	ben	ben	INTJ	_	_	214	discourse	_	AlignBegin=85791|AlignEnd=85968|SpaceAfter=No
+204	,	,	PUNCT	_	_	203	punct	_	AlignBegin=85968|AlignEnd=85968
+205	ouais	ouais	INTJ	_	_	214	discourse	_	AlignBegin=85968|AlignEnd=86145|SpaceAfter=No
+206	.	.	PUNCT	_	_	205	punct	_	AlignBegin=86145|AlignEnd=86145
+207	pourquoi	pourquoi	ADV	_	_	214	mod	_	AlignBegin=86145|AlignEnd=86322
+208	du	du	ADP	_	_	207	unk	_	AlignBegin=86322|AlignEnd=86499
+209	comment	comment	ADV	_	_	208	conj:dicto	_	AlignBegin=86499|AlignEnd=86676
+210	nous	il	PRON	_	Number=Plur|Person=1|PronType=Prs	214	dislocated	_	AlignBegin=86676|AlignEnd=86768|SpaceAfter=No
+211	,	,	PUNCT	_	_	210	punct	_	AlignBegin=86768|AlignEnd=86768
+212	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	229	subj	_	AlignBegin=86768|AlignEnd=86860
+213	s'	se	PRON	_	Person=3|PronType=Prs	215	comp@pass	_	AlignBegin=86860|AlignEnd=86952|SpaceAfter=No
+214	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	345	comp:obj	_	AlignBegin=86952|AlignEnd=87043
+215	retrouvés	retrouver	VERB	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	214	comp:aux@tense	_	AlignBegin=87043|AlignEnd=87135
+216	là	là	ADV	_	_	215	mod	_	AlignBegin=87135|AlignEnd=87227|SpaceAfter=No
+217	.	.	PUNCT	_	_	395	punct	_	AlignBegin=87227|AlignEnd=87227
+218	mais	mais	CCONJ	_	_	221	cc	_	AlignBegin=87227|AlignEnd=87319
+219	il	il	PRON	_	_	221	subj@expl	_	AlignBegin=87319|AlignEnd=87411
+220	y	y	PRON	_	Person=3|PronType=Prs	221	comp@expl	_	AlignBegin=87411|AlignEnd=87503
+221	avait	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	40	conj:coord	_	AlignBegin=87503|AlignEnd=87594
+222	que	que	SCONJ	_	_	221	mod	_	AlignBegin=87594|AlignEnd=87686
+223	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	221	comp:obj	_	AlignBegin=87686|AlignEnd=87778
+224	?	?	PUNCT	_	_	69	punct	_	AlignBegin=87778|AlignEnd=87778
+225	ouais	ouais	INTJ	_	_	229	discourse	_	AlignBegin=89021|AlignEnd=89153|SpaceAfter=No
+226	,	,	PUNCT	_	_	225	punct	_	AlignBegin=89153|AlignEnd=89153
+227	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	229	subj@expl	_	AlignBegin=89153|AlignEnd=89286
+228	y	y	PRON	_	Person=3|PronType=Prs	229	comp@expl	_	AlignBegin=89286|AlignEnd=89418
+229	avait	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	221	conj:dicto	_	AlignBegin=89418|AlignEnd=89550
+230	que	que	SCONJ	_	_	229	comp:obj	_	AlignBegin=89550|AlignEnd=89683
+231	nous	il	PRON	_	Number=Plur|Person=1|PronType=Prs	229	comp:obj	_	AlignBegin=89683|AlignEnd=89815|SpaceAfter=No
+232	.	.	PUNCT	_	_	234	punct	_	AlignBegin=89815|AlignEnd=89815
+233	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	234	subj	_	AlignBegin=90650|AlignEnd=90807|SpaceAfter=No
+234	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	229	parataxis:parenth	_	AlignBegin=90807|AlignEnd=90964
+235	trop	trop	ADV	_	_	236	mod	_	AlignBegin=90964|AlignEnd=91120
+236	bien	bien	ADV	_	_	234	comp:pred	_	AlignBegin=91120|AlignEnd=91277|SpaceAfter=No
+237	.	.	PUNCT	_	_	239	punct	_	AlignBegin=91277|AlignEnd=91277
+238	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	239	subj	_	AlignBegin=91277|AlignEnd=91434
+239	sais	savoir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	234	mod	_	AlignBegin=91434|AlignEnd=91591
+240	qu'	que	SCONJ	_	_	239	comp:obj	_	AlignBegin=91591|AlignEnd=91747|SpaceAfter=No
+241	en	en	ADP	_	_	248	discourse	_	AlignBegin=91747|AlignEnd=91904
+242	tout	tout	ADJ	_	Gender=Masc|Number=Sing	243	mod	_	AlignBegin=91904|AlignEnd=92061
+243	cas	cas	NOUN	_	Gender=Masc|Number=Sing	241	comp:obj	_	AlignBegin=92061|AlignEnd=92218
+244	…	…	PUNCT	_	_	241	punct	_	AlignBegin=92218|AlignEnd=92218
+245	franchement	franchement	ADV	_	_	248	mod	_	AlignBegin=92218|AlignEnd=92374|SpaceAfter=No
+246	,	,	PUNCT	_	_	245	punct	_	AlignBegin=92374|AlignEnd=92374
+247	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	248	subj	_	AlignBegin=92374|AlignEnd=92531|SpaceAfter=No
+248	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	240	comp:obj	_	AlignBegin=92531|AlignEnd=92688
+249	privilégié	privilégier	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	248	comp:aux@pass	_	AlignBegin=92688|AlignEnd=92845|SpaceAfter=No
+250	.	.	PUNCT	_	_	91	punct	_	AlignBegin=92845|AlignEnd=92845
+251	bah	bah	INTJ	_	_	83	discourse	_	AlignBegin=92845|AlignEnd=93001|SpaceAfter=No
+252	,	,	PUNCT	_	_	251	punct	_	AlignBegin=93001|AlignEnd=93001
+253	carrément	carrément	ADV	_	_	83	mod	_	AlignBegin=93001|AlignEnd=93158|SpaceAfter=No
+254	.	.	PUNCT	_	_	253	punct	_	AlignBegin=93158|AlignEnd=93158
+255	et	et	CCONJ	_	_	261	cc	_	AlignBegin=93195|AlignEnd=93465
+256	du	du	ADP	_	_	261	discourse	_	AlignBegin=93465|AlignEnd=93736
+257	coup	coup	NOUN	_	Gender=Masc|Number=Sing	256	comp:obj	_	AlignBegin=93736|AlignEnd=94006|SpaceAfter=No
+258	,	,	PUNCT	_	_	256	punct	_	AlignBegin=94006|AlignEnd=94006
+259	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	261	subj	_	AlignBegin=94006|AlignEnd=94276
+260	se	se	PRON	_	Person=3|PronType=Prs	261	comp@expl	_	AlignBegin=94276|AlignEnd=94547
+261	gare	gare	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	83	comp:obj	_	AlignBegin=94547|AlignEnd=94817
+262	là	là	ADV	_	_	261	mod	_	AlignBegin=94817|AlignEnd=95087
+263	avec	avec	ADP	_	_	261	mod	_	AlignBegin=95087|AlignEnd=95357
+264	tous	tout	ADJ	_	Gender=Masc|Number=Plur	270	mod	_	AlignBegin=95357|AlignEnd=95628
+265	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	270	det	_	AlignBegin=95628|AlignEnd=95898|SpaceAfter=No
+266	,	,	PUNCT	_	_	265	punct	_	AlignBegin=95898|AlignEnd=95898
+267	tous	tout	ADJ	_	Gender=Masc|Number=Plur	270	mod	_	AlignBegin=96144|AlignEnd=96523
+268	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	265	conj:dicto	_	AlignBegin=96523|AlignEnd=96902
+269	autres	autre	ADJ	_	Gender=Masc|Number=Plur	270	mod	_	AlignBegin=96902|AlignEnd=97280
+270	camions	camion	NOUN	_	Gender=Masc|Number=Plur	263	comp:obj	_	AlignBegin=97280|AlignEnd=97659|SpaceAfter=No
+271	,	,	PUNCT	_	_	272	punct	_	AlignBegin=97659|AlignEnd=97659
+272	caméras	caméra	NOUN	_	Gender=Fem|Number=Plur	270	conj:coord	_	AlignBegin=97659|AlignEnd=98229|SpaceAfter=No
+273	,	,	PUNCT	_	_	274	punct	_	AlignBegin=98229|AlignEnd=98229
+274	chevaux	cheval	NOUN	_	Gender=Masc|Number=Plur	272	conj:coord	_	AlignBegin=98229|AlignEnd=98798|SpaceAfter=No
+275	.	.	PUNCT	_	_	281	punct	_	AlignBegin=98798|AlignEnd=98798
+276	alors	alors	ADV	_	_	281	mod	_	AlignBegin=99001|AlignEnd=99115|SpaceAfter=No
+277	,	,	PUNCT	_	_	276	punct	_	AlignBegin=99115|AlignEnd=99115
+278	moi	lui	PRON	_	Number=Sing|Person=1|PronType=Prs	281	dislocated	_	AlignBegin=99115|AlignEnd=99230|SpaceAfter=No
+279	,	,	PUNCT	_	_	278	punct	_	AlignBegin=99230|AlignEnd=99230
+280	j'	il	PRON	_	Number=Sing|Person=1|PronType=Prs	281	subj	_	AlignBegin=99230|AlignEnd=99344|SpaceAfter=No
+281	étais	être	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	2	conj:coord	_	AlignBegin=99344|AlignEnd=99458
+282	comme	comme	ADP	_	_	281	mod	_	AlignBegin=99458|AlignEnd=99572
+283	une	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	284	det	_	AlignBegin=99572|AlignEnd=99687
+284	dingue	dingue	NOUN	_	Gender=Fem|Number=Sing	282	comp:obj	_	AlignBegin=99687|AlignEnd=99801|SpaceAfter=No
+285	,	,	PUNCT	_	_	286	punct	_	AlignBegin=99801|AlignEnd=99801
+286	parce	parce	ADV	_	_	2	mod	_	AlignBegin=99808|AlignEnd=99921
+287	que	que	SCONJ	_	_	286	unk	_	AlignBegin=99921|AlignEnd=100034|SpaceAfter=No
+288	,	,	PUNCT	_	_	295	punct	_	AlignBegin=100034|AlignEnd=100034
+289	moi	lui	PRON	_	Number=Sing|Person=1|PronType=Prs	295	dislocated	_	AlignBegin=100034|AlignEnd=100147|SpaceAfter=No
+290	,	,	PUNCT	_	_	289	punct	_	AlignBegin=100147|AlignEnd=100147
+291	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	292	det	_	AlignBegin=100147|AlignEnd=100260
+292	chevaux	cheval	NOUN	_	Gender=Masc|Number=Plur	295	mod	_	AlignBegin=100260|AlignEnd=100373|SpaceAfter=No
+293	,	,	PUNCT	_	_	292	punct	_	AlignBegin=100373|AlignEnd=100373
+294	j'	il	PRON	_	Number=Sing|Person=1|PronType=Prs	295	subj	_	AlignBegin=100373|AlignEnd=100486|SpaceAfter=No
+295	adore	adorer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	286	comp:obj	_	AlignBegin=100486|AlignEnd=100598
+296	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	295	comp:obj	_	AlignBegin=100598|AlignEnd=100711|SpaceAfter=No
+297	.	.	PUNCT	_	_	125	punct	_	AlignBegin=100711|AlignEnd=100711
+298	ouais	ouais	INTJ	_	_	125	discourse	_	AlignBegin=100711|AlignEnd=100824|SpaceAfter=No
+299	,	,	PUNCT	_	_	298	punct	_	AlignBegin=100824|AlignEnd=100824
+300	limite	limite	ADV	_	_	301	mod	_	AlignBegin=100824|AlignEnd=100937
+301	plus	plus	ADV	_	_	108	mod	_	AlignBegin=100937|AlignEnd=101050
+302	qu'	que	SCONJ	_	_	301	comp:obj	_	AlignBegin=101050|AlignEnd=101163|SpaceAfter=No
+303	eux	lui	PRON	_	Gender=Masc|Number=Plur|Person=3|PronType=Prs	302	comp:obj	_	AlignBegin=101163|AlignEnd=101276
+304	!	!	PUNCT	_	_	404	punct	_	AlignBegin=101276|AlignEnd=101276
+305	j'	il	PRON	_	Number=Sing|Person=1|PronType=Prs	307	subj	_	AlignBegin=101888|AlignEnd=102039|SpaceAfter=No
+306	en	en	PRON	_	Person=3|PronType=Prs	310	comp:obj	_	AlignBegin=102039|AlignEnd=102189
+307	faisais	faire	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	336	discourse	_	AlignBegin=102189|AlignEnd=102340|SpaceAfter=No
+308	,	,	PUNCT	_	_	310	punct	_	AlignBegin=102340|AlignEnd=102340
+309	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	310	subj	_	AlignBegin=102340|AlignEnd=102490|SpaceAfter=No
+310	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	336	discourse	_	AlignBegin=102490|AlignEnd=102641
+311	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	310	comp:pred	_	AlignBegin=102641|AlignEnd=102791|SpaceAfter=No
+312	.	.	PUNCT	_	_	16	punct	_	AlignBegin=102791|AlignEnd=102791
+313	plus	plus	ADV	_	_	314	mod	_	AlignBegin=103710|AlignEnd=103886
+314	que	que	SCONJ	_	_	329	unk	_	AlignBegin=103886|AlignEnd=104061
+315	de	de	ADP	_	_	314	comp:obj	_	AlignBegin=104061|AlignEnd=104237
+316	voir	voir	VERB	_	VerbForm=Inf	315	comp:obj	_	AlignBegin=104237|AlignEnd=104413
+317	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	318	det	_	AlignBegin=104413|AlignEnd=104588
+318	mecs	mecs	NOUN	_	Gender=Masc|Number=Plur	316	comp:obj	_	AlignBegin=104588|AlignEnd=104764|SpaceAfter=No
+319	,	,	PUNCT	_	_	320	punct	_	AlignBegin=104764|AlignEnd=104764
+320	parce	parce	ADV	_	_	16	mod	_	AlignBegin=104764|AlignEnd=104930
+321	que	que	SCONJ	_	_	320	unk	_	AlignBegin=104930|AlignEnd=105096
+322	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	323	subj	_	AlignBegin=105096|AlignEnd=105262
+323	comprenais	comprendre	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	320	comp:obj	_	AlignBegin=105262|AlignEnd=105429
+324	pas	pas	ADV	_	_	323	mod	_	AlignBegin=105429|AlignEnd=105595
+325	encore	encore	ADV	_	_	323	mod	_	AlignBegin=105595|AlignEnd=105761|SpaceAfter=No
+326	.	.	PUNCT	_	_	199	punct	_	AlignBegin=105761|AlignEnd=105761
+327	ouais	ouais	INTJ	_	_	192	discourse	_	AlignBegin=105761|AlignEnd=105927|SpaceAfter=No
+328	.	.	PUNCT	_	_	327	punct	_	AlignBegin=105927|AlignEnd=105927
+329	et	et	CCONJ	_	_	336	cc	_	AlignBegin=106439|AlignEnd=106781|SpaceAfter=No
+330	,	,	PUNCT	_	_	331	punct	_	AlignBegin=106781|AlignEnd=106781
+331	euh	euh	INTJ	_	_	329	discourse	_	AlignBegin=106781|AlignEnd=107122|SpaceAfter=No
+332	,	,	PUNCT	_	_	331	punct	_	AlignBegin=107122|AlignEnd=107122
+333	et	et	CCONJ	_	_	329	conj:dicto	_	AlignBegin=107947|AlignEnd=108156
+334	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	336	subj	_	AlignBegin=108156|AlignEnd=108366
+335	me	lui	PRON	_	Number=Sing|Person=1|PronType=Prs	336	comp:obj	_	AlignBegin=108366|AlignEnd=108575
+336	retrouve	retrouver	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	395	comp:obj	_	AlignBegin=108575|AlignEnd=108784
+337	là	là	ADV	_	_	336	comp:obl	_	AlignBegin=108784|AlignEnd=108994|SpaceAfter=No
+338	,	,	PUNCT	_	_	339	punct	_	AlignBegin=108994|AlignEnd=108994
+339	au	au	ADP	_	_	336	mod	_	AlignBegin=108994|AlignEnd=109203
+340	milieu	milieu	NOUN	_	Gender=Masc|Number=Sing	339	comp:obj	_	AlignBegin=109203|AlignEnd=109412
+341	des	un	ADP	_	_	340	udep	_	AlignBegin=109412|AlignEnd=109622
+342	chevaux	cheval	NOUN	_	Gender=Masc|Number=Plur	341	comp:obj	_	AlignBegin=109622|AlignEnd=109831|SpaceAfter=No
+343	.	.	PUNCT	_	_	336	punct	_	AlignBegin=109831|AlignEnd=109831
+344	j'	il	PRON	_	Number=Sing|Person=1|PronType=Prs	345	subj	_	AlignBegin=109831|AlignEnd=110078|SpaceAfter=No
+345	étais	être	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	40	conj:coord	_	AlignBegin=110078|AlignEnd=110324
+346	là	là	ADV	_	_	345	comp:pred	_	AlignBegin=110324|AlignEnd=110571
+347	"	"	PUNCT	_	_	207	punct	_	AlignBegin=110571|AlignEnd=110571
+348	ouah	ouah	INTJ	_	_	199	discourse	_	AlignBegin=110571|AlignEnd=110818|SpaceAfter=No
+349	,	,	PUNCT	_	_	348	punct	_	AlignBegin=110818|AlignEnd=110818
+350	trop	trop	ADV	_	_	351	mod	_	AlignBegin=110818|AlignEnd=111064
+351	bien	bien	ADV	_	_	199	mod	_	AlignBegin=111064|AlignEnd=111311
+352	!	!	PUNCT	_	_	351	punct	_	AlignBegin=111311|AlignEnd=111311
+353	"	"	PUNCT	_	_	49	punct	_	AlignBegin=111311|AlignEnd=111311|SpaceAfter=No
+354	.	.	PUNCT	_	_	221	punct	_	AlignBegin=111311|AlignEnd=111311
+355	puis	puis	CCONJ	_	_	221	cc	_	AlignBegin=111381|AlignEnd=111617|SpaceAfter=No
+356	,	,	PUNCT	_	_	207	punct	_	AlignBegin=111617|AlignEnd=111617
+357	en	en	ADP	_	_	69	mod	_	AlignBegin=111617|AlignEnd=111853
+358	plein	plein	ADJ	_	Gender=Masc|Number=Sing	359	mod	_	AlignBegin=111853|AlignEnd=112089
+359	milieu	milieu	NOUN	_	Gender=Masc|Number=Sing	357	comp:obj	_	AlignBegin=112089|AlignEnd=112325
+360	du	du	ADP	_	_	359	udep	_	AlignBegin=112325|AlignEnd=112560|SpaceAfter=No
+361	,	,	PUNCT	_	_	362	punct	_	AlignBegin=112560|AlignEnd=112560
+362	du	du	ADP	_	_	360	conj:dicto	_	AlignBegin=112560|AlignEnd=112796
+363	désert	désert	NOUN	_	Gender=Masc|Number=Sing	362	comp:obj	_	AlignBegin=112796|AlignEnd=113032|SpaceAfter=No
+364	,	,	PUNCT	_	_	365	punct	_	AlignBegin=113032|AlignEnd=113032
+365	quoi	quoi	INTJ	_	_	261	discourse	_	AlignBegin=113032|AlignEnd=113268|SpaceAfter=No
+366	.	.	PUNCT	_	_	365	punct	_	AlignBegin=113268|AlignEnd=113268
+367	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	371	subj	_	AlignBegin=113268|AlignEnd=113461|SpaceAfter=No
+368	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	discourse	_	AlignBegin=113461|AlignEnd=113654|SpaceAfter=No
+369	,	,	PUNCT	_	_	371	punct	_	AlignBegin=113654|AlignEnd=113654
+370	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	371	subj	_	AlignBegin=113654|AlignEnd=113847|SpaceAfter=No
+371	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	69	conj:dicto	_	AlignBegin=113847|AlignEnd=114041
+372	juste	juste	ADV	_	_	373	mod	_	AlignBegin=114041|AlignEnd=114234
+373	incroyable	incroyable	ADJ	_	Number=Sing	371	comp:pred	_	AlignBegin=114234|AlignEnd=114427
+374	comme	comme	ADP	_	_	76	mod	_	AlignBegin=114427|AlignEnd=114620|SpaceAfter=No
+375	,	,	PUNCT	_	_	378	punct	_	AlignBegin=114620|AlignEnd=114620
+376	euh	euh	INTJ	_	_	378	discourse	_	AlignBegin=114620|AlignEnd=114813|SpaceAfter=No
+377	,	,	PUNCT	_	_	376	punct	_	AlignBegin=114813|AlignEnd=114813
+378	comme	comme	ADP	_	_	374	conj:dicto	_	AlignBegin=114813|AlignEnd=115150
+379	contexte	contexte	NOUN	_	Gender=Masc|Number=Sing	378	comp:obj	_	AlignBegin=115150|AlignEnd=115488|SpaceAfter=No
+380	,	,	PUNCT	_	_	381	punct	_	AlignBegin=115488|AlignEnd=115488
+381	comme	comme	ADP	_	_	378	conj:dicto	_	AlignBegin=115488|AlignEnd=115825
+382	paysage	paysage	NOUN	_	Gender=Masc|Number=Sing	381	comp:obj	_	AlignBegin=115825|AlignEnd=116162|SpaceAfter=No
+383	.	.	PUNCT	_	_	395	punct	_	AlignBegin=116162|AlignEnd=116162
+384	et	et	CCONJ	_	_	2	cc	_	AlignBegin=117202|AlignEnd=117378
+385	là	là	ADV	_	_	395	mod	_	AlignBegin=117378|AlignEnd=117554|SpaceAfter=No
+386	,	,	PUNCT	_	_	385	punct	_	AlignBegin=117554|AlignEnd=117554
+387	d'	de	ADP	_	_	2	mod	_	AlignBegin=117554|AlignEnd=117731|SpaceAfter=No
+388	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	389	det	_	AlignBegin=117731|AlignEnd=117907
+389	coup	coup	NOUN	_	Gender=Masc|Number=Sing	387	comp:obj	_	AlignBegin=117907|AlignEnd=118083|SpaceAfter=No
+390	,	,	PUNCT	_	_	387	punct	_	AlignBegin=118083|AlignEnd=118083
+391	bah	bah	INTJ	_	_	40	discourse	_	AlignBegin=118548|AlignEnd=119103|SpaceAfter=No
+392	,	,	PUNCT	_	_	391	punct	_	AlignBegin=119103|AlignEnd=119103
+393	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	40	subj	_	AlignBegin=119103|AlignEnd=119659
+394	se	se	PRON	_	Person=3|PronType=Prs	40	comp:obj	_	AlignBegin=119659|AlignEnd=120214
+395	met	mettre	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	63	root	_	AlignBegin=120214|AlignEnd=120769
+396	à	à	ADP	_	_	395	comp:obl	_	AlignBegin=120769|AlignEnd=120769|SpaceAfter=No
+397	,	,	PUNCT	_	_	395	punct	_	AlignBegin=120769|AlignEnd=120769
+398	bon	bon	INTJ	_	_	404	discourse	_	AlignBegin=120769|AlignEnd=121023|SpaceAfter=No
+399	,	,	PUNCT	_	_	398	punct	_	AlignBegin=121023|AlignEnd=121023
+400	moi	lui	PRON	_	Number=Sing|Person=1|PronType=Prs	404	dislocated	_	AlignBegin=121023|AlignEnd=121276|SpaceAfter=No
+401	,	,	PUNCT	_	_	400	punct	_	AlignBegin=121276|AlignEnd=121276
+402	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	404	subj	_	AlignBegin=121276|AlignEnd=121530
+403	me	lui	PRON	_	Number=Sing|Person=1|PronType=Prs|Reflex=Yes	404	comp@expl	_	AlignBegin=121530|AlignEnd=121784
+404	mets	mettre	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	395	conj:dicto	_	AlignBegin=121784|AlignEnd=122038
+405	à	à	ADP	_	_	404	comp:obl	_	AlignBegin=122038|AlignEnd=122038
+406	caresser	caresser	VERB	_	VerbForm=Inf	405	comp:obj	_	AlignBegin=122038|AlignEnd=122291
+407	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	408	det	_	AlignBegin=122291|AlignEnd=122545
+408	chevaux	cheval	NOUN	_	Gender=Masc|Number=Plur	406	comp:obj	_	AlignBegin=122545|AlignEnd=122799|SpaceAfter=No
+409	,	,	PUNCT	_	_	411	punct	_	AlignBegin=122799|AlignEnd=122799
+410	tout	tout	ADJ	_	Gender=Masc|Number=Sing	132	mod	_	AlignBegin=122799|AlignEnd=123052
+411	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	91	conj:coord	_	AlignBegin=123052|AlignEnd=123306|SpaceAfter=No
+412	.	.	PUNCT	_	_	281	punct	_	AlignBegin=123306|AlignEnd=123306
+413	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	415	subj@expl	_	AlignBegin=123306|AlignEnd=123469
+414	y	y	PRON	_	Person=3|PronType=Prs	415	comp@expl	_	AlignBegin=123469|AlignEnd=123632
+415	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj:coord	_	AlignBegin=123632|AlignEnd=123795
+416	même	même	ADV	_	_	418	mod	_	AlignBegin=123795|AlignEnd=123958
+417	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	418	det	_	AlignBegin=123958|AlignEnd=124121
+418	gens	gens	NOUN	_	Gender=Masc|Number=Plur	415	comp:obj	_	AlignBegin=124121|AlignEnd=124284
+419	qui	qui	PRON	_	_	421	subj	_	AlignBegin=124284|AlignEnd=124447
+420	me	lui	PRON	_	Number=Sing|Person=1|PronType=Prs	421	comp:obl	_	AlignBegin=124447|AlignEnd=124610
+421	proposent	proposer	VERB	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	418	mod@relcl	_	AlignBegin=124610|AlignEnd=124773
+422	de	de	ADP	_	_	421	comp:obl	_	AlignBegin=124773|AlignEnd=124936
+423	m'	lui	PRON	_	Number=Sing|Person=1|PronType=Prs	424	comp:obj	_	AlignBegin=124936|AlignEnd=125143|SpaceAfter=No
+424	occup~	occup~	X	_	_	422	comp:obj	_	AlignBegin=125143|AlignEnd=125350|SpaceAfter=No
+425	,	,	PUNCT	_	_	426	punct	_	AlignBegin=125350|AlignEnd=125350
+426	enfin	enfin	ADV	_	_	270	discourse	_	AlignBegin=125350|AlignEnd=125557
+427	de	de	ADP	_	_	424	conj:dicto	_	AlignBegin=125557|AlignEnd=125764|SpaceAfter=No
+428	,	,	PUNCT	_	_	274	punct	_	AlignBegin=125764|AlignEnd=125764
+429	euh	euh	INTJ	_	_	117	discourse	_	AlignBegin=125764|AlignEnd=125970|SpaceAfter=No
+430	,	,	PUNCT	_	_	2	punct	_	AlignBegin=125970|AlignEnd=125970
+431	de	de	ADP	_	_	100	mod	_	AlignBegin=125970|AlignEnd=126177
+432	les	le	PRON	_	Number=Plur|Person=3|PronType=Prs	6	comp:obj	_	AlignBegin=126177|AlignEnd=126384
+433	aider	aider	VERB	_	VerbForm=Inf	4	comp:obj	_	AlignBegin=126384|AlignEnd=126591
+434	à	à	ADP	_	_	6	comp:obl	_	AlignBegin=126591|AlignEnd=126591
+435	s'	se	PRON	_	Person=3|PronType=Prs|Reflex=Yes	9	comp@expl	_	AlignBegin=126591|AlignEnd=126929|SpaceAfter=No
+436	occuper	occuper	VERB	_	VerbForm=Inf	7	comp:obj	_	AlignBegin=126929|AlignEnd=127268
+437	des	un	ADP	_	_	9	comp:obl	_	AlignBegin=127268|AlignEnd=127606
+438	chevaux	cheval	NOUN	_	Gender=Masc|Number=Plur	10	comp:obj	_	AlignBegin=127606|AlignEnd=127944|SpaceAfter=No
+439	.	.	PUNCT	_	_	322	punct	_	AlignBegin=127944|AlignEnd=127944
+440	donc	donc	ADV	_	_	17	mod	_	AlignBegin=128488|AlignEnd=128673|SpaceAfter=No
+441	,	,	PUNCT	_	_	13	punct	_	AlignBegin=128673|AlignEnd=128673
+442	moi	lui	PRON	_	Number=Sing|Person=1|PronType=Prs	17	dislocated	_	AlignBegin=128673|AlignEnd=128859
+443	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	17	subj	_	AlignBegin=128859|AlignEnd=129044
+444	suis	être	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	100	comp:obj	_	AlignBegin=129044|AlignEnd=129230
+445	vraiment	vraiment	ADV	_	_	322	mod	_	AlignBegin=129230|AlignEnd=129415
+446	trop	trop	ADV	_	_	20	mod	_	AlignBegin=129415|AlignEnd=129601
+447	contente	content	ADJ	_	Gender=Fem|Number=Sing	17	comp:pred	_	AlignBegin=129601|AlignEnd=129786|SpaceAfter=No
+448	,	,	PUNCT	_	_	22	punct	_	AlignBegin=129786|AlignEnd=129786
+449	hein	hein	INTJ	_	_	20	discourse	_	AlignBegin=129786|AlignEnd=129996|SpaceAfter=No
+450	,	,	PUNCT	_	_	24	punct	_	AlignBegin=129996|AlignEnd=129996
+451	aux	au	ADP	_	_	20	mod	_	AlignBegin=129996|AlignEnd=130206
+452	anges	ange	NOUN	_	Gender=Masc|Number=Plur	24	comp:obj	_	AlignBegin=130206|AlignEnd=130416|SpaceAfter=No
+453	,	,	PUNCT	_	_	188	punct	_	AlignBegin=130416|AlignEnd=130416
+454	euh	euh	INTJ	_	_	205	discourse	_	AlignBegin=130416|AlignEnd=130626|SpaceAfter=No
+455	,	,	PUNCT	_	_	27	punct	_	AlignBegin=130626|AlignEnd=130626
+456	vraiment	vraiment	ADV	_	_	30	mod	_	AlignBegin=130626|AlignEnd=130836
+457	trop	trop	ADV	_	_	31	mod	_	AlignBegin=130836|AlignEnd=131046
+458	bien	bien	ADV	_	_	188	mod	_	AlignBegin=131046|AlignEnd=131256|SpaceAfter=No
+459	.	.	PUNCT	_	_	40	punct	_	AlignBegin=131256|AlignEnd=131256|SpaceAfter=No
+460	.	.	PUNCT	_	_	40	punct	_	AlignBegin=131256|AlignEnd=131256
+461	et	et	CCONJ	_	_	40	cc	_	AlignBegin=131256|AlignEnd=131480
+462	d'	de	ADP	_	_	40	mod	_	AlignBegin=131480|AlignEnd=131704|SpaceAfter=No
+463	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	37	det	_	AlignBegin=131704|AlignEnd=131928
+464	coup	coup	NOUN	_	Gender=Masc|Number=Sing	35	comp:obj	_	AlignBegin=131928|AlignEnd=132153|SpaceAfter=No
+465	,	,	PUNCT	_	_	35	punct	_	AlignBegin=132153|AlignEnd=132153
+466	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	40	subj	_	AlignBegin=132153|AlignEnd=132377
+467	voit	voir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	343	root	_	AlignBegin=132377|AlignEnd=132601
+468	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	42	det	_	AlignBegin=132601|AlignEnd=132825
+469	mec	mec	NOUN	_	Gender=Masc|Number=Sing	40	comp:obj	_	AlignBegin=132825|AlignEnd=133049
+470	qui	qui	PRON	_	PronType=Rel	44	subj	_	AlignBegin=133213|AlignEnd=133538
+471	débarque	débarquer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	42	mod@relcl	_	AlignBegin=133538|AlignEnd=133862|SpaceAfter=No
+472	,	,	PUNCT	_	_	44	punct	_	AlignBegin=133862|AlignEnd=133862
+473	mais	mais	CCONJ	_	_	47	cc	_	AlignBegin=133862|AlignEnd=134187
+474	de	de	ADP	_	_	44	mod	_	AlignBegin=134187|AlignEnd=134511
+475	nulle	nul	DET	_	Gender=Fem|Number=Sing	49	mod	_	AlignBegin=134511|AlignEnd=134836
+476	part	part	NOUN	_	Gender=Fem|Number=Sing	47	comp:obj	_	AlignBegin=134836|AlignEnd=135160|SpaceAfter=No
+477	,	,	PUNCT	_	_	51	punct	_	AlignBegin=135160|AlignEnd=135160
+478	hein	hein	INTJ	_	_	53	discourse	_	AlignBegin=135160|AlignEnd=135530|SpaceAfter=No
+479	,	,	PUNCT	_	_	53	punct	_	AlignBegin=135530|AlignEnd=135530
+480	t~	t~	X	_	_	44	conj:dicto	_	AlignBegin=135530|AlignEnd=135900|SpaceAfter=No
+481	,	,	PUNCT	_	_	55	punct	_	AlignBegin=135900|AlignEnd=135900
+482	euh	euh	INTJ	_	_	53	discourse	_	AlignBegin=135900|AlignEnd=136270|SpaceAfter=No
+483	,	,	PUNCT	_	_	55	punct	_	AlignBegin=136270|AlignEnd=136270
+484	habillé	habiller	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	44	mod	_	AlignBegin=136270|AlignEnd=136640
+485	en	en	ADP	_	_	57	mod	_	AlignBegin=136640|AlignEnd=137010|SpaceAfter=No
+486	cow-boy	cow-boy	NOUN	_	Gender=Masc|Number=Sing	58	comp:obj	_	AlignBegin=137010|AlignEnd=137380|SpaceAfter=No
+487	,	,	PUNCT	_	_	62	punct	_	AlignBegin=137380|AlignEnd=137380
+488	tout	tout	ADV	_	_	62	mod	_	AlignBegin=137380|AlignEnd=137696
+489	noir	noir	ADJ	_	Gender=Masc|Number=Sing	59	conj:dicto	_	AlignBegin=137696|AlignEnd=138011|SpaceAfter=No
+490	,	,	PUNCT	_	_	65	punct	_	AlignBegin=138011|AlignEnd=138011
+491	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	65	det	_	AlignBegin=138011|AlignEnd=138327
+492	masque	masque	NOUN	_	Gender=Masc|Number=Sing	62	conj:coord	_	AlignBegin=138327|AlignEnd=138642|SpaceAfter=No
+493	,	,	PUNCT	_	_	68	punct	_	AlignBegin=138642|AlignEnd=138642
+494	et	et	CCONJ	_	_	68	cc	_	AlignBegin=138642|AlignEnd=138958
+495	compagnie	compagnie	NOUN	_	Gender=Fem|Number=Sing	65	conj:coord	_	AlignBegin=138958|AlignEnd=139273|SpaceAfter=No
+496	.	.	PUNCT	_	_	76	punct	_	AlignBegin=139273|AlignEnd=139273
+497	et	et	CCONJ	_	_	76	cc	_	AlignBegin=140110|AlignEnd=140531|SpaceAfter=No
+498	,	,	PUNCT	_	_	70	punct	_	AlignBegin=140531|AlignEnd=140531
+499	euh	euh	INTJ	_	_	76	discourse	_	AlignBegin=140531|AlignEnd=140952|SpaceAfter=No
+500	,	,	PUNCT	_	_	72	punct	_	AlignBegin=140952|AlignEnd=140952
+501	et	et	CCONJ	_	_	76	cc	_	AlignBegin=141753|AlignEnd=141960
+502	qui	qui	PRON	_	PronType=Rel	76	subj	_	AlignBegin=141960|AlignEnd=142166
+503	marche	marcher	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	245	conj:coord	_	AlignBegin=142166|AlignEnd=142373
+504	en	en	ADP	_	_	76	mod	_	AlignBegin=142373|AlignEnd=142579
+505	mode	mode	NOUN	_	Gender=Masc|Number=Sing	77	comp:obj	_	AlignBegin=142579|AlignEnd=142786
+506	méchant	méchant	ADJ	_	Gender=Masc|Number=Sing	78	mod	_	AlignBegin=142786|AlignEnd=142992|SpaceAfter=No
+507	.	.	PUNCT	_	_	82	punct	_	AlignBegin=142992|AlignEnd=142992
+508	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	238	subj	_	AlignBegin=143942|AlignEnd=144098
+509	dis	dire	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	404	conj:coord	_	AlignBegin=144098|AlignEnd=144253
+510	"	"	PUNCT	_	_	87	punct	_	AlignBegin=144253|AlignEnd=144253
+511	ouah	ouah	INTJ	_	_	87	discourse	_	AlignBegin=144253|AlignEnd=144409|SpaceAfter=No
+512	,	,	PUNCT	_	_	84	punct	_	AlignBegin=144409|AlignEnd=144409
+513	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	87	subj@expl	_	AlignBegin=144409|AlignEnd=144565|SpaceAfter=No
+514	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	82	comp:obj	_	AlignBegin=144565|AlignEnd=144721
+515	quoi	quoi	PRON	_	Person=3|PronType=Int	87	comp:pred	_	AlignBegin=144721|AlignEnd=144876
+516	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	87	mod	_	AlignBegin=144876|AlignEnd=145032
+517	?	?	PUNCT	_	_	87	punct	_	AlignBegin=145032|AlignEnd=145032
+518	"	"	PUNCT	_	_	87	punct	_	AlignBegin=145032|AlignEnd=145032|SpaceAfter=No
+519	.	.	PUNCT	_	_	274	punct	_	AlignBegin=145032|AlignEnd=145032
+520	et	et	CCONJ	_	_	274	cc	_	AlignBegin=145436|AlignEnd=145635
+521	là	là	ADV	_	_	274	mod	_	AlignBegin=145635|AlignEnd=145835|SpaceAfter=No
+522	,	,	PUNCT	_	_	94	punct	_	AlignBegin=145835|AlignEnd=145835
+523	donc	donc	ADV	_	_	274	discourse	_	AlignBegin=145835|AlignEnd=146034|SpaceAfter=No
+524	,	,	PUNCT	_	_	94	punct	_	AlignBegin=146034|AlignEnd=146034
+525	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	100	subj@expl	_	AlignBegin=146034|AlignEnd=146234
+526	y	y	PRON	_	Person=3|PronType=Prs	100	comp@expl	_	AlignBegin=146234|AlignEnd=146433
+527	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	343	root	_	AlignBegin=146433|AlignEnd=146633
+528	mon	son	DET	_	Number=Sing|Number[psor]=Sing|Person[psor]=1|PronType=Prs	102	det	_	AlignBegin=146633|AlignEnd=146832
+529	père	père	NOUN	_	Gender=Masc|Number=Sing	100	comp:obj	_	AlignBegin=146832|AlignEnd=147032
+530	qui	qui	PRON	_	PronType=Rel	104	subj	_	AlignBegin=147032|AlignEnd=147231
+531	était	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	102	mod@relcl	_	AlignBegin=147231|AlignEnd=147431|SpaceAfter=No
+532	,	,	PUNCT	_	_	108	punct	_	AlignBegin=147431|AlignEnd=147431
+533	euh	euh	INTJ	_	_	108	discourse	_	AlignBegin=147431|AlignEnd=147630|SpaceAfter=No
+534	,	,	PUNCT	_	_	106	punct	_	AlignBegin=147630|AlignEnd=147630
+535	derrière	derrière	ADP	_	_	104	mod	_	AlignBegin=147705|AlignEnd=148141
+536	et	et	CCONJ	_	_	305	cc	_	AlignBegin=148141|AlignEnd=148577
+537	qui	qui	PRON	_	PronType=Rel	117	subj	_	AlignBegin=148577|AlignEnd=149014|SpaceAfter=No
+538	,	,	PUNCT	_	_	112	punct	_	AlignBegin=149014|AlignEnd=149014
+539	qui	qui	PRON	_	PronType=Rel	110	conj:dicto	_	AlignBegin=149014|AlignEnd=149450|SpaceAfter=No
+540	,	,	PUNCT	_	_	114	punct	_	AlignBegin=149450|AlignEnd=149450
+541	qui	qui	PRON	_	PronType=Rel	112	conj:dicto	_	AlignBegin=149450|AlignEnd=149886|SpaceAfter=No
+542	,	,	PUNCT	_	_	116	punct	_	AlignBegin=149886|AlignEnd=149886
+543	qui	qui	PRON	_	PronType=Rel	114	conj:dicto	_	AlignBegin=149886|AlignEnd=150238
+544	demande	demander	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	293	mod@relcl	_	AlignBegin=150238|AlignEnd=150589
+545	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	117	comp:obj	_	AlignBegin=150589|AlignEnd=150941|SpaceAfter=No
+546	,	,	PUNCT	_	_	120	punct	_	AlignBegin=150941|AlignEnd=150941
+547	à	à	ADP	_	_	117	comp:obl	_	AlignBegin=150941|AlignEnd=150941
+548	quelqu'un	quelqu'un	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	120	comp:obj	_	AlignBegin=150941|AlignEnd=151292
+549	qui	qui	PRON	_	PronType=Rel	123	subj	_	AlignBegin=151295|AlignEnd=151530
+550	était	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	121	mod@relcl	_	AlignBegin=151530|AlignEnd=151764
+551	sur	sur	ADP	_	_	123	comp:obl	_	AlignBegin=151764|AlignEnd=151999|SpaceAfter=No
+552	,	,	PUNCT	_	_	128	punct	_	AlignBegin=151999|AlignEnd=151999
+553	euh	euh	INTJ	_	_	128	discourse	_	AlignBegin=151999|AlignEnd=152233|SpaceAfter=No
+554	,	,	PUNCT	_	_	126	punct	_	AlignBegin=152233|AlignEnd=152233
+555	sur	sur	ADP	_	_	124	conj:dicto	_	AlignBegin=152233|AlignEnd=152468
+556	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	128	comp:obj@scrap	_	AlignBegin=152468|AlignEnd=152702|SpaceAfter=No
+557	,	,	PUNCT	_	_	131	punct	_	AlignBegin=152702|AlignEnd=152702
+558	sur	sur	ADP	_	_	128	conj:dicto	_	AlignBegin=152702|AlignEnd=152937
+559	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	133	det	_	AlignBegin=152937|AlignEnd=153171
+560	place	place	NOUN	_	Gender=Fem|Number=Sing	131	comp:obj	_	AlignBegin=153171|AlignEnd=153406|SpaceAfter=No
+561	,	,	PUNCT	_	_	188	punct	_	AlignBegin=153406|AlignEnd=153406
+562	"	"	PUNCT	_	_	138	punct	_	AlignBegin=153736|AlignEnd=153736
+563	mais	mais	CCONJ	_	_	138	cc	_	AlignBegin=153736|AlignEnd=153865
+564	qu'	que	PRON	_	Person=3|PronType=Int	138	comp:pred	_	AlignBegin=153865|AlignEnd=153993|SpaceAfter=No
+565	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	181	comp:obj	_	AlignBegin=153993|AlignEnd=154122
+566	ce	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	138	subj@expl	_	AlignBegin=154122|AlignEnd=154250
+567	qui	qui	PRON	_	PronType=Rel	142	subj	_	AlignBegin=154250|AlignEnd=154379
+568	se	se	PRON	_	Person=3|PronType=Prs	142	comp@expl	_	AlignBegin=154379|AlignEnd=154507
+569	passe	passer	VERB	CCOMP	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	138	comp:cleft	_	AlignBegin=154507|AlignEnd=154636
+570	en	en	ADP	_	_	188	discourse	_	AlignBegin=154636|AlignEnd=154764
+571	fait	faire	NOUN	_	Gender=Masc|Number=Sing	143	comp:obj	_	AlignBegin=154764|AlignEnd=154893
+572	?	?	PUNCT	_	_	31	punct	_	AlignBegin=154893|AlignEnd=154893
+573	parce	parce	ADV	_	_	188	mod	_	AlignBegin=155223|AlignEnd=155419
+574	qu'	que	SCONJ	_	_	146	unk	_	AlignBegin=155419|AlignEnd=155616|SpaceAfter=No
+575	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	149	subj	_	AlignBegin=155616|AlignEnd=155812
+576	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	146	comp:obj	_	AlignBegin=155812|AlignEnd=156009
+577	vu	voir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	149	comp:aux@tense	_	AlignBegin=156009|AlignEnd=156205
+578	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	152	det	_	AlignBegin=156205|AlignEnd=156402
+579	caméramans	caméramans	NOUN	_	Gender=Masc|Number=Plur	150	comp:obj	_	AlignBegin=156402|AlignEnd=156598|SpaceAfter=No
+580	.	.	PUNCT	_	_	156	punct	_	AlignBegin=156598|AlignEnd=156598
+581	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	155	det	_	AlignBegin=156598|AlignEnd=156834
+582	enfants	enfant	NOUN	_	Gender=Masc|Number=Plur	156	subj	_	AlignBegin=156834|AlignEnd=157070
+583	ont	avoir	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	149	conj:coord	_	AlignBegin=157070|AlignEnd=157306
+584	été	être	AUX	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	156	comp:aux@tense	_	AlignBegin=157306|AlignEnd=157543
+585	filmés	filmer	VERB	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	157	comp:aux@pass	_	AlignBegin=157543|AlignEnd=157779|SpaceAfter=No
+586	,	,	PUNCT	_	_	161	punct	_	AlignBegin=157779|AlignEnd=157779
+587	tout	tout	ADJ	_	Gender=Masc|Number=Sing	161	mod	_	AlignBegin=157779|AlignEnd=158015
+588	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	156	conj:coord	_	AlignBegin=158015|AlignEnd=158251|SpaceAfter=No
+589	.	.	PUNCT	_	_	274	punct	_	AlignBegin=158251|AlignEnd=158251
+590	mais	mais	CCONJ	_	_	165	cc	_	AlignBegin=158344|AlignEnd=158570
+591	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	165	subj	_	AlignBegin=158570|AlignEnd=158795
+592	est	être	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	210	conj:coord	_	AlignBegin=158795|AlignEnd=159021
+593	où	où	ADV	_	_	165	comp:obl	_	AlignBegin=159021|AlignEnd=159246
+594	?	?	PUNCT	_	_	349	punct	_	AlignBegin=159246|AlignEnd=159246
+595	"	"	PUNCT	_	_	138	punct	_	AlignBegin=159246|AlignEnd=159246|SpaceAfter=No
+596	.	.	PUNCT	_	_	40	punct	_	AlignBegin=159246|AlignEnd=159246
+597	et	et	CCONJ	_	_	173	cc	_	AlignBegin=159654|AlignEnd=159786
+598	là	là	ADV	_	_	173	mod	_	AlignBegin=159786|AlignEnd=159917
+599	y'	y	PRON	_	Person=3|PronType=Prs	173	comp@expl	_	AlignBegin=159917|AlignEnd=160049|SpaceAfter=No
+600	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	322	conj:coord	_	AlignBegin=160049|AlignEnd=160181
+601	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	175	det	_	AlignBegin=160181|AlignEnd=160313
+602	mec	mec	NOUN	_	Gender=Masc|Number=Sing	173	comp:obj	_	AlignBegin=160313|AlignEnd=160444
+603	qui	qui	PRON	_	PronType=Rel	181	subj	_	AlignBegin=160444|AlignEnd=160576
+604	l~	l~	X	_	_	176	unk@scrap	_	AlignBegin=160576|AlignEnd=160708|SpaceAfter=No
+605	,	,	PUNCT	_	_	179	punct	_	AlignBegin=160708|AlignEnd=160708
+606	qui	qui	PRON	_	PronType=Rel	177	conj:dicto	_	AlignBegin=160708|AlignEnd=160840
+607	lui	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	181	comp:obl	_	AlignBegin=160840|AlignEnd=160971
+608	répond	répondre	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	175	mod@relcl	_	AlignBegin=160971|AlignEnd=161103
+609	"	"	PUNCT	_	_	188	punct	_	AlignBegin=161103|AlignEnd=161103
+610	bah	bah	INTJ	_	_	188	discourse	_	AlignBegin=161103|AlignEnd=161302|SpaceAfter=No
+611	,	,	PUNCT	_	_	183	punct	_	AlignBegin=161302|AlignEnd=161302
+612	en	en	ADP	_	_	188	discourse	_	AlignBegin=161302|AlignEnd=161501
+613	fait	faire	NOUN	_	Gender=Masc|Number=Sing	185	comp:obj	_	AlignBegin=161501|AlignEnd=161699
+614	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	188	subj	_	AlignBegin=161699|AlignEnd=161898
+615	êtes	être	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	181	comp:obj	_	AlignBegin=161898|AlignEnd=162097
+616	sur	sur	ADP	_	_	188	comp:obl	_	AlignBegin=162097|AlignEnd=162296
+617	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	191	det	_	AlignBegin=162296|AlignEnd=162494
+618	tournage	tournage	NOUN	_	Gender=Masc|Number=Sing	189	comp:obj	_	AlignBegin=162494|AlignEnd=162693
+619	du	du	ADP	_	_	191	udep	_	AlignBegin=162693|AlignEnd=162968|SpaceAfter=No
+620	,	,	PUNCT	_	_	194	punct	_	AlignBegin=162968|AlignEnd=162968
+621	du	du	ADP	conj:reform	_	192	conj:dicto	_	AlignBegin=162968|AlignEnd=163243
+622	fi~	fi~	X	_	_	194	comp:obj	_	AlignBegin=163243|AlignEnd=163518|SpaceAfter=No
+623	,	,	PUNCT	_	_	197	punct	_	AlignBegin=163518|AlignEnd=163518
+624	du	du	ADP	conj:reform	_	194	conj:dicto	_	AlignBegin=163518|AlignEnd=163793
+625	nouveau	nouveau	ADJ	_	Gender=Masc|Number=Sing	199	mod	_	AlignBegin=163793|AlignEnd=164067
+626	Disney	Disney	PROPN	_	_	197	comp:obj	_	AlignBegin=164067|AlignEnd=164342|SpaceAfter=No
+627	,	,	PUNCT	_	_	201	punct	_	AlignBegin=164342|AlignEnd=164342
+628	euh	euh	INTJ	_	_	199	discourse	_	AlignBegin=164342|AlignEnd=164617
+629	…	…	PUNCT	_	_	359	punct	_	AlignBegin=164617|AlignEnd=164617
+630	"	"	PUNCT	_	_	138	punct	_	AlignBegin=164617|AlignEnd=164617|SpaceAfter=No
+631	.	.	PUNCT	_	_	210	punct	_	AlignBegin=164617|AlignEnd=164617
+632	Disney	Disney	PROPN	_	_	210	dislocated	_	AlignBegin=164617|AlignEnd=164892
+633	?	?	PUNCT	_	_	205	punct	_	AlignBegin=164892|AlignEnd=164892
+634	ouais	ouais	INTJ	_	_	210	discourse	_	AlignBegin=165426|AlignEnd=165696|SpaceAfter=No
+635	,	,	PUNCT	_	_	207	punct	_	AlignBegin=165696|AlignEnd=165696
+636	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	210	subj	_	AlignBegin=165696|AlignEnd=165966|SpaceAfter=No
+637	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	40	conj:dicto	_	AlignBegin=165966|AlignEnd=166236
+638	Lone	Lone	PROPN	_	_	210	comp:pred	_	AlignBegin=166236|AlignEnd=166506|SpaceAfter=No
+639	,	,	PUNCT	_	_	213	punct	_	AlignBegin=166506|AlignEnd=166506
+640	Lone	Lone	PROPN	_	_	211	conj:dicto	_	AlignBegin=166506|AlignEnd=166776
+641	Rangers	Rangers	PROPN	_	Foreign=Yes	213	flat@name	_	AlignBegin=166776|AlignEnd=167046|SpaceAfter=No
+642	.	.	PUNCT	_	_	217	punct	_	AlignBegin=167046|AlignEnd=167046
+643	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	217	subj	_	AlignBegin=167313|AlignEnd=167373|SpaceAfter=No
+644	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	210	conj:dicto	_	AlignBegin=167373|AlignEnd=167434
+645	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	219	det	_	AlignBegin=167434|AlignEnd=167494
+646	Dis~	Dis~	X	_	_	217	comp:pred	_	AlignBegin=167494|AlignEnd=167555
+647	…	…	PUNCT	_	_	223	punct	_	AlignBegin=167555|AlignEnd=167555
+648	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	223	subj	_	AlignBegin=167555|AlignEnd=167615
+649	l'	le	PRON	_	Number=Sing|Person=3|PronType=Prs	225	comp:obj	_	AlignBegin=167615|AlignEnd=167676|SpaceAfter=No
+650	ai	avoir	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	217	parataxis:parenth	_	AlignBegin=167676|AlignEnd=167736
+651	pas	pas	ADV	_	Polarity=Neg	223	mod	_	AlignBegin=167736|AlignEnd=167797
+652	vu	voir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	223	comp:aux@tense	_	AlignBegin=167797|AlignEnd=167857|SpaceAfter=No
+653	.	.	PUNCT	_	_	76	punct	_	AlignBegin=167857|AlignEnd=167857
+654	si	si	SCONJ	_	_	76	mod	_	AlignBegin=168180|AlignEnd=168340|SpaceAfter=No
+655	,	,	PUNCT	_	_	230	punct	_	AlignBegin=168340|AlignEnd=168340
+656	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	230	subj	_	AlignBegin=168340|AlignEnd=168500|SpaceAfter=No
+657	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	227	conj:dicto	_	AlignBegin=168500|AlignEnd=168660
+658	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	232	det	_	AlignBegin=168660|AlignEnd=168820
+659	Disney	Disney	PROPN	_	_	230	comp:pred	_	AlignBegin=168820|AlignEnd=168980|SpaceAfter=No
+660	.	.	PUNCT	_	_	404	punct	_	AlignBegin=168980|AlignEnd=168980
+661	et	et	CCONJ	_	_	238	cc	_	AlignBegin=169808|AlignEnd=169951
+662	euh	euh	INTJ	_	_	238	discourse	_	AlignBegin=169951|AlignEnd=170093|SpaceAfter=No
+663	,	,	PUNCT	_	_	235	punct	_	AlignBegin=170093|AlignEnd=170093
+664	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	238	subj	_	AlignBegin=170093|AlignEnd=170236
+665	dit	dire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	82	conj:coord	_	AlignBegin=170236|AlignEnd=170378
+666	"	"	PUNCT	_	_	245	punct	_	AlignBegin=170378|AlignEnd=170378
+667	ben	ben	INTJ	_	_	245	discourse	_	AlignBegin=170378|AlignEnd=170521|SpaceAfter=No
+668	,	,	PUNCT	_	_	240	punct	_	AlignBegin=170521|AlignEnd=170521
+669	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	245	dislocated	_	AlignBegin=170521|AlignEnd=170663|SpaceAfter=No
+670	,	,	PUNCT	_	_	242	punct	_	AlignBegin=170663|AlignEnd=170663
+671	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	245	subj	_	AlignBegin=170663|AlignEnd=170806|SpaceAfter=No
+672	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	82	comp:obj	_	AlignBegin=170806|AlignEnd=170948
+673	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	247	det	_	AlignBegin=170948|AlignEnd=171091
+674	méchant	méchant	NOUN	_	Gender=Masc|Number=Sing	245	comp:pred	_	AlignBegin=171091|AlignEnd=171233
+675	qui	qui	PRON	_	PronType=Rel	249	subj	_	AlignBegin=171233|AlignEnd=171428
+676	joue	jouer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	247	mod@relcl	_	AlignBegin=171428|AlignEnd=171624
+677	dans	dans	ADP	_	_	249	mod	_	AlignBegin=171624|AlignEnd=171819
+678	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	252	det	_	AlignBegin=171819|AlignEnd=172015
+679	film	film	NOUN	_	Gender=Masc|Number=Sing	250	comp:obj	_	AlignBegin=172015|AlignEnd=172210|SpaceAfter=No
+680	.	.	PUNCT	_	_	257	punct	_	AlignBegin=172210|AlignEnd=172210
+681	et	et	CCONJ	_	_	257	cc	_	AlignBegin=172424|AlignEnd=172554
+682	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	257	subj@expl	_	AlignBegin=172554|AlignEnd=172683
+683	y	y	PRON	_	Person=3|PronType=Prs	257	comp@expl	_	AlignBegin=172683|AlignEnd=172813
+684	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	87	conj:coord	_	AlignBegin=172813|AlignEnd=172943
+685	Johnny	Johnny	PROPN	_	_	257	comp:obj	_	AlignBegin=172943|AlignEnd=173073
+686	Depp	Depp	PROPN	_	_	258	flat@name	_	AlignBegin=173073|AlignEnd=173202
+687	qui	qui	PRON	_	PronType=Rel	262	subj	_	AlignBegin=173202|AlignEnd=173332
+688	n'	ne	ADV	_	_	262	mod	_	AlignBegin=173332|AlignEnd=173462|SpaceAfter=No
+689	est	être	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	258	mod	_	AlignBegin=173462|AlignEnd=173592
+690	pas	pas	ADV	_	_	262	mod	_	AlignBegin=173592|AlignEnd=173721
+691	loin	loin	ADV	_	_	262	mod	_	AlignBegin=173721|AlignEnd=173851
+692	!	!	PUNCT	_	_	262	punct	_	AlignBegin=173851|AlignEnd=173851
+693	"	"	PUNCT	_	_	274	punct	_	AlignBegin=173851|AlignEnd=173851|SpaceAfter=No
+694	.	.	PUNCT	_	_	274	punct	_	AlignBegin=173851|AlignEnd=173851
+695	et	et	CCONJ	_	_	274	cc	_	AlignBegin=174436|AlignEnd=174567
+696	là	là	ADV	_	_	274	mod	_	AlignBegin=174567|AlignEnd=174698|SpaceAfter=No
+697	,	,	PUNCT	_	_	269	punct	_	AlignBegin=174698|AlignEnd=174698
+698	moi	lui	PRON	_	Number=Sing|Person=1|PronType=Prs	274	dislocated	_	AlignBegin=174698|AlignEnd=174830
+699	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	274	subj	_	AlignBegin=174830|AlignEnd=174961
+700	me	lui	PRON	_	Number=Sing|Person=1|PronType=Prs	274	comp:obj	_	AlignBegin=174961|AlignEnd=175092
+701	retourne	retourner	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	100	comp:obj	_	AlignBegin=175092|AlignEnd=175223|SpaceAfter=No
+702	.	.	PUNCT	_	_	274	punct	_	AlignBegin=175223|AlignEnd=175223
+703	moi	lui	PRON	_	Number=Sing|Person=1|PronType=Prs	274	dislocated	_	AlignBegin=175223|AlignEnd=175354
+704	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	404	subj	_	AlignBegin=175354|AlignEnd=175485|SpaceAfter=No
+705	,	,	PUNCT	_	_	277	punct	_	AlignBegin=175485|AlignEnd=175485
+706	tu	il	PRON	_	Number=Sing|Person=2|PronType=Prs	287	subj	_	AlignBegin=175485|AlignEnd=175617
+707	sais	savoir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	410	discourse	_	AlignBegin=175617|AlignEnd=175748|SpaceAfter=No
+708	,	,	PUNCT	_	_	282	punct	_	AlignBegin=175748|AlignEnd=175748
+709	à	à	ADP	_	_	104	mod	_	AlignBegin=175748|AlignEnd=175748
+710	ce	ce	DET	_	Gender=Masc|Number=Sing|PronType=Dem	284	det	_	AlignBegin=175748|AlignEnd=175879
+711	m~	m~	X	_	_	282	comp:obj	_	AlignBegin=175879|AlignEnd=176010|SpaceAfter=No
+712	,	,	PUNCT	_	_	287	punct	_	AlignBegin=176010|AlignEnd=176010
+713	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	287	subj	_	AlignBegin=176283|AlignEnd=176524
+714	comprenais	comprendre	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	280	discourse	_	AlignBegin=176524|AlignEnd=176765
+715	pas	pas	ADV	_	_	287	mod	_	AlignBegin=176765|AlignEnd=177006|SpaceAfter=No
+716	.	.	PUNCT	_	_	287	punct	_	AlignBegin=177006|AlignEnd=177006
+717	moi	lui	PRON	_	Number=Sing|Person=1|PronType=Prs	287	dislocated	_	AlignBegin=177176|AlignEnd=177362|SpaceAfter=No
+718	,	,	PUNCT	_	_	401	punct	_	AlignBegin=177362|AlignEnd=177362
+719	j'	il	PRON	_	Number=Sing|Person=1|PronType=Prs	293	subj	_	AlignBegin=177362|AlignEnd=177547|SpaceAfter=No
+720	entends	entendre	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	17	parataxis:parenth	_	AlignBegin=177547|AlignEnd=177733
+721	juste	juste	ADV	_	_	293	mod	_	AlignBegin=177733|AlignEnd=177918
+722	"	"	PUNCT	_	_	305	punct	_	AlignBegin=177918|AlignEnd=177918
+723	Johnny	Johnny	PROPN	_	_	293	comp:obj	_	AlignBegin=177918|AlignEnd=178104
+724	Depp	Depp	PROPN	_	_	392	flat@name	_	AlignBegin=178104|AlignEnd=178289
+725	"	"	PUNCT	_	_	305	punct	_	AlignBegin=178289|AlignEnd=178289|SpaceAfter=No
+726	.	.	PUNCT	_	_	274	punct	_	AlignBegin=178289|AlignEnd=178289
+727	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	301	subj	_	AlignBegin=178289|AlignEnd=178567
+728	fais	faire	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	274	conj:coord	_	AlignBegin=178567|AlignEnd=178844
+729	"	"	PUNCT	_	_	117	punct	_	AlignBegin=178844|AlignEnd=178844
+730	quoi	quoi	INTJ	_	_	305	discourse	_	AlignBegin=178844|AlignEnd=179122|SpaceAfter=No
+731	,	,	PUNCT	_	_	303	punct	_	AlignBegin=179122|AlignEnd=179122
+732	Johnny	Johnny	PROPN	_	_	117	comp:obj	_	AlignBegin=179122|AlignEnd=179399
+733	Depp	Depp	PROPN	_	_	305	flat@name	_	AlignBegin=179399|AlignEnd=179677
+734	!	!	PUNCT	_	_	117	punct	_	AlignBegin=179677|AlignEnd=179677
+735	"	"	PUNCT	_	_	305	punct	_	AlignBegin=179677|AlignEnd=179677|SpaceAfter=No
+736	.	.	PUNCT	_	_	322	punct	_	AlignBegin=179677|AlignEnd=179677
+737	et	et	CCONJ	_	_	17	cc	_	AlignBegin=180063|AlignEnd=180289
+738	euh	euh	INTJ	_	_	310	discourse	_	AlignBegin=180289|AlignEnd=180516|SpaceAfter=No
+739	,	,	PUNCT	_	_	311	punct	_	AlignBegin=180516|AlignEnd=180516
+740	en	en	ADP	_	_	17	discourse	_	AlignBegin=180516|AlignEnd=180742
+741	fait	faire	NOUN	_	Gender=Masc|Number=Sing	313	comp:obj	_	AlignBegin=180742|AlignEnd=180969|SpaceAfter=No
+742	,	,	PUNCT	_	_	313	punct	_	AlignBegin=180969|AlignEnd=180969
+743	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	318	det	_	AlignBegin=180969|AlignEnd=181195|SpaceAfter=No
+744	,	,	PUNCT	_	_	316	punct	_	AlignBegin=181195|AlignEnd=181195
+745	Johnny	Johnny	PROPN	_	_	322	dislocated	_	AlignBegin=181195|AlignEnd=181422
+746	Depp	Depp	PROPN	_	_	318	flat@name	_	AlignBegin=181422|AlignEnd=181648|SpaceAfter=No
+747	,	,	PUNCT	_	_	318	punct	_	AlignBegin=181648|AlignEnd=181648
+748	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	322	subj	_	AlignBegin=181648|AlignEnd=181866|SpaceAfter=No
+749	était	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	AlignBegin=181866|AlignEnd=182084
+750	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	322	comp:pred@scrap	_	AlignBegin=182084|AlignEnd=182303|SpaceAfter=No
+751	,	,	PUNCT	_	_	328	punct	_	AlignBegin=182303|AlignEnd=182303
+752	ben	ben	INTJ	_	_	328	discourse	_	AlignBegin=182303|AlignEnd=182521|SpaceAfter=No
+753	,	,	PUNCT	_	_	325	punct	_	AlignBegin=182521|AlignEnd=182521
+754	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	328	subj	_	AlignBegin=182521|AlignEnd=182739|SpaceAfter=No
+755	était	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	322	conj:dicto	_	AlignBegin=182739|AlignEnd=182957
+756	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	331	det	_	AlignBegin=182957|AlignEnd=183176|SpaceAfter=No
+757	autre	autre	ADJ	_	Gender=Masc|Number=Sing	331	mod	_	AlignBegin=183176|AlignEnd=183394
+758	acteur	acteur	NOUN	_	Gender=Masc|Number=Sing	328	comp:pred	_	AlignBegin=183394|AlignEnd=183612
+759	qu'	que	PRON	_	PronType=Rel	335	comp:obj	_	AlignBegin=183901|AlignEnd=184104|SpaceAfter=No
+760	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	334	subj	_	AlignBegin=184104|AlignEnd=184308
+761	avait	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	121	mod@relcl	_	AlignBegin=184308|AlignEnd=184511
+762	vu	voir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	334	comp:aux@tense	_	AlignBegin=184511|AlignEnd=184714
+763	se	se	PRON	_	Person=3|PronType=Prs	337	comp@expl	_	AlignBegin=184714|AlignEnd=184918
+764	cabrer	cabrer	VERB	_	VerbForm=Inf	335	comp:obj	_	AlignBegin=184918|AlignEnd=185121
+765	au	au	ADP	_	_	337	mod	_	AlignBegin=185121|AlignEnd=185324
+766	bord	bord	NOUN	_	Gender=Masc|Number=Sing	338	comp:obj	_	AlignBegin=185324|AlignEnd=185527
+767	de	de	ADP	_	_	339	udep	_	AlignBegin=185527|AlignEnd=185731
+768	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	342	det	_	AlignBegin=185731|AlignEnd=185934
+769	falaise	falaise	NOUN	_	Gender=Fem|Number=Sing	340	comp:obj	_	AlignBegin=185934|AlignEnd=186137|SpaceAfter=No
+770	.	.	PUNCT	_	_	388	punct	_	AlignBegin=186137|AlignEnd=186137
+771	oh	oh	INTJ	_	_	138	discourse	_	AlignBegin=186137|AlignEnd=186341
+772	làlà	làlà	ADV	_	_	146	discourse	_	AlignBegin=186341|AlignEnd=186544
+773	!	!	PUNCT	_	_	345	punct	_	AlignBegin=186544|AlignEnd=186544
+774	donc	donc	ADV	_	_	349	cc	_	AlignBegin=186544|AlignEnd=186812
+775	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	349	subj	_	AlignBegin=186812|AlignEnd=187080|SpaceAfter=No
+776	était	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	322	conj:coord	_	AlignBegin=187080|AlignEnd=187348
+777	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art|Shared=No	351	det	_	AlignBegin=187348|AlignEnd=187616
+778	méchant	méchant	ADJ	_	Gender=Masc|Number=Sing	328	comp:pred	_	AlignBegin=187616|AlignEnd=187883
+779	et	et	CCONJ	_	_	210	cc	_	AlignBegin=187883|AlignEnd=188151
+780	euh	euh	INTJ	_	_	352	discourse	_	AlignBegin=188151|AlignEnd=188419|SpaceAfter=No
+781	,	,	PUNCT	_	_	353	punct	_	AlignBegin=188419|AlignEnd=188419
+782	et	et	CCONJ	_	_	53	cc	_	AlignBegin=188419|AlignEnd=188687
+783	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	359	det	_	AlignBegin=188687|AlignEnd=188955|SpaceAfter=No
+784	,	,	PUNCT	_	_	359	punct	_	AlignBegin=188955|AlignEnd=188955
+785	et	et	CCONJ	_	_	356	conj:dicto	_	AlignBegin=189337|AlignEnd=189512
+786	Johnny	Johnny	PROPN	_	_	59	conj:coord	_	AlignBegin=189512|AlignEnd=189688
+787	Depp	Depp	PROPN	_	_	359	flat@name	_	AlignBegin=189688|AlignEnd=189863
+788	qui	qui	PRON	_	PronType=Rel	362	subj	_	AlignBegin=189863|AlignEnd=190038
+789	étaient	être	VERB	_	Mood=Ind|Number=Plur|Person=3|Shared=No|Tense=Imp|VerbForm=Fin	359	mod@relcl	_	AlignBegin=190038|AlignEnd=190213
+790	en	en	ADP	_	_	362	comp:pred	_	AlignBegin=190213|AlignEnd=190389
+791	train	train	NOUN	_	Gender=Masc|Number=Sing	363	comp:obj	_	AlignBegin=190389|AlignEnd=190564|SpaceAfter=No
+792	,	,	PUNCT	_	_	368	punct	_	AlignBegin=190564|AlignEnd=190564
+793	qu'	que	PRON	_	PronType=Rel	369	comp:obj	_	AlignBegin=190710|AlignEnd=190860|SpaceAfter=No
+794	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	368	subj	_	AlignBegin=190860|AlignEnd=191010
+795	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	359	mod	_	AlignBegin=191010|AlignEnd=191160
+796	vu	voir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	368	comp:aux@tense	_	AlignBegin=191160|AlignEnd=191310
+797	en	en	ADP	_	_	388	discourse	_	AlignBegin=191310|AlignEnd=191460
+798	fait	faire	NOUN	_	Gender=Masc|Number=Sing	370	comp:obj	_	AlignBegin=191460|AlignEnd=191610|SpaceAfter=No
+799	.	.	PUNCT	_	_	274	punct	_	AlignBegin=191610|AlignEnd=191610
+800	donc	donc	ADV	_	_	376	cc	_	AlignBegin=192137|AlignEnd=192224|SpaceAfter=No
+801	,	,	PUNCT	_	_	373	punct	_	AlignBegin=192224|AlignEnd=192224
+802	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	376	subj	_	AlignBegin=192224|AlignEnd=192312|SpaceAfter=No
+803	était	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	138	conj:coord	_	AlignBegin=192312|AlignEnd=192399
+804	trop	trop	ADV	_	_	378	mod	_	AlignBegin=192399|AlignEnd=192487
+805	drôle	drôle	ADJ	_	Number=Sing	376	comp:pred	_	AlignBegin=192487|AlignEnd=192574|SpaceAfter=No
+806	.	.	PUNCT	_	_	40	punct	_	AlignBegin=192574|AlignEnd=192574
+807	tu	il	PRON	_	Number=Sing|Person=2|PronType=Prs	381	subj	_	AlignBegin=192574|AlignEnd=192662
+808	aurais	avoir	AUX	_	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	40	conj:coord	_	AlignBegin=192662|AlignEnd=192749
+809	dû	devoir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	40	comp:aux@tense	_	AlignBegin=192749|AlignEnd=192837
+810	attraper	attraper	VERB	_	VerbForm=Inf	382	comp:obj	_	AlignBegin=192837|AlignEnd=192924
+811	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	392	det	_	AlignBegin=192924|AlignEnd=193012
+812	méchant	méchant	NOUN	_	Gender=Masc|Number=Sing	383	comp:obj	_	AlignBegin=193012|AlignEnd=193099|SpaceAfter=No
+813	.	.	PUNCT	_	_	274	punct	_	AlignBegin=193099|AlignEnd=193099
+814	j'	il	PRON	_	Number=Sing|Person=1|PronType=Prs	388	subj	_	AlignBegin=194218|AlignEnd=194430|SpaceAfter=No
+815	aurais	avoir	AUX	_	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	322	conj:coord	_	AlignBegin=194430|AlignEnd=194642
+816	dû	devoir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	388	comp:aux@tense	_	AlignBegin=194642|AlignEnd=194855
+817	attraper	attraper	VERB	_	VerbForm=Inf	382	comp:obj	_	AlignBegin=194855|AlignEnd=195067
+818	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	392	det	_	AlignBegin=195067|AlignEnd=195279
+819	méchant	méchant	NOUN	_	Gender=Masc|Number=Sing	383	comp:obj	_	AlignBegin=195279|AlignEnd=195491|SpaceAfter=No
+820	.	.	PUNCT	_	_	274	punct	_	AlignBegin=195491|AlignEnd=195491
+821	et	et	CCONJ	_	_	274	cc	_	AlignBegin=197217|AlignEnd=197395
+822	ouais	ouais	INTJ	_	_	117	discourse	_	AlignBegin=197395|AlignEnd=197573|SpaceAfter=No
+823	,	,	PUNCT	_	_	395	punct	_	AlignBegin=197573|AlignEnd=197573
+824	et	et	CCONJ	_	_	404	cc	_	AlignBegin=197573|AlignEnd=197751
+825	du	du	ADP	_	_	404	discourse	_	AlignBegin=197751|AlignEnd=197929
+826	coup	coup	NOUN	_	Gender=Masc|Number=Sing	398	comp:obj	_	AlignBegin=197929|AlignEnd=198107|SpaceAfter=No
+827	,	,	PUNCT	_	_	398	punct	_	AlignBegin=198107|AlignEnd=198107
+828	bah	bah	INTJ	_	_	404	discourse	_	AlignBegin=198107|AlignEnd=198285|SpaceAfter=No
+829	,	,	PUNCT	_	_	401	punct	_	AlignBegin=198285|AlignEnd=198285
+830	j'	il	PRON	_	Number=Sing|Person=1|PronType=Prs	404	subj	_	AlignBegin=198285|AlignEnd=198463|SpaceAfter=No
+831	ai	avoir	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	274	comp:obj	_	AlignBegin=198463|AlignEnd=198641
+832	vu	voir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	404	comp:aux@tense	_	AlignBegin=198641|AlignEnd=198819
+833	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	407	det	_	AlignBegin=198819|AlignEnd=198997
+834	méchant	méchant	NOUN	_	Gender=Masc|Number=Sing	405	comp:obj	_	AlignBegin=198997|AlignEnd=199175|SpaceAfter=No
+835	.	.	PUNCT	_	_	410	punct	_	AlignBegin=199175|AlignEnd=199175
+836	et	et	CCONJ	_	_	410	cc	_	AlignBegin=199175|AlignEnd=199427
+837	Johnny	Johnny	PROPN	_	_	407	conj:coord	_	AlignBegin=199427|AlignEnd=199680
+838	Depp	Depp	PROPN	_	_	410	flat@name	_	AlignBegin=199680|AlignEnd=199932|SpaceAfter=No
+839	,	,	PUNCT	_	_	410	punct	_	AlignBegin=199932|AlignEnd=199932
+840	bah	bah	INTJ	_	_	410	discourse	_	AlignBegin=199932|AlignEnd=200184|SpaceAfter=No
+841	,	,	PUNCT	_	_	413	punct	_	AlignBegin=200184|AlignEnd=200184
+842	en	en	ADP	_	_	274	discourse	_	AlignBegin=200184|AlignEnd=200436
+843	soit	être	ADV	_	_	415	comp:obj	_	AlignBegin=200436|AlignEnd=200689|SpaceAfter=No
+844	,	,	PUNCT	_	_	418	punct	_	AlignBegin=200689|AlignEnd=200689
+845	euh	euh	INTJ	_	_	274	discourse	_	AlignBegin=200689|AlignEnd=200941|SpaceAfter=No
+846	,	,	PUNCT	_	_	4	punct	_	AlignBegin=200941|AlignEnd=200941
+847	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	4	subj	_	AlignBegin=201006|AlignEnd=201165
+848	l'	le	PRON	_	Number=Sing|Person=3|PronType=Prs	5	comp:obj	_	AlignBegin=201165|AlignEnd=201325|SpaceAfter=No
+849	ai	avoir	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=201325|AlignEnd=201484
+850	vu	voir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	4	comp:aux@tense	_	AlignBegin=201484|AlignEnd=201644|SpaceAfter=No
+851	.	.	PUNCT	_	_	9	punct	_	AlignBegin=201644|AlignEnd=201644
+852	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	9	subj	_	AlignBegin=201644|AlignEnd=201803
+853	l'	le	PRON	_	Number=Sing|Person=3|PronType=Prs	10	comp:obj	_	AlignBegin=201803|AlignEnd=201963|SpaceAfter=No
+854	ai	avoir	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	4	conj:dicto	_	AlignBegin=201963|AlignEnd=202122
+855	aperçu	aperçu	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	9	comp:aux@tense	_	AlignBegin=202122|AlignEnd=202282|SpaceAfter=No
+856	.	.	PUNCT	_	_	17	punct	_	AlignBegin=202282|AlignEnd=202282
+857	oui	oui	ADV	_	_	17	discourse	_	AlignBegin=202282|AlignEnd=202441|SpaceAfter=No
+858	.	.	PUNCT	_	_	12	punct	_	AlignBegin=202441|AlignEnd=202441
+859	mais	mais	CCONJ	_	_	17	cc	_	AlignBegin=202585|AlignEnd=202697
+860	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	17	subj	_	AlignBegin=202697|AlignEnd=202810
+861	l'	le	PRON	_	Number=Sing|Person=3|PronType=Prs	17	comp:obj	_	AlignBegin=202810|AlignEnd=202922|SpaceAfter=No
+862	ai	avoir	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	10	conj:coord	_	AlignBegin=202922|AlignEnd=203034
+863	pas	pas	ADV	_	Polarity=Neg	17	mod	_	AlignBegin=203034|AlignEnd=203146|SpaceAfter=No
+864	,	,	PUNCT	_	_	20	punct	_	AlignBegin=203146|AlignEnd=203146
+865	sur	sur	ADP	_	_	17	mod	_	AlignBegin=203146|AlignEnd=203259
+866	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	22	det	_	AlignBegin=203259|AlignEnd=203371
+867	moment	moment	NOUN	_	Gender=Masc|Number=Sing	20	comp:obj	_	AlignBegin=203371|AlignEnd=203483
+868	…	…	PUNCT	_	_	25	punct	_	AlignBegin=203483|AlignEnd=203483
+869	tu	il	PRON	_	Number=Sing|Person=2|PronType=Prs	25	subj	_	AlignBegin=203483|AlignEnd=203595
+870	as	avoir	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	4	parataxis	_	AlignBegin=203595|AlignEnd=203708
+871	vu	voir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	25	comp:aux@tense	_	AlignBegin=203708|AlignEnd=203820
+872	son	son	DET	_	Number=Sing|Number[psor]=Sing|Person[psor]=3|PronType=Prs	28	det	_	AlignBegin=203820|AlignEnd=203932
+873	ombre	ombre	NOUN	_	Gender=Fem|Number=Sing	26	comp:obj	_	AlignBegin=203932|AlignEnd=204044|SpaceAfter=No
+874	.	.	PUNCT	_	_	4	punct	_	AlignBegin=204044|AlignEnd=204044
+
+# sent_id = ParisStories_2023_tournageChevaux_tournageChevaux__25
+# text = mais j'ai vu son ombre.
+# sound_url = ParisStories_2023_tournageChevaux_tournageChevaux.mp3
+# speaker = L0
+# user_id = trankitParser100
+# timestamp = 0
+1	mais	mais	CCONJ	_	_	3	cc	_	AlignBegin=204606|AlignEnd=204718
+2	j'	il	PRON	_	Number=Sing|Person=1|PronType=Prs	3	subj	_	AlignBegin=204718|AlignEnd=204882|SpaceAfter=No
+3	ai	avoir	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=204882|AlignEnd=205046
+4	vu	voir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	3	comp:aux@tense	_	AlignBegin=205046|AlignEnd=205211
+5	son	son	DET	_	Number=Sing|Number[psor]=Sing|Person[psor]=3|PronType=Prs	6	det	_	AlignBegin=205211|AlignEnd=205375
+6	ombre	ombre	NOUN	_	Gender=Fem|Number=Sing	4	comp:obj	_	AlignBegin=205375|AlignEnd=205539|SpaceAfter=No
+7	.	.	PUNCT	_	_	3	punct	_	AlignBegin=205539|AlignEnd=205539
+
+# sent_id = ParisStories_2023_tournageChevaux_tournageChevaux__26
+# text = mais bon, du coup, euh, j'ai rencontré Johnny Depp.
+# sound_url = ParisStories_2023_tournageChevaux_tournageChevaux.mp3
+# speaker = L0
+# user_id = trankitParser100
+# timestamp = 0
+1	mais	mais	CCONJ	_	_	10	cc	_	AlignBegin=206027|AlignEnd=206286
+2	bon	bon	INTJ	_	_	1	discourse	_	AlignBegin=206286|AlignEnd=206545|SpaceAfter=No
+3	,	,	PUNCT	_	_	1	punct	_	AlignBegin=206545|AlignEnd=206545
+4	du	du	ADP	_	_	10	discourse	_	AlignBegin=206545|AlignEnd=206805
+5	coup	coup	NOUN	_	Gender=Masc|Number=Sing	4	comp:obj	_	AlignBegin=206805|AlignEnd=207064|SpaceAfter=No
+6	,	,	PUNCT	_	_	4	punct	_	AlignBegin=207064|AlignEnd=207064
+7	euh	euh	INTJ	_	_	10	discourse	_	AlignBegin=207064|AlignEnd=207323|SpaceAfter=No
+8	,	,	PUNCT	_	_	7	punct	_	AlignBegin=207323|AlignEnd=207323
+9	j'	il	PRON	_	Number=Sing|Person=1|PronType=Prs	10	subj	_	AlignBegin=207698|AlignEnd=208056|SpaceAfter=No
+10	ai	avoir	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=208056|AlignEnd=208413
+11	rencontré	rencontrer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	10	comp:aux@tense	_	AlignBegin=208413|AlignEnd=208771
+12	Johnny	Johnny	PROPN	_	_	11	comp:obj	_	AlignBegin=208771|AlignEnd=209128
+13	Depp	Depp	PROPN	_	_	12	flat@name	_	AlignBegin=209128|AlignEnd=209486|SpaceAfter=No
+14	.	.	PUNCT	_	_	10	punct	_	AlignBegin=209486|AlignEnd=209486
+
+# sent_id = ParisStories_2023_tournageChevaux_tournageChevaux__27
+# text = mais c'était trop bien.
+# sound_url = ParisStories_2023_tournageChevaux_tournageChevaux.mp3
+# speaker = L0
+# user_id = trankitParser100
+# timestamp = 0
+1	mais	mais	CCONJ	_	_	3	cc	_	AlignBegin=210173|AlignEnd=210429
+2	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	3	subj	_	AlignBegin=210429|AlignEnd=210685|SpaceAfter=No
+3	était	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	0	root	_	AlignBegin=210685|AlignEnd=210941
+4	trop	trop	ADV	_	_	5	mod	_	AlignBegin=210941|AlignEnd=211197
+5	bien	bien	ADV	_	_	3	comp:pred	_	AlignBegin=211197|AlignEnd=211452|SpaceAfter=No
+6	.	.	PUNCT	_	_	3	punct	_	AlignBegin=211452|AlignEnd=211452
+
+# sent_id = ParisStories_2023_tournageChevaux_tournageChevaux__28
+# text = et du coup, et du coup, après, nous, euh, j'étais persuadée que j'allais apparaître au montage.
+# sound_url = ParisStories_2023_tournageChevaux_tournageChevaux.mp3
+# speaker = L0
+# user_id = trankitParser100
+# timestamp = 0
+1	et	et	CCONJ	_	_	16	cc	_	AlignBegin=211452|AlignEnd=211708
+2	du	du	ADP	_	_	1	discourse	_	AlignBegin=211708|AlignEnd=211964
+3	coup	coup	NOUN	_	Gender=Masc|Number=Sing	2	comp:obj	_	AlignBegin=211964|AlignEnd=212220|SpaceAfter=No
+4	,	,	PUNCT	_	_	5	punct	_	AlignBegin=212220|AlignEnd=212220
+5	et	et	CCONJ	_	_	2	cc	_	AlignBegin=212220|AlignEnd=212419
+6	du	du	ADP	_	_	2	conj:dicto	_	AlignBegin=212419|AlignEnd=212618
+7	coup	coup	NOUN	_	Gender=Masc|Number=Sing	6	comp:obj	_	AlignBegin=212618|AlignEnd=212817|SpaceAfter=No
+8	,	,	PUNCT	_	_	2	punct	_	AlignBegin=212817|AlignEnd=212817
+9	après	après	ADV	_	_	16	mod	_	AlignBegin=212817|AlignEnd=213015|SpaceAfter=No
+10	,	,	PUNCT	_	_	9	punct	_	AlignBegin=213015|AlignEnd=213015
+11	nous	il	PRON	_	Number=Plur|Person=1|PronType=Prs	16	dislocated	_	AlignBegin=213015|AlignEnd=213214|SpaceAfter=No
+12	,	,	PUNCT	_	_	13	punct	_	AlignBegin=213214|AlignEnd=213214
+13	euh	euh	INTJ	_	_	11	discourse	_	AlignBegin=213214|AlignEnd=213413|SpaceAfter=No
+14	,	,	PUNCT	_	_	11	punct	_	AlignBegin=213413|AlignEnd=213413
+15	j'	il	PRON	_	Number=Sing|Person=1|PronType=Prs	16	subj	_	AlignBegin=213413|AlignEnd=213666|SpaceAfter=No
+16	étais	être	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	0	root	_	AlignBegin=213666|AlignEnd=213919
+17	persuadée	persuader	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	16	comp:pred	_	AlignBegin=213919|AlignEnd=214171
+18	que	que	SCONJ	_	_	17	comp:obl	_	AlignBegin=214171|AlignEnd=214424
+19	j'	il	PRON	_	Number=Sing|Person=1|PronType=Prs	20	subj	_	AlignBegin=214424|AlignEnd=214677|SpaceAfter=No
+20	allais	aller	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	18	comp:obj	_	AlignBegin=214677|AlignEnd=214930
+21	apparaître	apparaître	VERB	_	VerbForm=Inf	20	comp:obj	_	AlignBegin=214930|AlignEnd=215182
+22	au	au	ADP	_	_	21	mod	_	AlignBegin=215182|AlignEnd=215435
+23	montage	montage	NOUN	_	Gender=Masc|Number=Sing	22	comp:obj	_	AlignBegin=215435|AlignEnd=215688|SpaceAfter=No
+24	.	.	PUNCT	_	_	16	punct	_	AlignBegin=215688|AlignEnd=215688
+

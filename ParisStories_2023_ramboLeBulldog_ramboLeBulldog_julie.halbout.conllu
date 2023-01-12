@@ -1,0 +1,719 @@
+# sent_id = ParisStories_2023_ramboLeBulldog_ramboLeBulldog__1
+# text = ah, ouais, alors, Rambo est, euh, il faut préciser, c'est le chien de, euh, la maison.
+# sound_url = ParisStories_2023_ramboLeBulldog_ramboLeBulldog.mp3
+# speaker = L0
+# user_id = trankitParser100
+# timestamp = 0
+1	ah	ah	INTJ	_	_	8	discourse	_	AlignBegin=542|AlignEnd=804|SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	AlignBegin=804|AlignEnd=804
+3	ouais	ouais	INTJ	_	_	8	discourse	_	AlignBegin=804|AlignEnd=1065|SpaceAfter=No
+4	,	,	PUNCT	_	_	3	punct	_	AlignBegin=1065|AlignEnd=1065
+5	alors	alors	ADV	_	_	8	mod	_	AlignBegin=1065|AlignEnd=1327|SpaceAfter=No
+6	,	,	PUNCT	_	_	5	punct	_	AlignBegin=1327|AlignEnd=1327
+7	Rambo	Rambo	PROPN	_	_	8	subj	_	AlignBegin=1327|AlignEnd=1589
+8	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=1589|AlignEnd=1850|SpaceAfter=No
+9	,	,	PUNCT	_	_	17	punct	_	AlignBegin=1850|AlignEnd=1850
+10	euh	euh	INTJ	_	_	17	discourse	_	AlignBegin=1850|AlignEnd=2112|SpaceAfter=No
+11	,	,	PUNCT	_	_	10	punct	_	AlignBegin=2112|AlignEnd=2112
+12	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	subj@expl	_	AlignBegin=2112|AlignEnd=2374
+13	faut	falloir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	parataxis:parenth	_	AlignBegin=2374|AlignEnd=2635
+14	préciser	préciser	VERB	_	VerbForm=Inf	13	comp:obj	_	AlignBegin=2635|AlignEnd=2897|SpaceAfter=No
+15	,	,	PUNCT	_	_	13	punct	_	AlignBegin=2897|AlignEnd=2897
+16	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	17	subj	_	AlignBegin=2897|AlignEnd=3203|SpaceAfter=No
+17	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	conj:dicto	_	AlignBegin=3203|AlignEnd=3508
+18	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	AlignBegin=3508|AlignEnd=3814
+19	chien	chien	NOUN	_	Gender=Masc|Number=Sing	17	comp:pred	_	AlignBegin=3814|AlignEnd=4120
+20	de	de	ADP	_	_	19	udep	_	AlignBegin=4120|AlignEnd=4426|SpaceAfter=No
+21	,	,	PUNCT	_	_	25	punct	_	AlignBegin=4426|AlignEnd=4426
+22	euh	euh	INTJ	_	_	25	discourse	_	AlignBegin=4426|AlignEnd=4731|SpaceAfter=No
+23	,	,	PUNCT	_	_	22	punct	_	AlignBegin=4731|AlignEnd=4731
+24	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	25	det	_	AlignBegin=4731|AlignEnd=5037
+25	maison	maison	NOUN	_	Gender=Fem|Number=Sing	20	comp:obj	_	AlignBegin=5037|AlignEnd=5343|SpaceAfter=No
+26	.	.	PUNCT	_	_	8	punct	_	AlignBegin=5343|AlignEnd=5343
+
+# sent_id = ParisStories_2023_ramboLeBulldog_ramboLeBulldog__2
+# text = donc, euh, euh, chez, chez mon père.
+# sound_url = ParisStories_2023_ramboLeBulldog_ramboLeBulldog.mp3
+# speaker = L0
+# user_id = trankitParser100
+# timestamp = 0
+1	donc	donc	ADV	_	_	7	mod	_	AlignBegin=5343|AlignEnd=5648|SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	AlignBegin=5648|AlignEnd=5648
+3	euh	euh	INTJ	_	_	1	discourse	_	AlignBegin=5648|AlignEnd=5954|SpaceAfter=No
+4	,	,	PUNCT	_	_	3	punct	_	AlignBegin=5954|AlignEnd=5954
+5	euh	euh	INTJ	_	_	7	discourse	_	AlignBegin=5954|AlignEnd=6166|SpaceAfter=No
+6	,	,	PUNCT	_	_	5	punct	_	AlignBegin=6166|AlignEnd=6166
+7	chez	chez	ADP	_	_	0	root	_	AlignBegin=6166|AlignEnd=6379|SpaceAfter=No
+8	,	,	PUNCT	_	_	9	punct	_	AlignBegin=6379|AlignEnd=6379
+9	chez	chez	ADP	_	_	7	conj:dicto	_	AlignBegin=6379|AlignEnd=6591
+10	mon	son	DET	_	Number=Sing|Number[psor]=Sing|Person[psor]=1|PronType=Prs	11	det	_	AlignBegin=6591|AlignEnd=6803
+11	père	père	NOUN	_	Gender=Masc|Number=Sing	9	comp:obj	_	AlignBegin=6803|AlignEnd=7015|SpaceAfter=No
+12	.	.	PUNCT	_	_	7	punct	_	AlignBegin=7015|AlignEnd=7015
+
+# sent_id = ParisStories_2023_ramboLeBulldog_ramboLeBulldog__3
+# text = du coup...
+# sound_url = ParisStories_2023_ramboLeBulldog_ramboLeBulldog.mp3
+# speaker = L0
+# user_id = trankitParser100
+# timestamp = 0
+1	du	du	ADP	_	_	0	root	_	AlignBegin=7015|AlignEnd=7228
+2	coup	coup	NOUN	_	Gender=Masc|Number=Sing	1	comp:obj	_	AlignBegin=7228|AlignEnd=7440|SpaceAfter=No
+3	...	...	PUNCT	_	_	1	punct	_	AlignBegin=7440|AlignEnd=7440
+
+# sent_id = ParisStories_2023_ramboLeBulldog_ramboLeBulldog__4
+# text = oui.
+# sound_url = ParisStories_2023_ramboLeBulldog_ramboLeBulldog.mp3
+# speaker = L0
+# user_id = trankitParser100
+# timestamp = 0
+1	oui	oui	INTJ	_	_	0	root	_	AlignBegin=7440|AlignEnd=7652|SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	AlignBegin=7652|AlignEnd=7652
+
+# sent_id = ParisStories_2023_ramboLeBulldog_ramboLeBulldog__5
+# text = il y a, on a un chien, Rambo, un bouledogue français.
+# sound_url = ParisStories_2023_ramboLeBulldog_ramboLeBulldog.mp3
+# speaker = L0
+# user_id = trankitParser100
+# timestamp = 0
+1	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	subj@expl	_	AlignBegin=7652|AlignEnd=7862
+2	y	y	PRON	_	Person=3|PronType=Prs	3	comp@expl	_	AlignBegin=7862|AlignEnd=8072
+3	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=8072|AlignEnd=8282|SpaceAfter=No
+4	,	,	PUNCT	_	_	6	punct	_	AlignBegin=8282|AlignEnd=8282
+5	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	6	subj	_	AlignBegin=8282|AlignEnd=8492
+6	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj:dicto	_	AlignBegin=8492|AlignEnd=8702
+7	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art|Shared=No	8	det	_	AlignBegin=8702|AlignEnd=8912
+8	chien	chien	NOUN	_	Gender=Masc|Number=Sing	6	comp:obj	_	AlignBegin=8912|AlignEnd=9122|SpaceAfter=No
+9	,	,	PUNCT	_	_	10	punct	_	AlignBegin=9122|AlignEnd=9122
+10	Rambo	Rambo	PROPN	_	_	8	conj:appos	_	AlignBegin=9122|AlignEnd=9332|SpaceAfter=No
+11	,	,	PUNCT	_	_	13	punct	_	AlignBegin=9332|AlignEnd=9332
+12	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	13	det	_	AlignBegin=9332|AlignEnd=9542
+13	bouledogue	bouledogue	NOUN	_	Gender=Masc|Number=Sing	8	conj:appos	_	AlignBegin=9542|AlignEnd=9752
+14	français	français	ADJ	_	Gender=Masc	13	mod	_	AlignBegin=9752|AlignEnd=9962|SpaceAfter=No
+15	.	.	PUNCT	_	_	3	punct	_	AlignBegin=9962|AlignEnd=9962
+
+# sent_id = ParisStories_2023_ramboLeBulldog_ramboLeBulldog__6
+# text = il a, euh, environ, euh, je dirais un peu plus d'un an.
+# sound_url = ParisStories_2023_ramboLeBulldog_ramboLeBulldog.mp3
+# speaker = L0
+# user_id = trankitParser100
+# timestamp = 0
+1	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	subj	_	AlignBegin=10505|AlignEnd=10660
+2	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=10660|AlignEnd=10815|SpaceAfter=No
+3	,	,	PUNCT	_	_	4	punct	_	AlignBegin=10815|AlignEnd=10815
+4	euh	euh	INTJ	_	_	2	discourse	_	AlignBegin=10815|AlignEnd=10970|SpaceAfter=No
+5	,	,	PUNCT	_	_	4	punct	_	AlignBegin=10970|AlignEnd=10970
+6	environ	environ	NOUN	_	_	2	mod	_	AlignBegin=10970|AlignEnd=11125|SpaceAfter=No
+7	,	,	PUNCT	_	_	8	punct	_	AlignBegin=11125|AlignEnd=11125
+8	euh	euh	INTJ	_	_	6	discourse	_	AlignBegin=11125|AlignEnd=11280|SpaceAfter=No
+9	,	,	PUNCT	_	_	11	punct	_	AlignBegin=11280|AlignEnd=11280
+10	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	11	subj	_	AlignBegin=11280|AlignEnd=11435
+11	dirais	dire	VERB	_	Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	6	discourse	_	AlignBegin=11435|AlignEnd=11590
+12	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	13	det	_	AlignBegin=11590|AlignEnd=11745
+13	peu	peu	NOUN	_	Gender=Masc|Number=Sing	14	mod	_	AlignBegin=11745|AlignEnd=11900
+14	plus	plus	ADV	_	_	11	comp:obj	_	AlignBegin=11900|AlignEnd=12054
+15	d'	de	ADP	_	_	14	mod	_	AlignBegin=12054|AlignEnd=12209|SpaceAfter=No
+16	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	17	det	_	AlignBegin=12209|AlignEnd=12364
+17	an	an	NOUN	_	Gender=Masc|Number=Sing	15	comp:obj	_	AlignBegin=12364|AlignEnd=12519|SpaceAfter=No
+18	.	.	PUNCT	_	_	2	punct	_	AlignBegin=12519|AlignEnd=12519
+
+# sent_id = ParisStories_2023_ramboLeBulldog_ramboLeBulldog__7
+# text = jour de naissance, ouais.
+# sound_url = ParisStories_2023_ramboLeBulldog_ramboLeBulldog.mp3
+# speaker = L0
+# user_id = trankitParser100
+# timestamp = 0
+1	jour	jour	NOUN	_	Gender=Masc|Number=Sing	0	root	_	AlignBegin=74491|AlignEnd=74684
+2	de	de	ADP	_	_	1	mod	_	AlignBegin=74684|AlignEnd=74878
+3	naissance	naissance	NOUN	_	Gender=Fem|Number=Sing	2	comp:obj	_	AlignBegin=74878|AlignEnd=75071|SpaceAfter=No
+4	,	,	PUNCT	_	_	5	punct	_	AlignBegin=75071|AlignEnd=75071
+5	ouais	ouais	INTJ	_	_	1	discourse	_	AlignBegin=75071|AlignEnd=75264|SpaceAfter=No
+6	.	.	PUNCT	_	_	1	punct	_	AlignBegin=75264|AlignEnd=75264
+
+# sent_id = ParisStories_2023_ramboLeBulldog_ramboLeBulldog__8
+# text =  ah, oui, plus d'un an. ouais, euh.  un an et deux mois.  ouais, un an et deux mois, c'est ça.. donc, alors, la première fois que, alors on va un peu parler la première fois qu'on a voulu prendre un chien déjà. oui, si tu veux. c'était, euh, c'était comment dire, c'est, on étaient en été deux mille vingt, il me semble. et c'était euh, NAME_R, donc, le fils de la compagne de mon père. oui. qui, euh, à la base voulait un chien pour son anniversaire, le vingt neuf septembre. et, euh, et, euh, bon, après mon père, il, il a dit " ah, pourquoi pas un bouledogue français. ", parce qu'il avait envie d'avoir un bouledogue français. c'était, euh, voilà, c'est, il voulait, il voulait un bouledogue. il voulait un petit chien, aussi. ah ! oui et pas un gros chien parce qu'on, euh, ça, ça va être difficile, ça aurait été difficile, après de le promener et tout. mh mh. voilà un petit chien, c'est bien. et, euh, donc voilà, on s'est décidé, enfin, Papa s'est décidé à prendre un chien dans un élevage, en Normandie, un bouledogue français, qui était né, euh, bah, justement le vingt neuf août. ouais. et, euh, c'est marrant, puisque, moi, je suis né le vingt neuf août aussi. du coup, on a le même …  la même date de naissance
+# sound_url = ParisStories_2023_ramboLeBulldog_ramboLeBulldog.mp3
+# speaker = L1
+# user_id = trankitParser100
+# timestamp = 0
+1			PUNCT	_	_	150	punct	_	AlignBegin=12519|AlignEnd=12519
+2	ah	ah	INTJ	_	_	150	discourse	_	AlignBegin=12519|AlignEnd=12674|SpaceAfter=No
+3	,	,	PUNCT	_	_	2	punct	_	AlignBegin=12674|AlignEnd=12674
+4	oui	oui	ADV	_	_	150	discourse	_	AlignBegin=12674|AlignEnd=12829|SpaceAfter=No
+5	,	,	PUNCT	_	_	4	punct	_	AlignBegin=12829|AlignEnd=12829
+6	plus	plus	ADV	_	_	150	mod	_	AlignBegin=12829|AlignEnd=12984
+7	d'	de	ADP	_	_	6	comp:obl	_	AlignBegin=12984|AlignEnd=13139|SpaceAfter=No
+8	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	det	_	AlignBegin=13139|AlignEnd=13294
+9	an	an	NOUN	_	Gender=Masc|Number=Sing	7	comp:obj	_	AlignBegin=13294|AlignEnd=13449|SpaceAfter=No
+10	.	.	PUNCT	_	_	17	punct	_	AlignBegin=13449|AlignEnd=13449
+11	ouais	ouais	INTJ	_	_	17	discourse	_	AlignBegin=14400|AlignEnd=14618|SpaceAfter=No
+12	,	,	PUNCT	_	_	11	punct	_	AlignBegin=14618|AlignEnd=14618
+13	euh	euh	INTJ	_	_	17	discourse	_	AlignBegin=14618|AlignEnd=14836|SpaceAfter=No
+14	.	.	PUNCT	_	_	13	punct	_	AlignBegin=14836|AlignEnd=14836
+15			PUNCT	_	_	17	punct	_	AlignBegin=14836|AlignEnd=14836
+16	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	17	det	_	AlignBegin=14836|AlignEnd=15054
+17	an	an	NOUN	_	Gender=Masc|Number=Sing	9	conj:dicto	_	AlignBegin=15054|AlignEnd=15272
+18	et	et	CCONJ	_	_	20	cc	_	AlignBegin=15272|AlignEnd=15490
+19	deux	deux	NUM	_	Number=Plur	20	det	_	AlignBegin=15490|AlignEnd=15708
+20	mois	mois	NOUN	_	Gender=Masc|Number=Plur	17	conj:coord	_	AlignBegin=15708|AlignEnd=15926|SpaceAfter=No
+21	.	.	PUNCT	_	_	20	punct	_	AlignBegin=15926|AlignEnd=15926
+22			PUNCT	_	_	182	punct	_	AlignBegin=15926|AlignEnd=15926
+23	ouais	ouais	INTJ	_	_	26	discourse	_	AlignBegin=15926|AlignEnd=16144|SpaceAfter=No
+24	,	,	PUNCT	_	_	23	punct	_	AlignBegin=16144|AlignEnd=16144
+25	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	26	det	_	AlignBegin=16144|AlignEnd=16361
+26	an	an	NOUN	_	Gender=Masc|Number=Sing	17	conj:dicto	_	AlignBegin=16361|AlignEnd=16579
+27	et	et	CCONJ	_	_	29	cc	_	AlignBegin=16579|AlignEnd=16797
+28	deux	deux	NUM	_	Number=Plur	29	det	_	AlignBegin=16797|AlignEnd=17015
+29	mois	mois	NOUN	_	Gender=Masc|Number=Plur	26	conj:coord	_	AlignBegin=17015|AlignEnd=17233|SpaceAfter=No
+30	,	,	PUNCT	_	_	42	punct	_	AlignBegin=17233|AlignEnd=17233
+31	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	32	subj	_	AlignBegin=17233|AlignEnd=17451|SpaceAfter=No
+32	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	150	parataxis:parenth	_	AlignBegin=17451|AlignEnd=17669
+33	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	32	comp:pred	_	AlignBegin=17669|AlignEnd=17887|SpaceAfter=No
+34	.	.	PUNCT	_	_	254	punct	_	AlignBegin=17887|AlignEnd=17887|SpaceAfter=No
+35	.	.	PUNCT	_	_	150	punct	_	AlignBegin=17887|AlignEnd=17887
+36	donc	donc	ADV	_	_	32	cc	_	AlignBegin=18657|AlignEnd=18995|SpaceAfter=No
+37	,	,	PUNCT	_	_	36	punct	_	AlignBegin=18995|AlignEnd=18995
+38	alors	alors	ADV	_	_	42	discourse	_	AlignBegin=18995|AlignEnd=19334|SpaceAfter=No
+39	,	,	PUNCT	_	_	38	punct	_	AlignBegin=19334|AlignEnd=19334
+40	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	42	det	_	AlignBegin=19334|AlignEnd=19672
+41	première	premier	ADJ	_	Gender=Fem|Number=Sing	42	mod	_	AlignBegin=19672|AlignEnd=20011
+42	fois	fois	NOUN	_	Gender=Fem|Number=Sing	32	mod	_	AlignBegin=20011|AlignEnd=20349
+43	que	que	SCONJ	_	_	42	mod	_	AlignBegin=20349|AlignEnd=20688|SpaceAfter=No
+44	,	,	PUNCT	_	_	193	punct	_	AlignBegin=20688|AlignEnd=20688
+45	alors	alors	ADV	_	_	193	discourse	_	AlignBegin=20688|AlignEnd=21026
+46	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	47	subj	_	AlignBegin=21026|AlignEnd=21365
+47	va	aller	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	70	parataxis:parenth	_	AlignBegin=21365|AlignEnd=21703
+48	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	49	det	_	AlignBegin=21703|AlignEnd=21847
+49	peu	peu	NOUN	_	Gender=Masc|Number=Sing	193	mod	_	AlignBegin=21847|AlignEnd=21991
+50	parler	parler	VERB	_	VerbForm=Inf	47	comp:obj	_	AlignBegin=21991|AlignEnd=22135
+51	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	53	det	_	AlignBegin=22135|AlignEnd=22279
+52	première	premier	ADJ	_	Gender=Fem|Number=Sing	53	mod	_	AlignBegin=22279|AlignEnd=22423
+53	fois	fois	NOUN	_	Gender=Fem|Number=Sing	50	mod	_	AlignBegin=22423|AlignEnd=22567
+54	qu'	que	SCONJ	_	_	53	mod	_	AlignBegin=22567|AlignEnd=22711|SpaceAfter=No
+55	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	56	subj	_	AlignBegin=22711|AlignEnd=22855
+56	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	54	comp:obj	_	AlignBegin=22855|AlignEnd=22999
+57	voulu	vouloir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	56	comp:aux@tense	_	AlignBegin=22999|AlignEnd=23143
+58	prendre	prendre	VERB	_	VerbForm=Inf	57	comp:obj	_	AlignBegin=23143|AlignEnd=23287
+59	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	60	det	_	AlignBegin=23287|AlignEnd=23431
+60	chien	chien	NOUN	_	Gender=Masc|Number=Sing	58	comp:obj	_	AlignBegin=23431|AlignEnd=23575
+61	déjà	déjà	ADV	_	_	58	mod	_	AlignBegin=23575|AlignEnd=23719|SpaceAfter=No
+62	.	.	PUNCT	_	_	254	punct	_	AlignBegin=23719|AlignEnd=23719
+63	oui	oui	ADV	_	_	70	discourse	_	AlignBegin=23719|AlignEnd=23863|SpaceAfter=No
+64	,	,	PUNCT	_	_	63	punct	_	AlignBegin=23863|AlignEnd=23863
+65	si	si	SCONJ	_	_	70	mod	_	AlignBegin=23863|AlignEnd=24007
+66	tu	il	PRON	_	Number=Sing|Person=2|PronType=Prs	67	subj	_	AlignBegin=24007|AlignEnd=24151
+67	veux	vouloir	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	65	comp:obj	_	AlignBegin=24151|AlignEnd=24295|SpaceAfter=No
+68	.	.	PUNCT	_	_	65	punct	_	AlignBegin=24295|AlignEnd=24295
+69	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	70	subj	_	AlignBegin=25291|AlignEnd=25528|SpaceAfter=No
+70	était	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	254	comp:obj	_	AlignBegin=25528|AlignEnd=25765|SpaceAfter=No
+71	,	,	PUNCT	_	_	70	punct	_	AlignBegin=25765|AlignEnd=25765
+72	euh	euh	INTJ	_	_	75	discourse	_	AlignBegin=25765|AlignEnd=26002|SpaceAfter=No
+73	,	,	PUNCT	_	_	72	punct	_	AlignBegin=26002|AlignEnd=26002
+74	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	75	subj	_	AlignBegin=26002|AlignEnd=26240|SpaceAfter=No
+75	était	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	70	conj:dicto	_	AlignBegin=26240|AlignEnd=26477
+76	comment	comment	ADV	_	_	77	mod	_	AlignBegin=26477|AlignEnd=26714
+77	dire	dire	VERB	_	VerbForm=Inf	75	comp:obj	_	AlignBegin=26714|AlignEnd=26951|SpaceAfter=No
+78	,	,	PUNCT	_	_	80	punct	_	AlignBegin=26951|AlignEnd=26951
+79	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	80	subj	_	AlignBegin=26951|AlignEnd=27188|SpaceAfter=No
+80	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	75	conj:dicto	_	AlignBegin=27188|AlignEnd=27425|SpaceAfter=No
+81	,	,	PUNCT	_	_	80	punct	_	AlignBegin=27425|AlignEnd=27425
+82	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	83	subj	_	AlignBegin=27425|AlignEnd=27663
+83	étaient	être	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	80	conj:dicto	_	AlignBegin=27663|AlignEnd=27900
+84	en	en	ADP	_	_	83	comp:obl	_	AlignBegin=27900|AlignEnd=28137
+85	été	être	NOUN	_	Gender=Masc|Number=Sing	84	comp:obj	_	AlignBegin=28137|AlignEnd=28374
+86	deux	deux	NUM	_	Number=Plur	85	mod	_	AlignBegin=28374|AlignEnd=28611
+87	mille	mille	NUM	_	_	86	flat	_	AlignBegin=28611|AlignEnd=28848
+88	vingt	vingt	NUM	_	Number=Plur	87	flat	_	AlignBegin=28848|AlignEnd=29086|SpaceAfter=No
+89	,	,	PUNCT	_	_	92	punct	_	AlignBegin=29086|AlignEnd=29086
+90	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	92	subj@expl	_	AlignBegin=29086|AlignEnd=29323
+91	me	lui	PRON	_	Number=Sing|Person=1|PronType=Prs	92	comp:obj	_	AlignBegin=29323|AlignEnd=29560
+92	semble	sembler	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	83	discourse	_	AlignBegin=29560|AlignEnd=29797|SpaceAfter=No
+93	.	.	PUNCT	_	_	96	punct	_	AlignBegin=29797|AlignEnd=29797
+94	et	et	CCONJ	_	_	96	cc	_	AlignBegin=30073|AlignEnd=30286
+95	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	96	subj	_	AlignBegin=30286|AlignEnd=30499|SpaceAfter=No
+96	était	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	254	conj:dicto	_	AlignBegin=30499|AlignEnd=30712
+97	euh	euh	INTJ	_	_	99	discourse	_	AlignBegin=30712|AlignEnd=30924|SpaceAfter=No
+98	,	,	PUNCT	_	_	97	punct	_	AlignBegin=30924|AlignEnd=30924
+99	NAME_R	NAME_R	PROPN	_	_	96	comp:pred	_	AlignBegin=30924|AlignEnd=31137|SpaceAfter=No
+100	,	,	PUNCT	_	_	104	punct	_	AlignBegin=31137|AlignEnd=31137
+101	donc	donc	ADV	_	_	104	cc	_	AlignBegin=31137|AlignEnd=31350|SpaceAfter=No
+102	,	,	PUNCT	_	_	104	punct	_	AlignBegin=31350|AlignEnd=31350
+103	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	104	det	_	AlignBegin=31350|AlignEnd=31563
+104	fils	fils	NOUN	_	Gender=Masc|Number=Sing	99	conj:appos	_	AlignBegin=31563|AlignEnd=31776
+105	de	de	ADP	_	_	104	udep	_	AlignBegin=31776|AlignEnd=31989
+106	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	107	det	_	AlignBegin=31989|AlignEnd=32202
+107	compagne	compagne	NOUN	_	Gender=Fem|Number=Sing	105	comp:obj	_	AlignBegin=32202|AlignEnd=32415
+108	de	de	ADP	_	_	107	udep	_	AlignBegin=32415|AlignEnd=32627
+109	mon	son	DET	_	Gender=Masc|Number=Sing|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs	110	det	_	AlignBegin=32627|AlignEnd=32840
+110	père	père	NOUN	_	Gender=Masc|Number=Sing	108	comp:obj	_	AlignBegin=32840|AlignEnd=33053|SpaceAfter=No
+111	.	.	PUNCT	_	_	121	punct	_	AlignBegin=33053|AlignEnd=33053
+112	oui	oui	ADV	_	_	121	discourse	_	AlignBegin=33053|AlignEnd=33266|SpaceAfter=No
+113	.	.	PUNCT	_	_	121	punct	_	AlignBegin=33266|AlignEnd=33266
+114	qui	qui	PRON	_	PronType=Rel	121	subj	_	AlignBegin=33674|AlignEnd=33907|SpaceAfter=No
+115	,	,	PUNCT	_	_	114	punct	_	AlignBegin=33907|AlignEnd=33907
+116	euh	euh	INTJ	_	_	114	discourse	_	AlignBegin=33907|AlignEnd=34140|SpaceAfter=No
+117	,	,	PUNCT	_	_	116	punct	_	AlignBegin=34140|AlignEnd=34140
+118	à	à	ADP	_	_	121	mod	_	AlignBegin=34140|AlignEnd=34140
+119	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	120	det	_	AlignBegin=34140|AlignEnd=34373
+120	base	base	NOUN	_	Gender=Fem|Number=Sing	118	comp:obj	_	AlignBegin=34373|AlignEnd=34605
+121	voulait	vouloir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	110	mod@relcl	_	AlignBegin=34605|AlignEnd=34838
+122	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	123	det	_	AlignBegin=34838|AlignEnd=35071
+123	chien	chien	NOUN	_	Gender=Masc|Number=Sing	121	comp:obj	_	AlignBegin=35071|AlignEnd=35304
+124	pour	pour	ADP	_	_	308	mod	_	AlignBegin=35304|AlignEnd=35537
+125	son	son	DET	_	Number=Sing|Number[psor]=Sing|Person[psor]=3|PronType=Prs	126	det	_	AlignBegin=35537|AlignEnd=35770
+126	anniversaire	anniversaire	NOUN	_	Gender=Masc|Number=Sing	124	comp:obj	_	AlignBegin=35770|AlignEnd=36003|SpaceAfter=No
+127	,	,	PUNCT	_	_	129	punct	_	AlignBegin=36003|AlignEnd=36003
+128	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	129	det	_	AlignBegin=36003|AlignEnd=36235
+129	vingt	vingt	NUM	_	Number=Plur	126	mod	_	AlignBegin=36235|AlignEnd=36468
+130	neuf	neuf	NUM	_	Number=Plur	129	flat	_	AlignBegin=36468|AlignEnd=36701
+131	septembre	septembre	NOUN	_	Gender=Masc|Number=Sing	130	flat	_	AlignBegin=36701|AlignEnd=36934|SpaceAfter=No
+132	.	.	PUNCT	_	_	254	punct	_	AlignBegin=36934|AlignEnd=36934
+133	et	et	CCONJ	_	_	150	cc	_	AlignBegin=37885|AlignEnd=38304|SpaceAfter=No
+134	,	,	PUNCT	_	_	135	punct	_	AlignBegin=38304|AlignEnd=38304
+135	euh	euh	INTJ	_	_	133	discourse	_	AlignBegin=38304|AlignEnd=38723|SpaceAfter=No
+136	,	,	PUNCT	_	_	135	punct	_	AlignBegin=38723|AlignEnd=38723
+137	et	et	CCONJ	_	_	150	cc	_	AlignBegin=38723|AlignEnd=39142|SpaceAfter=No
+138	,	,	PUNCT	_	_	137	punct	_	AlignBegin=39142|AlignEnd=39142
+139	euh	euh	INTJ	_	_	137	discourse	_	AlignBegin=39142|AlignEnd=39561|SpaceAfter=No
+140	,	,	PUNCT	_	_	139	punct	_	AlignBegin=39561|AlignEnd=39561
+141	bon	bon	INTJ	_	_	143	discourse	_	AlignBegin=39561|AlignEnd=39980|SpaceAfter=No
+142	,	,	PUNCT	_	_	141	punct	_	AlignBegin=39980|AlignEnd=39980
+143	après	après	ADP	_	_	32	mod	_	AlignBegin=39980|AlignEnd=40399
+144	mon	son	DET	_	Gender=Masc|Number=Sing|Number[psor]=Sing|Person[psor]=1|Poss=Yes|PronType=Prs	145	det	_	AlignBegin=40399|AlignEnd=40818
+145	père	père	NOUN	_	Gender=Masc|Number=Sing	143	comp:obj	_	AlignBegin=40818|AlignEnd=41237|SpaceAfter=No
+146	,	,	PUNCT	_	_	145	punct	_	AlignBegin=41237|AlignEnd=41237
+147	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	150	subj	_	AlignBegin=41780|AlignEnd=42000|SpaceAfter=No
+148	,	,	PUNCT	_	_	147	punct	_	AlignBegin=42000|AlignEnd=42000
+149	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	147	conj:dicto	_	AlignBegin=42000|AlignEnd=42219
+150	a	avoir	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	254	comp:obj	_	AlignBegin=42219|AlignEnd=42439
+151	dit	dire	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	150	comp:aux@tense	_	AlignBegin=42439|AlignEnd=42659
+152	"	"	PUNCT	_	_	158	punct	_	AlignBegin=42659|AlignEnd=42659
+153	ah	ah	INTJ	_	_	26	discourse	_	AlignBegin=42659|AlignEnd=42879|SpaceAfter=No
+154	,	,	PUNCT	_	_	153	punct	_	AlignBegin=42879|AlignEnd=42879
+155	pourquoi	pourquoi	ADV	_	_	158	mod	_	AlignBegin=42879|AlignEnd=43098
+156	pas	pas	ADV	_	_	158	mod	_	AlignBegin=43098|AlignEnd=43318
+157	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	158	det	_	AlignBegin=43318|AlignEnd=43538
+158	bouledogue	bouledogue	NOUN	_	Gender=Masc|Number=Sing	151	comp:obj	_	AlignBegin=43538|AlignEnd=43757
+159	français	français	ADJ	_	Gender=Masc|Number=Sing	158	mod	_	AlignBegin=43757|AlignEnd=43977|SpaceAfter=No
+160	.	.	PUNCT	_	_	254	punct	_	AlignBegin=43977|AlignEnd=43977
+161	"	"	PUNCT	_	_	158	punct	_	AlignBegin=43977|AlignEnd=43977|SpaceAfter=No
+162	,	,	PUNCT	_	_	163	punct	_	AlignBegin=43977|AlignEnd=43977
+163	parce	parce	ADV	_	_	175	mod	_	AlignBegin=43977|AlignEnd=44183
+164	qu'	que	SCONJ	_	_	163	unk	_	AlignBegin=44183|AlignEnd=44389|SpaceAfter=No
+165	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	166	subj	_	AlignBegin=44389|AlignEnd=44595
+166	avait	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	163	comp:obj	_	AlignBegin=44595|AlignEnd=44801
+167	envie	envie	NOUN	_	Gender=Fem|Number=Sing	166	comp:obj@lvc	_	AlignBegin=44801|AlignEnd=45007
+168	d'	de	ADP	_	_	167	udep	_	AlignBegin=45007|AlignEnd=45213|SpaceAfter=No
+169	avoir	avoir	VERB	_	VerbForm=Inf	168	comp:obj	_	AlignBegin=45213|AlignEnd=45419
+170	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	171	det	_	AlignBegin=45419|AlignEnd=45625
+171	bouledogue	bouledogue	NOUN	_	Gender=Masc|Number=Sing	169	comp:obj	_	AlignBegin=45625|AlignEnd=45831
+172	français	français	ADJ	_	Gender=Masc|Number=Sing	171	mod	_	AlignBegin=45831|AlignEnd=46037|SpaceAfter=No
+173	.	.	PUNCT	_	_	150	punct	_	AlignBegin=46037|AlignEnd=46037
+174	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	32	subj	_	AlignBegin=46264|AlignEnd=46762|SpaceAfter=No
+175	était	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	150	conj:coord	_	AlignBegin=46762|AlignEnd=47260|SpaceAfter=No
+176	,	,	PUNCT	_	_	182	punct	_	AlignBegin=47260|AlignEnd=47260
+177	euh	euh	INTJ	_	_	185	discourse	_	AlignBegin=47260|AlignEnd=47758|SpaceAfter=No
+178	,	,	PUNCT	_	_	177	punct	_	AlignBegin=47758|AlignEnd=47758
+179	voilà	voilà	VERB	_	_	185	discourse	_	AlignBegin=47758|AlignEnd=47917|SpaceAfter=No
+180	,	,	PUNCT	_	_	179	punct	_	AlignBegin=47917|AlignEnd=47917
+181	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	182	subj	_	AlignBegin=47917|AlignEnd=48075|SpaceAfter=No
+182	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	150	conj:dicto	_	AlignBegin=48075|AlignEnd=48234|SpaceAfter=No
+183	,	,	PUNCT	_	_	185	punct	_	AlignBegin=48234|AlignEnd=48234
+184	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	185	subj	_	AlignBegin=48234|AlignEnd=48392
+185	voulait	vouloir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	182	conj:dicto	_	AlignBegin=48392|AlignEnd=48551|SpaceAfter=No
+186	,	,	PUNCT	_	_	188	punct	_	AlignBegin=48551|AlignEnd=48551
+187	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	188	subj	_	AlignBegin=48551|AlignEnd=48709
+188	voulait	vouloir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	185	conj:dicto	_	AlignBegin=48709|AlignEnd=48868
+189	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	190	det	_	AlignBegin=48868|AlignEnd=49026
+190	bouledogue	bouledogue	NOUN	_	Gender=Masc|Number=Sing	188	comp:obj	_	AlignBegin=49026|AlignEnd=49185|SpaceAfter=No
+191	.	.	PUNCT	_	_	193	punct	_	AlignBegin=49185|AlignEnd=49185
+192	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	193	subj	_	AlignBegin=49185|AlignEnd=49343
+193	voulait	vouloir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	182	conj:coord	_	AlignBegin=49343|AlignEnd=49502
+194	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	196	det	_	AlignBegin=49502|AlignEnd=49660
+195	petit	petit	ADJ	_	_	196	mod	_	AlignBegin=49660|AlignEnd=49819
+196	chien	chien	NOUN	_	Gender=Masc|Number=Sing	193	comp:obj	_	AlignBegin=49819|AlignEnd=49977|SpaceAfter=No
+197	,	,	PUNCT	_	_	198	punct	_	AlignBegin=49977|AlignEnd=49977
+198	aussi	aussi	ADV	_	_	196	mod	_	AlignBegin=49977|AlignEnd=50136|SpaceAfter=No
+199	.	.	PUNCT	_	_	254	punct	_	AlignBegin=50136|AlignEnd=50136
+200	ah	ah	INTJ	_	_	198	discourse	_	AlignBegin=50838|AlignEnd=51038
+201	!	!	PUNCT	_	_	200	punct	_	AlignBegin=51038|AlignEnd=51038
+202	oui	oui	ADV	_	_	207	discourse	_	AlignBegin=51038|AlignEnd=51237
+203	et	et	CCONJ	_	_	207	cc	_	AlignBegin=51237|AlignEnd=51437
+204	pas	pas	ADV	_	_	207	mod	_	AlignBegin=51437|AlignEnd=51637
+205	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	207	det	_	AlignBegin=51637|AlignEnd=51836
+206	gros	gros	ADJ	_	Gender=Masc|Number=Sing	207	mod	_	AlignBegin=51836|AlignEnd=52036
+207	chien	chien	NOUN	_	Gender=Masc|Number=Sing	196	conj:coord	_	AlignBegin=52036|AlignEnd=52235
+208	parce	parce	ADV	_	_	193	mod	_	AlignBegin=52235|AlignEnd=52435
+209	qu'	que	SCONJ	_	_	208	unk	_	AlignBegin=52435|AlignEnd=52635|SpaceAfter=No
+210	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	193	comp:obj@scrap	_	AlignBegin=52635|AlignEnd=52834|SpaceAfter=No
+211	,	,	PUNCT	_	_	196	punct	_	AlignBegin=52834|AlignEnd=52834
+212	euh	euh	INTJ	_	_	217	discourse	_	AlignBegin=52834|AlignEnd=53034|SpaceAfter=No
+213	,	,	PUNCT	_	_	212	punct	_	AlignBegin=53034|AlignEnd=53034
+214	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	217	dislocated	_	AlignBegin=53283|AlignEnd=53495|SpaceAfter=No
+215	,	,	PUNCT	_	_	214	punct	_	AlignBegin=53495|AlignEnd=53495
+216	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	214	conj:dicto	_	AlignBegin=53495|AlignEnd=53707
+217	va	aller	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	208	comp:obj	_	AlignBegin=53707|AlignEnd=53918
+218	être	être	AUX	_	VerbForm=Inf	217	comp:obj	_	AlignBegin=53918|AlignEnd=54130
+219	difficile	difficile	ADJ	_	Number=Sing	218	comp:pred	_	AlignBegin=54130|AlignEnd=54342|SpaceAfter=No
+220	,	,	PUNCT	_	_	222	punct	_	AlignBegin=54342|AlignEnd=54342
+221	ça	ça	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	222	subj	_	AlignBegin=54342|AlignEnd=54554
+222	aurait	avoir	AUX	_	Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	217	conj:coord	_	AlignBegin=54554|AlignEnd=54765
+223	été	être	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	222	comp:aux@tense	_	AlignBegin=54765|AlignEnd=54977
+224	difficile	difficile	ADJ	_	Number=Sing	223	comp:pred	_	AlignBegin=54977|AlignEnd=55189|SpaceAfter=No
+225	,	,	PUNCT	_	_	226	punct	_	AlignBegin=55189|AlignEnd=55189
+226	après	après	ADV	_	_	224	mod	_	AlignBegin=55189|AlignEnd=55401
+227	de	de	ADP	_	_	224	mod	_	AlignBegin=55401|AlignEnd=55612
+228	le	le	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	229	comp:obj	_	AlignBegin=55612|AlignEnd=55824
+229	promener	promener	VERB	_	VerbForm=Inf	227	comp:obj	_	AlignBegin=55824|AlignEnd=56036
+230	et	et	CCONJ	_	_	231	cc	_	AlignBegin=56036|AlignEnd=56248
+231	tout	tout	ADV	_	Gender=Masc|Number=Sing	229	conj:coord	_	AlignBegin=56248|AlignEnd=56459|SpaceAfter=No
+232	.	.	PUNCT	_	_	80	punct	_	AlignBegin=56459|AlignEnd=56459
+233	mh	mh	INTJ	_	_	80	discourse	_	AlignBegin=56459|AlignEnd=56671
+234	mh	mh	INTJ	_	_	80	discourse	_	AlignBegin=56671|AlignEnd=56883|SpaceAfter=No
+235	.	.	PUNCT	_	_	254	punct	_	AlignBegin=56883|AlignEnd=56883
+236	voilà	voilà	VERB	_	_	80	discourse	_	AlignBegin=56883|AlignEnd=57113
+237	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	239	det	_	AlignBegin=57113|AlignEnd=57342
+238	petit	petit	ADJ	_	_	239	mod	_	AlignBegin=57342|AlignEnd=57572
+239	chien	chien	NOUN	_	Gender=Masc|Number=Sing	80	comp:obj	_	AlignBegin=57572|AlignEnd=57802|SpaceAfter=No
+240	,	,	PUNCT	_	_	239	punct	_	AlignBegin=57802|AlignEnd=57802
+241	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	242	subj	_	AlignBegin=57802|AlignEnd=58032|SpaceAfter=No
+242	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	80	discourse	_	AlignBegin=58032|AlignEnd=58261
+243	bien	bien	ADV	_	_	242	mod	_	AlignBegin=58261|AlignEnd=58491|SpaceAfter=No
+244	.	.	PUNCT	_	_	254	punct	_	AlignBegin=58491|AlignEnd=58491
+245	et	et	CCONJ	_	_	254	cc	_	AlignBegin=59187|AlignEnd=59490|SpaceAfter=No
+246	,	,	PUNCT	_	_	247	punct	_	AlignBegin=59490|AlignEnd=59490
+247	euh	euh	INTJ	_	_	245	discourse	_	AlignBegin=59490|AlignEnd=59793|SpaceAfter=No
+248	,	,	PUNCT	_	_	247	punct	_	AlignBegin=59793|AlignEnd=59793
+249	donc	donc	ADV	_	_	254	discourse	_	AlignBegin=59793|AlignEnd=60096
+250	voilà	voilà	VERB	_	_	254	discourse	_	AlignBegin=60096|AlignEnd=60399|SpaceAfter=No
+251	,	,	PUNCT	_	_	250	punct	_	AlignBegin=60399|AlignEnd=60399
+252	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	254	subj	_	AlignBegin=60399|AlignEnd=60702
+253	s'	se	PRON	_	Person=3|PronType=Prs	254	comp@expl	_	AlignBegin=60702|AlignEnd=61005|SpaceAfter=No
+254	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=61005|AlignEnd=61309
+255	décidé	décider	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	254	comp:aux@tense	_	AlignBegin=61309|AlignEnd=61612|SpaceAfter=No
+256	,	,	PUNCT	_	_	99	punct	_	AlignBegin=61612|AlignEnd=61612
+257	enfin	enfin	ADV	_	_	254	discourse	_	AlignBegin=61612|AlignEnd=61915|SpaceAfter=No
+258	,	,	PUNCT	_	_	257	punct	_	AlignBegin=61915|AlignEnd=61915
+259	Papa	Papa	PROPN	_	_	261	subj	_	AlignBegin=61915|AlignEnd=62218
+260	s'	se	PRON	_	Person=3|PronType=Prs	262	comp@expl	_	AlignBegin=62218|AlignEnd=62521|SpaceAfter=No
+261	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	254	conj:dicto	_	AlignBegin=62521|AlignEnd=62824
+262	décidé	décider	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	92	comp:aux@tense	_	AlignBegin=62824|AlignEnd=63127
+263	à	à	ADP	_	_	262	comp:obl	_	AlignBegin=63127|AlignEnd=63127
+264	prendre	prendre	VERB	_	VerbForm=Inf	263	comp:obj	_	AlignBegin=63127|AlignEnd=63438
+265	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	266	det	_	AlignBegin=63438|AlignEnd=63749
+266	chien	chien	NOUN	_	Gender=Masc|Number=Sing	264	comp:obj	_	AlignBegin=63749|AlignEnd=64059
+267	dans	dans	ADP	_	_	264	mod	_	AlignBegin=64059|AlignEnd=64370
+268	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	269	det	_	AlignBegin=64370|AlignEnd=64681
+269	élevage	élevage	NOUN	_	Gender=Masc|Number=Sing	267	comp:obj	_	AlignBegin=64681|AlignEnd=64992|SpaceAfter=No
+270	,	,	PUNCT	_	_	271	punct	_	AlignBegin=64992|AlignEnd=64992
+271	en	en	ADP	_	_	229	mod	_	AlignBegin=64992|AlignEnd=65303
+272	Normandie	Normandie	PROPN	_	_	271	comp:obj	_	AlignBegin=65303|AlignEnd=65614|SpaceAfter=No
+273	,	,	PUNCT	_	_	275	punct	_	AlignBegin=65614|AlignEnd=65614
+274	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	275	det	_	AlignBegin=65614|AlignEnd=65924
+275	bouledogue	bouledogue	NOUN	_	Gender=Masc|Number=Sing	99	conj:appos	_	AlignBegin=65924|AlignEnd=66235
+276	français	français	ADJ	_	Gender=Masc	275	mod	_	AlignBegin=66235|AlignEnd=66546|SpaceAfter=No
+277	,	,	PUNCT	_	_	279	punct	_	AlignBegin=66546|AlignEnd=66546
+278	qui	qui	PRON	_	PronType=Rel	279	subj	_	AlignBegin=67248|AlignEnd=67483
+279	était	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	275	mod@relcl	_	AlignBegin=67483|AlignEnd=67717
+280	né	naître	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	279	comp:aux@tense	_	AlignBegin=67717|AlignEnd=67952|SpaceAfter=No
+281	,	,	PUNCT	_	_	280	punct	_	AlignBegin=67952|AlignEnd=67952
+282	euh	euh	INTJ	_	_	286	discourse	_	AlignBegin=67952|AlignEnd=68187|SpaceAfter=No
+283	,	,	PUNCT	_	_	282	punct	_	AlignBegin=68187|AlignEnd=68187
+284	bah	bah	INTJ	_	_	286	discourse	_	AlignBegin=68187|AlignEnd=68421|SpaceAfter=No
+285	,	,	PUNCT	_	_	284	punct	_	AlignBegin=68421|AlignEnd=68421
+286	justement	justement	ADV	_	_	121	mod	_	AlignBegin=68421|AlignEnd=68656
+287	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	288	det	_	AlignBegin=68656|AlignEnd=68890
+288	vingt	vingt	NUM	_	Number=Plur	308	mod	_	AlignBegin=68890|AlignEnd=69125
+289	neuf	neuf	NUM	_	Number=Plur	288	flat	_	AlignBegin=69125|AlignEnd=69360
+290	août	août	NOUN	_	Gender=Masc|Number=Sing	288	mod	_	AlignBegin=69360|AlignEnd=69594|SpaceAfter=No
+291	.	.	PUNCT	_	_	319	punct	_	AlignBegin=69594|AlignEnd=69594
+292	ouais	ouais	INTJ	_	_	319	discourse	_	AlignBegin=69594|AlignEnd=69829|SpaceAfter=No
+293	.	.	PUNCT	_	_	292	punct	_	AlignBegin=69829|AlignEnd=69829
+294	et	et	CCONJ	_	_	150	cc	_	AlignBegin=69829|AlignEnd=69998|SpaceAfter=No
+295	,	,	PUNCT	_	_	294	punct	_	AlignBegin=69998|AlignEnd=69998
+296	euh	euh	INTJ	_	_	319	discourse	_	AlignBegin=69998|AlignEnd=70167|SpaceAfter=No
+297	,	,	PUNCT	_	_	296	punct	_	AlignBegin=70167|AlignEnd=70167
+298	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	299	subj	_	AlignBegin=70167|AlignEnd=70336|SpaceAfter=No
+299	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	150	discourse	_	AlignBegin=70336|AlignEnd=70506
+300	marrant	marrant	ADJ	_	Gender=Masc|Number=Sing	299	comp:pred	_	AlignBegin=70506|AlignEnd=70675|SpaceAfter=No
+301	,	,	PUNCT	_	_	302	punct	_	AlignBegin=70675|AlignEnd=70675
+302	puisque	puisque	SCONJ	_	_	150	mod	_	AlignBegin=70675|AlignEnd=70844|SpaceAfter=No
+303	,	,	PUNCT	_	_	307	punct	_	AlignBegin=70844|AlignEnd=70844
+304	moi	lui	PRON	_	Number=Sing|Person=1|PronType=Prs	307	dislocated	_	AlignBegin=70844|AlignEnd=71013|SpaceAfter=No
+305	,	,	PUNCT	_	_	304	punct	_	AlignBegin=71013|AlignEnd=71013
+306	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	307	subj	_	AlignBegin=71013|AlignEnd=71182
+307	suis	être	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	302	comp:obj	_	AlignBegin=71182|AlignEnd=71351
+308	né	naître	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	307	comp:aux@tense	_	AlignBegin=71351|AlignEnd=71520
+309	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	310	det	_	AlignBegin=71520|AlignEnd=71689
+310	vingt	vingt	NUM	_	Number=Plur	308	mod	_	AlignBegin=71689|AlignEnd=71859
+311	neuf	neuf	NUM	_	Number=Plur	310	flat	_	AlignBegin=71859|AlignEnd=72028
+312	août	août	NOUN	_	Gender=Masc|Number=Sing	310	mod	_	AlignBegin=72028|AlignEnd=72197
+313	aussi	aussi	ADV	_	_	121	mod	_	AlignBegin=72197|AlignEnd=72366|SpaceAfter=No
+314	.	.	PUNCT	_	_	319	punct	_	AlignBegin=72366|AlignEnd=72366
+315	du	du	ADP	_	_	319	discourse	_	AlignBegin=72366|AlignEnd=72559
+316	coup	coup	NOUN	_	Gender=Masc|Number=Sing	315	comp:obj	_	AlignBegin=72559|AlignEnd=72752|SpaceAfter=No
+317	,	,	PUNCT	_	_	315	punct	_	AlignBegin=72752|AlignEnd=72752
+318	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	32	subj	_	AlignBegin=72752|AlignEnd=72946
+319	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	150	parataxis	_	AlignBegin=72946|AlignEnd=73139
+320	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	42	det	_	AlignBegin=73139|AlignEnd=73332
+321	même	même	ADJ	_	Gender=Masc|Number=Sing	42	mod	_	AlignBegin=73332|AlignEnd=73525
+322	…	…	PUNCT	_	_	29	punct	_	AlignBegin=73525|AlignEnd=73525
+323			PUNCT	_	_	319	punct	_	AlignBegin=73525|AlignEnd=73525
+324	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	321	conj:dicto	_	AlignBegin=73525|AlignEnd=73718
+325	même	même	ADJ	_	_	326	mod	_	AlignBegin=73718|AlignEnd=73912
+326	date	date	NOUN	_	Gender=Fem|Number=Sing	47	comp:obj	_	AlignBegin=73912|AlignEnd=74105
+327	de	de	ADP	_	_	326	udep	_	AlignBegin=74105|AlignEnd=74298
+328	naissance	naissance	NOUN	_	Gender=Fem|Number=Sing	327	comp:obj	_	AlignBegin=74298|AlignEnd=74491
+
+# sent_id = ParisStories_2023_ramboLeBulldog_ramboLeBulldog__9
+# text = voilà.
+# sound_url = ParisStories_2023_ramboLeBulldog_ramboLeBulldog.mp3
+# speaker = L0
+# user_id = trankitParser100
+# timestamp = 0
+1	voilà	voilà	VERB	_	_	0	root	_	AlignBegin=75264|AlignEnd=76170|SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	AlignBegin=76170|AlignEnd=76170
+
+# sent_id = ParisStories_2023_ramboLeBulldog_ramboLeBulldog__10
+# text = euh, donc, vous êtes allés le chercher, parce que, alors, euh, Papa est allé le chercher en Normandie.
+# sound_url = ParisStories_2023_ramboLeBulldog_ramboLeBulldog.mp3
+# speaker = L0
+# user_id = trankitParser100
+# timestamp = 0
+1	euh	euh	INTJ	_	_	6	discourse	_	AlignBegin=76170|AlignEnd=76555|SpaceAfter=No
+2	,	,	PUNCT	_	_	1	punct	_	AlignBegin=76555|AlignEnd=76555
+3	donc	donc	ADV	_	_	6	discourse	_	AlignBegin=76555|AlignEnd=76940|SpaceAfter=No
+4	,	,	PUNCT	_	_	3	punct	_	AlignBegin=76940|AlignEnd=76940
+5	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	6	subj	_	AlignBegin=76940|AlignEnd=77325
+6	êtes	être	AUX	_	Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=77325|AlignEnd=77710
+7	allés	aller	VERB	_	Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part	6	comp:aux@tense	_	AlignBegin=77710|AlignEnd=78095
+8	le	le	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	9	comp:obj	_	AlignBegin=78095|AlignEnd=78479
+9	chercher	chercher	VERB	_	VerbForm=Inf	7	comp:obj	_	AlignBegin=78479|AlignEnd=78864|SpaceAfter=No
+10	,	,	PUNCT	_	_	11	punct	_	AlignBegin=78864|AlignEnd=78864
+11	parce	parce	ADV	_	_	6	mod	_	AlignBegin=78864|AlignEnd=79249
+12	que	que	SCONJ	_	_	11	unk	_	AlignBegin=79249|AlignEnd=79634|SpaceAfter=No
+13	,	,	PUNCT	_	_	19	punct	_	AlignBegin=79634|AlignEnd=79634
+14	alors	alors	ADV	_	_	19	discourse	_	AlignBegin=79634|AlignEnd=80019|SpaceAfter=No
+15	,	,	PUNCT	_	_	16	punct	_	AlignBegin=80019|AlignEnd=80019
+16	euh	euh	INTJ	_	_	19	discourse	_	AlignBegin=80834|AlignEnd=81069|SpaceAfter=No
+17	,	,	PUNCT	_	_	16	punct	_	AlignBegin=81069|AlignEnd=81069
+18	Papa	Papa	PROPN	_	_	19	subj	_	AlignBegin=81069|AlignEnd=81304
+19	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	comp:obj	_	AlignBegin=81304|AlignEnd=81539
+20	allé	aller	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	19	comp:aux@tense	_	AlignBegin=81539|AlignEnd=81774
+21	le	le	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	22	comp:obj	_	AlignBegin=81774|AlignEnd=82009
+22	chercher	chercher	VERB	_	VerbForm=Inf	20	comp:obj	_	AlignBegin=82009|AlignEnd=82244
+23	en	en	ADP	_	_	22	mod	_	AlignBegin=82244|AlignEnd=82479
+24	Normandie	Normandie	PROPN	_	_	23	comp:obj	_	AlignBegin=82479|AlignEnd=82714|SpaceAfter=No
+25	.	.	PUNCT	_	_	6	punct	_	AlignBegin=82714|AlignEnd=82714
+
+# sent_id = ParisStories_2023_ramboLeBulldog_ramboLeBulldog__11
+# text = tôt le matin, en plus, il me semble.
+# sound_url = ParisStories_2023_ramboLeBulldog_ramboLeBulldog.mp3
+# speaker = L0
+# user_id = trankitParser100
+# timestamp = 0
+1	tôt	tôt	ADV	_	_	3	mod	_	AlignBegin=82714|AlignEnd=82886
+2	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	3	det	_	AlignBegin=82886|AlignEnd=83058
+3	matin	matin	NOUN	_	Gender=Masc|Number=Sing	0	root	_	AlignBegin=83058|AlignEnd=83230|SpaceAfter=No
+4	,	,	PUNCT	_	_	5	punct	_	AlignBegin=83230|AlignEnd=83230
+5	en	en	ADP	_	_	3	discourse	_	AlignBegin=83230|AlignEnd=83402
+6	plus	plus	ADV	_	_	5	comp:obj	_	AlignBegin=83402|AlignEnd=83574|SpaceAfter=No
+7	,	,	PUNCT	_	_	10	punct	_	AlignBegin=83574|AlignEnd=83574
+8	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	subj@expl	_	AlignBegin=83574|AlignEnd=83746
+9	me	lui	PRON	_	Number=Sing|Person=1|PronType=Prs	10	comp:obl	_	AlignBegin=83746|AlignEnd=83918
+10	semble	sembler	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	discourse	_	AlignBegin=83918|AlignEnd=84090|SpaceAfter=No
+11	.	.	PUNCT	_	_	3	punct	_	AlignBegin=84090|AlignEnd=84090
+
+# sent_id = ParisStories_2023_ramboLeBulldog_ramboLeBulldog__12
+# text = mh mh. ouais. mais, on, si. ouais et du coup, euh, et du coup ; euh, bah, tu es, NAME_A, voilà, tu es venu avec lui. et moi, j'attendais à la maison, euh.  ouais, de chez Maman. ouais, euh, non, j'étais chez Papa, il me semble. non. non, j'étais chez Maman ? bah, j'étais chez Maman, du coup, bref. mais, en tout cas, je suis venu, je suis venu, euh, chez Papa, euh, le matin, en attendant que, euh, que, que vous arriviez, quoi. euh, non. non ? non. eh bien, euh, on est venu, on est venu, euh, on est rentré, chez Papa. mh mh. avec Rambo. ouais. et après, je t'ai envoyée un message, pour te dire de venir voir Rambo.
+# sound_url = ParisStories_2023_ramboLeBulldog_ramboLeBulldog.mp3
+# speaker = L1
+# user_id = trankitParser100
+# timestamp = 0
+1	mh	mh	INTJ	_	_	101	discourse	_	AlignBegin=84090|AlignEnd=84262
+2	mh	mh	INTJ	_	_	1	conj:dicto	_	AlignBegin=84262|AlignEnd=84434|SpaceAfter=No
+3	.	.	PUNCT	_	_	1	punct	_	AlignBegin=84434|AlignEnd=84434
+4	ouais	ouais	INTJ	_	_	101	discourse	_	AlignBegin=84729|AlignEnd=84848|SpaceAfter=No
+5	.	.	PUNCT	_	_	4	punct	_	AlignBegin=84848|AlignEnd=84848
+6	mais	mais	CCONJ	_	_	101	cc	_	AlignBegin=84848|AlignEnd=84967|SpaceAfter=No
+7	,	,	PUNCT	_	_	4	punct	_	AlignBegin=84967|AlignEnd=84967
+8	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	101	unk@scrap	_	AlignBegin=84967|AlignEnd=85085|SpaceAfter=No
+9	,	,	PUNCT	_	_	10	punct	_	AlignBegin=85085|AlignEnd=85085
+10	si	si	SCONJ	_	_	101	conj:dicto	_	AlignBegin=85085|AlignEnd=85204|SpaceAfter=No
+11	.	.	PUNCT	_	_	146	punct	_	AlignBegin=85204|AlignEnd=85204
+12	ouais	ouais	INTJ	_	_	146	discourse	_	AlignBegin=87061|AlignEnd=87786
+13	et	et	CCONJ	_	_	146	cc	_	AlignBegin=88098|AlignEnd=88344
+14	du	du	ADP	_	_	146	discourse	_	AlignBegin=88344|AlignEnd=88589
+15	coup	coup	NOUN	_	Gender=Masc|Number=Sing	14	comp:obj	_	AlignBegin=88589|AlignEnd=88835|SpaceAfter=No
+16	,	,	PUNCT	_	_	14	punct	_	AlignBegin=88835|AlignEnd=88835
+17	euh	euh	INTJ	_	_	126	discourse	_	AlignBegin=88835|AlignEnd=89080|SpaceAfter=No
+18	,	,	PUNCT	_	_	17	punct	_	AlignBegin=89080|AlignEnd=89080
+19	et	et	CCONJ	_	_	14	cc	_	AlignBegin=89080|AlignEnd=89326
+20	du	du	ADP	_	_	118	conj:dicto	_	AlignBegin=89326|AlignEnd=89572
+21	coup	coup	NOUN	_	Gender=Masc|Number=Sing	20	comp:obj	_	AlignBegin=89572|AlignEnd=89817
+22	;	;	PUNCT	_	_	146	punct	_	AlignBegin=89817|AlignEnd=89817
+23	euh	euh	INTJ	_	_	28	discourse	_	AlignBegin=89817|AlignEnd=90063|SpaceAfter=No
+24	,	,	PUNCT	_	_	23	punct	_	AlignBegin=90063|AlignEnd=90063
+25	bah	bah	INTJ	_	_	28	discourse	_	AlignBegin=90063|AlignEnd=90309|SpaceAfter=No
+26	,	,	PUNCT	_	_	25	punct	_	AlignBegin=90309|AlignEnd=90309
+27	tu	il	PRON	_	Number=Sing|Person=2|PronType=Prs	28	subj	_	AlignBegin=90309|AlignEnd=90554
+28	es	être	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	10	conj:dicto	_	AlignBegin=90554|AlignEnd=90800|SpaceAfter=No
+29	,	,	PUNCT	_	_	30	punct	_	AlignBegin=90800|AlignEnd=90800
+30	NAME_A	NAME_A	PROPN	_	_	146	comp:pred	_	AlignBegin=90800|AlignEnd=91045|SpaceAfter=No
+31	,	,	PUNCT	_	_	150	punct	_	AlignBegin=91045|AlignEnd=91045
+32	voilà	voilà	VERB	_	_	150	discourse	_	AlignBegin=91045|AlignEnd=91291|SpaceAfter=No
+33	,	,	PUNCT	_	_	32	punct	_	AlignBegin=91291|AlignEnd=91291
+34	tu	il	PRON	_	Number=Sing|Person=2|PronType=Prs	35	subj	_	AlignBegin=91291|AlignEnd=91504
+35	es	être	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	28	conj:dicto	_	AlignBegin=91504|AlignEnd=91718
+36	venu	venir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	35	comp:aux@tense	_	AlignBegin=91718|AlignEnd=91931
+37	avec	avec	ADP	_	_	36	mod	_	AlignBegin=91931|AlignEnd=92144
+38	lui	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	37	comp:obj	_	AlignBegin=92144|AlignEnd=92357|SpaceAfter=No
+39	.	.	PUNCT	_	_	44	punct	_	AlignBegin=92357|AlignEnd=92357
+40	et	et	CCONJ	_	_	44	cc	_	AlignBegin=92357|AlignEnd=92571
+41	moi	lui	PRON	_	Number=Sing|Person=1|PronType=Prs	44	dislocated	_	AlignBegin=92571|AlignEnd=92784|SpaceAfter=No
+42	,	,	PUNCT	_	_	41	punct	_	AlignBegin=92784|AlignEnd=92784
+43	j'	il	PRON	_	Number=Sing|Person=1|PronType=Prs	44	subj	_	AlignBegin=92784|AlignEnd=92997|SpaceAfter=No
+44	attendais	attendre	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	146	conj:coord	_	AlignBegin=92997|AlignEnd=93210
+45	à	à	ADP	_	_	44	comp:obl	_	AlignBegin=93210|AlignEnd=93210
+46	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	47	det	_	AlignBegin=93210|AlignEnd=93424
+47	maison	maison	NOUN	_	Gender=Fem|Number=Sing	45	comp:obj	_	AlignBegin=93424|AlignEnd=93637|SpaceAfter=No
+48	,	,	PUNCT	_	_	47	punct	_	AlignBegin=93637|AlignEnd=93637
+49	euh	euh	INTJ	_	_	54	discourse	_	AlignBegin=93637|AlignEnd=93850|SpaceAfter=No
+50	.	.	PUNCT	_	_	60	punct	_	AlignBegin=93850|AlignEnd=93850
+51			PUNCT	_	_	47	punct	_	AlignBegin=93850|AlignEnd=93850
+52	ouais	ouais	INTJ	_	_	54	discourse	_	AlignBegin=93850|AlignEnd=94207|SpaceAfter=No
+53	,	,	PUNCT	_	_	52	punct	_	AlignBegin=94207|AlignEnd=94207
+54	de	de	ADP	_	_	47	mod	_	AlignBegin=94207|AlignEnd=94563
+55	chez	chez	ADP	_	_	54	comp:obj	_	AlignBegin=94563|AlignEnd=94920
+56	Maman	Maman	PROPN	_	_	55	comp:obj	_	AlignBegin=94920|AlignEnd=95276|SpaceAfter=No
+57	.	.	PUNCT	_	_	44	punct	_	AlignBegin=95276|AlignEnd=95276
+58	ouais	ouais	INTJ	_	_	44	discourse	_	AlignBegin=95276|AlignEnd=95498|SpaceAfter=No
+59	,	,	PUNCT	_	_	58	punct	_	AlignBegin=95498|AlignEnd=95498
+60	euh	euh	INTJ	_	_	65	discourse	_	AlignBegin=95498|AlignEnd=95720|SpaceAfter=No
+61	,	,	PUNCT	_	_	60	punct	_	AlignBegin=95720|AlignEnd=95720
+62	non	non	ADV	_	_	65	discourse	_	AlignBegin=95720|AlignEnd=95942|SpaceAfter=No
+63	,	,	PUNCT	_	_	62	punct	_	AlignBegin=95942|AlignEnd=95942
+64	j'	il	PRON	_	Number=Sing|Person=1|PronType=Prs	65	subj	_	AlignBegin=95942|AlignEnd=96164|SpaceAfter=No
+65	étais	être	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	146	conj:coord	_	AlignBegin=96164|AlignEnd=96386
+66	chez	chez	ADP	_	_	65	comp:obl	_	AlignBegin=96386|AlignEnd=96607
+67	Papa	Papa	PROPN	_	_	66	comp:obj	_	AlignBegin=96607|AlignEnd=96829|SpaceAfter=No
+68	,	,	PUNCT	_	_	71	punct	_	AlignBegin=96829|AlignEnd=96829
+69	il	il	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	71	subj@expl	_	AlignBegin=96829|AlignEnd=97051
+70	me	lui	PRON	_	Number=Sing|Person=1|PronType=Prs	71	comp:obl	_	AlignBegin=97051|AlignEnd=97273
+71	semble	sembler	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	65	discourse	_	AlignBegin=97273|AlignEnd=97495|SpaceAfter=No
+72	.	.	PUNCT	_	_	65	punct	_	AlignBegin=97495|AlignEnd=97495
+73	non	non	ADV	_	_	65	discourse	_	AlignBegin=98288|AlignEnd=98465|SpaceAfter=No
+74	.	.	PUNCT	_	_	73	punct	_	AlignBegin=98465|AlignEnd=98465
+75	non	non	ADV	_	_	78	discourse	_	AlignBegin=98465|AlignEnd=98643|SpaceAfter=No
+76	,	,	PUNCT	_	_	75	punct	_	AlignBegin=98643|AlignEnd=98643
+77	j'	il	PRON	_	Number=Sing|Person=1|PronType=Prs	78	subj	_	AlignBegin=98643|AlignEnd=98820|SpaceAfter=No
+78	étais	être	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	65	conj:coord	_	AlignBegin=98820|AlignEnd=98997
+79	chez	chez	ADP	_	_	78	comp:pred	_	AlignBegin=98997|AlignEnd=99175
+80	Maman	Maman	PROPN	_	_	79	comp:obj	_	AlignBegin=99175|AlignEnd=99352
+81	?	?	PUNCT	_	_	85	punct	_	AlignBegin=99352|AlignEnd=99352
+82	bah	bah	INTJ	_	_	85	discourse	_	AlignBegin=99352|AlignEnd=99569|SpaceAfter=No
+83	,	,	PUNCT	_	_	82	punct	_	AlignBegin=99569|AlignEnd=99569
+84	j'	il	PRON	_	Number=Sing|Person=1|PronType=Prs	85	subj	_	AlignBegin=99569|AlignEnd=99785|SpaceAfter=No
+85	étais	être	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin	78	conj:dicto	_	AlignBegin=99785|AlignEnd=100002
+86	chez	chez	ADP	_	_	85	comp:pred	_	AlignBegin=100002|AlignEnd=100219
+87	Maman	Maman	PROPN	_	_	86	comp:obj	_	AlignBegin=100219|AlignEnd=100436|SpaceAfter=No
+88	,	,	PUNCT	_	_	89	punct	_	AlignBegin=100436|AlignEnd=100436
+89	du	du	ADP	_	_	85	discourse	_	AlignBegin=100436|AlignEnd=100652
+90	coup	coup	NOUN	_	Gender=Masc|Number=Sing	89	comp:obj	_	AlignBegin=100652|AlignEnd=100869|SpaceAfter=No
+91	,	,	PUNCT	_	_	92	punct	_	AlignBegin=100869|AlignEnd=100869
+92	bref	bref	INTJ	_	_	101	discourse	_	AlignBegin=100869|AlignEnd=102047|SpaceAfter=No
+93	.	.	PUNCT	_	_	101	punct	_	AlignBegin=102047|AlignEnd=102047
+94	mais	mais	CCONJ	_	_	101	cc	_	AlignBegin=102047|AlignEnd=102214|SpaceAfter=No
+95	,	,	PUNCT	_	_	94	punct	_	AlignBegin=102214|AlignEnd=102214
+96	en	en	ADP	_	_	101	mod	_	AlignBegin=102214|AlignEnd=102380
+97	tout	tout	ADJ	_	_	98	mod	_	AlignBegin=102380|AlignEnd=102547
+98	cas	cas	NOUN	_	Gender=Masc|Number=Plur	96	comp:obj	_	AlignBegin=102547|AlignEnd=102714|SpaceAfter=No
+99	,	,	PUNCT	_	_	96	punct	_	AlignBegin=102714|AlignEnd=102714
+100	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	101	subj	_	AlignBegin=102714|AlignEnd=102881
+101	suis	être	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	AlignBegin=102881|AlignEnd=103047
+102	venu	venir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	101	comp:aux@tense	_	AlignBegin=103047|AlignEnd=103214|SpaceAfter=No
+103	,	,	PUNCT	_	_	105	punct	_	AlignBegin=103214|AlignEnd=103214
+104	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	105	subj	_	AlignBegin=103214|AlignEnd=103381
+105	suis	être	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	101	conj:dicto	_	AlignBegin=103381|AlignEnd=103548
+106	venu	venir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	105	comp:aux@tense	_	AlignBegin=103548|AlignEnd=103714|SpaceAfter=No
+107	,	,	PUNCT	_	_	110	punct	_	AlignBegin=103714|AlignEnd=103714
+108	euh	euh	INTJ	_	_	110	discourse	_	AlignBegin=103714|AlignEnd=103881|SpaceAfter=No
+109	,	,	PUNCT	_	_	108	punct	_	AlignBegin=103881|AlignEnd=103881
+110	chez	chez	ADP	_	_	106	comp:obl	_	AlignBegin=103881|AlignEnd=104175
+111	Papa	Papa	PROPN	_	_	110	comp:obj	_	AlignBegin=104175|AlignEnd=104469|SpaceAfter=No
+112	,	,	PUNCT	_	_	134	punct	_	AlignBegin=104469|AlignEnd=104469
+113	euh	euh	INTJ	_	_	116	discourse	_	AlignBegin=104469|AlignEnd=104764|SpaceAfter=No
+114	,	,	PUNCT	_	_	113	punct	_	AlignBegin=104764|AlignEnd=104764
+115	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	116	det	_	AlignBegin=104764|AlignEnd=105058
+116	matin	matin	NOUN	_	Gender=Masc|Number=Sing	106	mod	_	AlignBegin=105058|AlignEnd=105352|SpaceAfter=No
+117	,	,	PUNCT	_	_	118	punct	_	AlignBegin=105352|AlignEnd=105352
+118	en	en	ADP	_	_	146	mod	_	AlignBegin=105602|AlignEnd=105998
+119	attendant	attendre	VERB	_	Tense=Pres|VerbForm=Part	118	comp:obj	_	AlignBegin=105998|AlignEnd=106395
+120	que	que	SCONJ	_	_	119	comp:obj	_	AlignBegin=106395|AlignEnd=106791|SpaceAfter=No
+121	,	,	PUNCT	_	_	124	punct	_	AlignBegin=106791|AlignEnd=106791
+122	euh	euh	INTJ	_	_	124	discourse	_	AlignBegin=106791|AlignEnd=107187|SpaceAfter=No
+123	,	,	PUNCT	_	_	122	punct	_	AlignBegin=107187|AlignEnd=107187
+124	que	que	SCONJ	_	_	120	conj:dicto	_	AlignBegin=108138|AlignEnd=108432|SpaceAfter=No
+125	,	,	PUNCT	_	_	126	punct	_	AlignBegin=108432|AlignEnd=108432
+126	que	que	SCONJ	_	_	124	conj:dicto	_	AlignBegin=108432|AlignEnd=108726
+127	vous	il	PRON	_	Number=Plur|Person=2|PronType=Prs	128	subj	_	AlignBegin=108726|AlignEnd=109021
+128	arriviez	arriviez	VERB	_	Mood=Ind|Number=Plur|Person=2|Tense=Imp|VerbForm=Fin	126	comp:obj	_	AlignBegin=109021|AlignEnd=109315|SpaceAfter=No
+129	,	,	PUNCT	_	_	136	punct	_	AlignBegin=109315|AlignEnd=109315
+130	quoi	quoi	INTJ	_	_	128	discourse	_	AlignBegin=109315|AlignEnd=109609|SpaceAfter=No
+131	.	.	PUNCT	_	_	130	punct	_	AlignBegin=109609|AlignEnd=109609
+132	euh	euh	INTJ	_	_	134	discourse	_	AlignBegin=111127|AlignEnd=111146|SpaceAfter=No
+133	,	,	PUNCT	_	_	132	punct	_	AlignBegin=111146|AlignEnd=111146
+134	non	non	ADV	_	_	128	discourse	_	AlignBegin=111146|AlignEnd=111164|SpaceAfter=No
+135	.	.	PUNCT	_	_	136	punct	_	AlignBegin=111164|AlignEnd=111164
+136	non	non	ADV	_	_	134	discourse	_	AlignBegin=111164|AlignEnd=111183
+137	?	?	PUNCT	_	_	138	punct	_	AlignBegin=111183|AlignEnd=111183
+138	non	non	ADV	_	_	136	discourse	_	AlignBegin=111183|AlignEnd=111202|SpaceAfter=No
+139	.	.	PUNCT	_	_	138	punct	_	AlignBegin=111202|AlignEnd=111202
+140	eh	eh	INTJ	_	_	118	discourse	_	AlignBegin=111202|AlignEnd=111220
+141	bien	bien	ADV	_	_	175	discourse	_	AlignBegin=111220|AlignEnd=111239|SpaceAfter=No
+142	,	,	PUNCT	_	_	141	punct	_	AlignBegin=111239|AlignEnd=111239
+143	euh	euh	INTJ	_	_	28	discourse	_	AlignBegin=111239|AlignEnd=111258|SpaceAfter=No
+144	,	,	PUNCT	_	_	143	punct	_	AlignBegin=111258|AlignEnd=111258
+145	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	146	subj	_	AlignBegin=111258|AlignEnd=111277
+146	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	comp:obj	_	AlignBegin=111277|AlignEnd=111295
+147	venu	venir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	146	comp:aux@tense	_	AlignBegin=111295|AlignEnd=111314|SpaceAfter=No
+148	,	,	PUNCT	_	_	150	punct	_	AlignBegin=111314|AlignEnd=111314
+149	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	150	subj	_	AlignBegin=111314|AlignEnd=111333
+150	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	146	conj:dicto	_	AlignBegin=111333|AlignEnd=111351
+151	venu	venir	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	150	comp:aux@tense	_	AlignBegin=111351|AlignEnd=111370|SpaceAfter=No
+152	,	,	PUNCT	_	_	156	punct	_	AlignBegin=111370|AlignEnd=111370
+153	euh	euh	INTJ	_	_	54	discourse	_	AlignBegin=111370|AlignEnd=111389|SpaceAfter=No
+154	,	,	PUNCT	_	_	52	punct	_	AlignBegin=111389|AlignEnd=111389
+155	on	on	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Ind	156	subj	_	AlignBegin=111389|AlignEnd=111407
+156	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	150	conj:dicto	_	AlignBegin=111407|AlignEnd=111426
+157	rentré	rentrer	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	156	comp:aux@tense	_	AlignBegin=111426|AlignEnd=111445|SpaceAfter=No
+158	,	,	PUNCT	_	_	159	punct	_	AlignBegin=111445|AlignEnd=111445
+159	chez	chez	ADP	_	_	157	mod	_	AlignBegin=111445|AlignEnd=111464
+160	Papa	Papa	PROPN	_	_	159	comp:obj	_	AlignBegin=111464|AlignEnd=111482|SpaceAfter=No
+161	.	.	PUNCT	_	_	159	punct	_	AlignBegin=111482|AlignEnd=111482
+162	mh	mh	INTJ	_	_	159	discourse	_	AlignBegin=111482|AlignEnd=111501
+163	mh	mh	INTJ	_	_	162	discourse	_	AlignBegin=111501|AlignEnd=111520|SpaceAfter=No
+164	.	.	PUNCT	_	_	162	punct	_	AlignBegin=111520|AlignEnd=111520
+165	avec	avec	ADP	_	_	157	mod	_	AlignBegin=111520|AlignEnd=111538
+166	Rambo	Rambo	PROPN	_	_	165	comp:obj	_	AlignBegin=111538|AlignEnd=111557|SpaceAfter=No
+167	.	.	PUNCT	_	_	175	punct	_	AlignBegin=111557|AlignEnd=111557
+168	ouais	ouais	INTJ	_	_	175	discourse	_	AlignBegin=118198|AlignEnd=118218|SpaceAfter=No
+169	.	.	PUNCT	_	_	168	punct	_	AlignBegin=118218|AlignEnd=118218
+170	et	et	CCONJ	_	_	175	cc	_	AlignBegin=118218|AlignEnd=118238
+171	après	après	ADV	_	_	175	mod	_	AlignBegin=118238|AlignEnd=118257|SpaceAfter=No
+172	,	,	PUNCT	_	_	171	punct	_	AlignBegin=118257|AlignEnd=118257
+173	je	il	PRON	_	Number=Sing|Person=1|PronType=Prs	175	subj	_	AlignBegin=118257|AlignEnd=118277
+174	t'	le	PRON	_	_	176	comp:obl	_	AlignBegin=118277|AlignEnd=118297|SpaceAfter=No
+175	ai	avoir	AUX	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	146	conj:coord	_	AlignBegin=118297|AlignEnd=118317
+176	envoyée	envoyer	VERB	_	Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part	175	comp:aux@tense	_	AlignBegin=118317|AlignEnd=118337
+177	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	178	det	_	AlignBegin=118337|AlignEnd=118357
+178	message	message	NOUN	_	Gender=Masc|Number=Sing	176	comp:obj	_	AlignBegin=118357|AlignEnd=118376|SpaceAfter=No
+179	,	,	PUNCT	_	_	180	punct	_	AlignBegin=118376|AlignEnd=118376
+180	pour	pour	ADP	_	_	176	mod	_	AlignBegin=118376|AlignEnd=118396
+181	te	lui	PRON	_	Number=Sing|Person=2|PronType=Prs	182	comp:obl	_	AlignBegin=118396|AlignEnd=118416
+182	dire	dire	VERB	_	VerbForm=Inf	180	comp:obj	_	AlignBegin=118416|AlignEnd=118436
+183	de	de	ADP	_	_	182	comp:obl	_	AlignBegin=118436|AlignEnd=118456
+184	venir	venir	VERB	_	VerbForm=Inf	183	comp:obj	_	AlignBegin=118456|AlignEnd=118475
+185	voir	voir	VERB	_	VerbForm=Inf	184	comp:obj	_	AlignBegin=118475|AlignEnd=118495
+186	Rambo	Rambo	PROPN	_	_	185	comp:obj	_	AlignBegin=118495|AlignEnd=118515|SpaceAfter=No
+187	.	.	PUNCT	_	_	101	punct	_	AlignBegin=118515|AlignEnd=118515
+
