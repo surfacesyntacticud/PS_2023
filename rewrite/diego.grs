@@ -1,0 +1,81 @@
+package correction {
+
+
+
+      rule MF_un_petit_peu {
+	pattern { N1 [form="un"]; N2 [form="petit"]; N3 [form="peu"]; N1 < N2; N2 < N3 }
+	without { N1.InIdiom = "Yes" ; N2.Indiom = "Yes" ; N3.ExtPos = "ADV" ; N3.Idiom = "Yes"}
+	commands { N1.InIdiom = "Yes" ; N2.Indiom = "Yes" ; N3.ExtPos = "ADV" ; N3.Idiom = "Yes"}
+  }
+      rule pron_verbs {
+	pattern { N1 [form="je"]; N2 [lemma="lui"];  N3 [lemma="être"]; N4 [upos="VERB"]; N1 < N2; N2 < N3; N3 << N4 ; e: N4-[comp:obj]->N2 ; e2: N3->N4}
+	commands {
+   	 del_edge e;
+    	add_edge N4-[comp@expl]->N2;
+      }
+  }
+      rule separate_du_ADP {
+	pattern {
+   	 N [form="du", upos=ADP];
+    	 N -[comp:obj]-> M
+	}
+	commands {
+   	add_node D :> N;
+	N.form = "de";
+    	N.upos = "ADP";
+    	N.lemma = "de";
+    	D.form = "le";
+    	D.upos = "DET";
+    	D.lemma = "le";
+    	D.Definite = "Def";
+    	D.Gender = "Masc";
+    	D.Number = "Sing";
+    	D.PronType = "Art";
+    	add_edge M -[det]-> D
+	}
+  }
+      rule separate_au_ADP {
+	pattern {
+   	 N [form="au", upos=ADP];
+    	 N -[comp:obj]-> M
+	}
+	commands {
+   	add_node D :> N;
+    	N.form = "à";
+    	N.upos = "ADP";
+    	N.lemma = "à";
+    	D.form = "le";
+    	D.upos = "DET";
+    	D.lemma = "le";
+    	D.Definite = "Def";
+    	D.Gender = "Masc";
+    	D.Number = "Sing";
+    	D.PronType = "Art";
+    	add_edge M -[det]-> D
+	}
+  }
+      rule separate_aux_ADP {
+	pattern {
+   	 N [form="aux", upos=ADP];
+    	 N -[comp:obj]-> M
+	}
+	commands {
+   	add_node D :> N;
+    	N.form = "à";
+    	N.upos = "ADP";
+    	N.lemma = "à";
+    	D.form = "les";
+    	D.upos = "DET";
+    	D.lemma = "le";
+    	D.Definite = "Def";
+    	D.Number = "Plur";
+    	D.PronType = "Art";
+    	add_edge M -[det]-> D
+	}
+  }
+}
+
+
+strat main {
+  Onf (correction)
+}
