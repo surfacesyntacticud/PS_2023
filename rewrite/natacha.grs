@@ -7,7 +7,7 @@ package correction {
  del_edge e; 
 } 
 }
-  rule pronom y {
+  rule pronom_y {
  pattern { e:GOV -[subj]-> DEP ;e2:GOV-[comp]->PRON;DEP[form="il"];PRON[form="y"];GOV[lemma="avoir"]}
 
 	commands { del_edge e;
@@ -24,7 +24,7 @@ strat main{
 }
 
 
-  	rule  lemma je {
+  	rule  lemma_je {
     pattern {
   	  N [form="je", lemma=il];
    	    }
@@ -32,7 +32,7 @@ strat main{
   	  N.lemma = "je";
    	    }
   }
-  	rule  lemma tu{
+  	rule  lemma_tu{
     pattern {
   	  N [form="tu", lemma=il];
    	    }
