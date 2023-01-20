@@ -1,0 +1,11 @@
+package correction {
+  rule lemma_en_fait {
+    pattern { X -[comp:obj]-> N ; N [form="fait", upos=NOUN] ; X [form="en", upos=ADP] }
+    without { N.lemma = fait }
+    commands { N.lemma = fait }
+  }
+}
+
+strat main {
+  Onf (correction)
+}
