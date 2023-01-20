@@ -1,0 +1,36 @@
+package correction {
+  rule det {
+ pattern {
+ N[upos=NOUN];X[upos<>DET];e: N -[det]-> X
+}
+ commands {
+ del_edge e; 
+} 
+}
+  rule pronom y {
+ pattern { e:GOV -[subj]-> DEP ;e2:GOV-[comp]->PRON;DEP[form="il"];PRON[form="y"]}
+
+	commands { del_edge e;
+   			 del_edge e2;
+            	add_edge GOV-[subj@expl]->DEP;
+            	add_edge GOV-[comp@expl]->PRON;}
+  }
+
+}
+  rule pronom c{
+ pattern {
+e:GOV -[subj]-> DEP ;DEP[form="c'"]
+}
+ commands {
+ del_edge e; 
+add_edge GOV-[subj@expl]-> DEP
+
+} 
+}
+}
+
+strat main{
+  Onf (correction)
+}
+
+
