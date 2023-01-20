@@ -16,36 +16,62 @@ package correction {
   }
       rule separate_du_ADP {
 	pattern {
-		 N [form="du", upos=ADP];
-		 N -[comp:obj]-> M ;
-		 N2 [form="du" , upos=ADP] ;
-		 N2 -[conj:dicto]-> N
+   	 N [form="du", upos=ADP];
+    	 N -[comp:obj]-> M
 	}
 	commands {
-		add_node D :> N;
-		N.form = "de";
-		N.upos = "ADP";
-		N.lemma = "de";
-		D.form = "le";
-		D.upos = "DET";
-		D.lemma = "le";
-		D.Definite = "Def";
-		D.Gender = "Masc";
-		D.Number = "Sing";
-		D.PronType = "Art";
-		add_edge M -[det]-> D ;   
-		add_node D2 :> N2;
-			N2.form = "de";
-		N2.upos = "ADP";
-		N2.lemma = "de";
-		D2.form = "le";
-		D2.upos = "DET";
-		D2.lemma = "le";
-		D2.Definite = "Def";
-		D2.Gender = "Masc";
-		D2.Number = "Sing";
-		D2.PronType = "Art";
-		add_edge N2 -[comp:obj@scrap]-> D2 ;
+   	add_node D :> N;
+	N.form = "de";
+    	N.upos = "ADP";
+    	N.lemma = "de";
+    	D.form = "le";
+    	D.upos = "DET";
+    	D.lemma = "le";
+    	D.Definite = "Def";
+    	D.Gender = "Masc";
+    	D.Number = "Sing";
+    	D.PronType = "Art";
+    	add_edge M -[det]-> D
+	}
+  }
+      rule separate_du_ADP2 {
+	pattern {
+   	 N [form="du", upos=ADP];
+    	 N -[conj:dicto]-> M
+	}
+	commands {
+   	add_node D :> N;
+	N.form = "de";
+    	N.upos = "ADP";
+    	N.lemma = "de";
+    	D.form = "le";
+    	D.upos = "DET";
+    	D.lemma = "le";
+    	D.Definite = "Def";
+    	D.Gender = "Masc";
+    	D.Number = "Sing";
+    	D.PronType = "Art";
+    	add_edge N -[comp:obj@scrap]-> D
+	}
+  }
+      rule separate_au_ADP {
+	pattern {
+   	 N [form="au", upos=ADP];
+    	 N -[comp:obj]-> M
+	}
+	commands {
+   	add_node D :> N;
+    	N.form = "à";
+    	N.upos = "ADP";
+    	N.lemma = "à";
+    	D.form = "le";
+    	D.upos = "DET";
+    	D.lemma = "le";
+    	D.Definite = "Def";
+    	D.Gender = "Masc";
+    	D.Number = "Sing";
+    	D.PronType = "Art";
+    	add_edge M -[det]-> D
 	}
   }
       rule separate_aux_ADP {
