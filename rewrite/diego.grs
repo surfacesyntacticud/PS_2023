@@ -93,7 +93,7 @@ package correction {
     	add_edge N4-[comp@expl]->N2;
       }
   }
-
+}
 
 strat main {
   Onf (correction)
