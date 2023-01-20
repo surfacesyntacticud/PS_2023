@@ -7,6 +7,7 @@ package correction {
  del_edge e; 
 } 
 }
+}
   rule pronom y {
  pattern { e:GOV -[subj]-> DEP ;e2:GOV-[comp]->PRON;DEP[form="il"];PRON[form="y"]}
 
