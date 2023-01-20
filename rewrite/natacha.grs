@@ -19,9 +19,6 @@ package correction {
 }
   
 
-strat main{
-  Onf (correction)
-}
 
 
   	rule  lemma_je {
@@ -40,3 +37,7 @@ strat main{
   	  N.lemma = "tu";
    	    }
   }
+  strat main{
+  Onf (correction)
+}
+
