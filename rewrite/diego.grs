@@ -86,21 +86,13 @@ package correction {
     	add_edge M -[det]-> D
 	}
   }
-	rule pron_verbs {
-	  pattern {
-	    N1 [form="je"] ; N2 [lemma=lex.form] ; N3 [lemma="être"] ; N4 [upos="VERB"]; N1 <N2 ; N2 < N3 ; N3 << N4 ; e: N4-[comp:obj]->N2 ; e2: N3→N4
-		  }
-	   commands {
-		del_edge e;
-		add_edge N4-[comp@expl]->N2;
-		  }
-#BEGIN lex
-form	wordform
-%----------------------
-assise	assise
-#END
-   }
-}
+      rule pron_verbs {
+	pattern { N1 [form="je"]; N2 [lemma="lui"];  N3 [lemma="être"]; N4 [form="assise"]; N1 < N2; N2 < N3; N3 << N4 ; e: N4-[comp:obj]->N2 ; e2: N3->N4}
+	commands {
+   	 del_edge e;
+    	add_edge N4-[comp@expl]->N2;
+      }
+  }
 
 
 strat main {
