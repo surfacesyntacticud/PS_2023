@@ -1,4 +1,12 @@
 package correction {
+ rule pass{
+ pattern { GOV -[comp:aux@pass]-> DEP;e:GOV-[subj]->X }
+
+	commands { del_edge e;
+   			 
+            	add_edge GOV-[subj@pass]->X;
+            	}
+  }
   rule det {
  pattern {
  N[upos=NOUN];X[upos<>DET];e: N -[det]-> X
@@ -21,7 +29,7 @@ package correction {
 
 
 
-  	rule  lemma_je {
+  rule  lemma_je {
     pattern {
   	  N [form="je", lemma=il];
    	    }
@@ -29,7 +37,7 @@ package correction {
   	  N.lemma = "je";
    	    }
   }
-  	rule  lemma_tu{
+  rule  lemma_tu{
     pattern {
   	  N [form="tu", lemma=il];
    	    }
@@ -37,6 +45,17 @@ package correction {
   	  N.lemma = "tu";
    	    }
   }
+  rule  lemma_nous{
+    pattern {
+  	 N [form="nous", lemma=il];
+   	    }
+    commands {
+  	  N.lemma = "nous";
+   	    }
+  }
+
+   
+
   strat main{
   Onf (correction)
 }
