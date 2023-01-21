@@ -1,0 +1,28 @@
+package correction {
+
+     rule sujet_repetition {
+    pattern { e1 : N -[1=subj]-> N1; e2 : N -[1=subj]-> N2; N1 << N2; N1.form=N2.form}
+    without { N -[subj@expl]-> N1}
+    without { N -[subj@expl]-> N2}
+    
+    commands {
+      del_edge e2;
+      add_edge N1-[conj:dicto]->N2
+    }
+  }
+    
+    
+
+  rule obl_vers_obj {
+pattern { e : V-[comp:obl]-> N; N[upos="NOUN", lemma="guitare"|"gens"|"appréhensions"|"rapprochements"|"bien"]}
+
+    commands {
+      e.2 ="obj"
+      
+    }
+  }
+}
+
+strat main {
+  Onf (correction)
+}
