@@ -1,0 +1,24 @@
+package correction {
+
+    rule MF_parce_que {
+        pattern {N1 [form="parce"]; N2 [form="que"]; N1 < N2}
+        without {N1.ExtPos = "SCONJ" ; N1.Idiom = "Yes" ; N2.InIdiom = "Yes"}
+        commands {N1.ExtPos = "SCONJ" ; N1.Idiom = "Yes" ; N2.InIdiom = "Yes"}
+    }
+
+    rule polarity_neg {
+        pattern { N [form="pas", upos=ADV] }
+        without { N.Polarity = Neg }
+        commands { N.Polarity = Neg }
+    }
+
+    rule poss_yes {
+        pattern { N [lemma="son", upos="DET"] }
+        without { N.Poss = Yes }
+        commands { N.Poss = Yes }
+    }
+}
+
+strat main {
+  Onf (correction)
+}
