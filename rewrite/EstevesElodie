@@ -1,0 +1,12 @@
+package correction {
+  rule subj_expl {
+    pattern { e: GOV -[subj]-> DEP; GOV [upos=VERB, lemma="avoir"]; DEP [form="il"]; GOV->P; P [upos=PRON, form="y"] }
+    
+    commands { del_edge e;
+            	add_edge GOV-[subj@expl]->DEP;}
+  }
+}
+
+strat main {
+  Onf (correction)
+}
