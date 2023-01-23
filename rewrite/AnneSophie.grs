@@ -1,0 +1,26 @@
+package correction {
+rule lemma_de_conj_dicto {
+pattern { GOV -[conj:dicto]->DEP; DEP [upos=ADP, lemma="de"]; GOV [lemma="de"] }
+without {GOV [upos=ADP|X]}
+commands {GOV.upos=ADP}
+}
+rule lemma_se_conj_dicto {
+pattern { e: GOV -[conj:dicto]-> DEP; GOV [upos=PRON, lemma="se"]; DEP
+[upos=PRON] }
+without {DEP [lemma="se"]}
+commands {del_edge e}
+}
+rule conjdicto_replaced_by_comppred {
+pattern { e: GOV -[conj:dicto]-> DEP; GOV [lemma="être", upos=AUX]; DEP [upos=ADP,
+lemma="de"] }
+commands {del_edge e; add_edge GOV -[comp:pred]->DEP}
+}
+rule change_compobj_with_conjdicto {
+pattern { N [upos=PRON, lemma="le"]; V [upos=VERB]; e: V-[conj:dicto]->N; S[upos=PRON,
+lemma="le"]; V-[comp:obj]->S }
+commands {del_edge e; add_edge S-[conj:dicto]->N}
+}
+}
+strat main {
+Onf (correction)
+}
